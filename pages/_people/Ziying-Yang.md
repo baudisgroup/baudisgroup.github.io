@@ -34,4 +34,4 @@ tags:
 | 2013 - 2017 | Bachelor of Digital Media Technology, Yunnan University, China |
 | __Employment__ |     |
 | 2017 - current | PhD candidate in Life Science Zurich Graduate School, University of Zurich, Switzerland |
-| 2017.04 - 2017.07 | Technologist in Yunnan Yitian Company, China|
+| 2017.04-2017.07 | Technologist in Yunnan Yitian Company, China|
