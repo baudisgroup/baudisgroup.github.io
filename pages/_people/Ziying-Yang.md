@@ -30,8 +30,8 @@ tags:
 | Hobbies | Hiking, music, travel |
 | __Education__ |     |
 | 2020 – current | Research thesis in data-driven cancer genomics, Institute of Molecular Life Sciences, University of Zurich, Switzerland |
-| 2017 - 2020 | Master of Compter Application Technology, Southwest University, Chongqing, China |
+| 2017 - 2020 | Master of Computer Application Technology, Southwest University, Chongqing, China |
 | 2013 - 2017 | Bachelor of Digital Media Technology, Yunnan University, China |
 | __Employment__ |     |
-| 2017 - current | PhD candidate in Life Science Zurich Graduate School, University of Zurich, Switzerland |
+| 2020 - current | PhD candidate in Life Science Zurich Graduate School, University of Zurich, Switzerland |
 | 2017.04-2017.07 | Technologist in Yunnan Yitian Company, China|
