@@ -16,7 +16,7 @@ pdf_file_name: 2020-10-30___Qingyao__DMLS-progress-report__progenetix_update.pdf
 pdf_file_type: slides
 ---
 
-## {{page.title}}
+## Update of Progenetix Oncogenomics Resource
 #### [Research Progress Report, DMLS, University of Zurich](https://www.mls.uzh.ch/en/seminars.html)
 ### Qingyao Huang
 
