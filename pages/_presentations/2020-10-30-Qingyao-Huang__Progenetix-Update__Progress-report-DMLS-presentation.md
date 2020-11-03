@@ -24,4 +24,7 @@ Copy number aberration (CNA) is frequently observed in cancer genomes. Meta-anal
 
 Since last release, there have been significant expansion on sample number, cancer type diversity, publications, study cohorts and technology platforms, improvements on data quality, ontology representation, as well as stuctural changes in terms of database schema, and data access including web interface. In this presentation, we detail the 2020 update of the Progenetix in six aspects: 1. Introduction, 2 New meta-data features with domain-specific mapping, 3 Data sources with sample expansion and process pipeline, 4 Data standard and object model, 5 Adopted Beacon protocol and associated features, 6 New web interface and features. 
 
-progenetix.org
+#### Additional Links
+* [Video Recording of Presentation](https://progenetix.org/storage-ext/2020-10-30___Qingyao__DMLS_progress_report_recording.mp4)
+* [Beacon Website](http://beacon-project.io)
+
