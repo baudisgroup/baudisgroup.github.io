@@ -11,7 +11,6 @@ tags:
   - presentation
   - Beacon
   - GA4GH
-
 pdf_file_name: 2020-10-30___Qingyao__DMLS-progress-report__progenetix_update.pdf
 pdf_file_type: slides
 ---
@@ -26,5 +25,6 @@ Since last release, there have been significant expansion on sample number, canc
 
 #### Additional Links
 * [Video Recording of Presentation](https://progenetix.org/storage-ext/2020-10-30___Qingyao__DMLS_progress_report_recording.mp4)
+* [Progenetix Website](http://progenetix.org)
 * [Beacon Website](http://beacon-project.io)
 
