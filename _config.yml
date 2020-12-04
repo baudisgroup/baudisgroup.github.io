@@ -19,7 +19,7 @@ keywords:
 site_domain_name: info.baudisgroup.org
 url: 'https://info.baudisgroup.org'
 baseurl: ""
-site_parent_link: 'http://www.imls.uzh.ch/en/research/baudis.html'
+site_parent_link: 'https://www.mls.uzh.ch/en/research/baudis.html'
 
 # instructions for processing specific directories
 
@@ -81,18 +81,18 @@ tags-date-sorted:
   - talk
 
 related_sites:
-  'Baudisgroup Internal': 'http://internal.baudisgroup.org'
+  'Baudisgroup Internal': 'https://internal.baudisgroup.org'
   'Progenetix': 'https://progenetix.org'
   'arrayMap': 'https://arraymap.org'
   'Beacon<span style="color: red; font-weight: 800;">+</span>': 'http://beacon.progenetix.org/ui/'
-  'Beacon': 'http://ga4gh-beacon.github.io'
+  'Beacon': 'https://ga4gh-beacon.github.io'
   'GA4GH::Discovery': 'http://ga4gh-discovery.github.io'
-  CompbioZurich: 'http://compbiozurich.org'
+  CompbioZurich: 'https://compbiozurich.org'
 
 github_projects:
-  baudisgroup: 'http://github.com/baudisgroup/'
-  progenetix: 'http://github.com/progenetix/'
-  'ELIXIR Beacon': 'http://github.com/ga4gh-beacon/'
+  baudisgroup: 'https://github.com/baudisgroup/'
+  progenetix: 'https://github.com/progenetix/'
+  'ELIXIR Beacon': 'https://github.com/ga4gh-beacon/'
 
 cloud_tags:
   - API
