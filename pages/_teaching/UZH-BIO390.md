@@ -6,6 +6,7 @@ author: "@mbaudis"
 excerpt_separator: <!--more-->
 permalink: '/teaching/UZH-BIO390.html'
 www_link: 'https://compbiozurich.org/UZH-BIO390/'
+excerpt_link: https://compbiozurich.org/UZH-BIO390/
 www_links_formatted:
 image_file:
 category:
