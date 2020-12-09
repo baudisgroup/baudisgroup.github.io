@@ -29,7 +29,7 @@ tags:
 | Date of birth | 1967-11-11 |
 | Nationality | Germany |
 | Family | Married since 1991, two children |
-| email | [m@baud.is](mailto:m@baud.is) |
+| email | [michael@baud.is](mailto:michael@baud.is) |
 | __Education__ |     |
 | 2001 – 2003 | Postdoctoral Research Fellow, Pathology Department, Stanford University, U.S.A. |
 | 1994 – 1998 | Research thesis in molecular cytogenetics, German Cancer Research Center (DKFZ) & University of Heidelberg, Germany |
