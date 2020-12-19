@@ -32,7 +32,7 @@ Specific projects explore computational methods, genomics of selected tumour ent
 
 {%- assign this_name = "news" -%}
 {%- assign this_category = "news" -%}
-{%- assign max_list = 3 -%}
+{%- assign max_list = 5 -%}
 {%- assign count_list = 0 -%}
 
 {%- assign cat_posts = site.emptyArray -%}
