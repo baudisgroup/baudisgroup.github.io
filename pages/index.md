@@ -15,11 +15,11 @@ Specific projects explore computational methods, genomics of selected tumour ent
 
 ### Some Projects
 
+* [bycon](https://github.com/progenetix/bycon) at Github in __Progenetix__
 * [segment-liftover](https://github.com/baudisgroup/segment-liftover) at Github __baudisgroup__
     * [publication](http://info.baudisgroup.org/publications/2018/03/14/segment_liftover.html)
 * [SNP2pop](https://github.com/baudisgroup/snp2pop) at Github __baudisgroup__
     * [publication at ScientificReports](https://www.nature.com/articles/s41598-020-61854-x)
-* [OncoPubs](https://github.com/progenetix/oncopubs) at Github in __Progenetix__
 * [ICDOntologies](https://github.com/progenetix/ICDOntologies) at Github in __Progenetix__
 
 
