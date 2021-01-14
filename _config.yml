@@ -96,6 +96,7 @@ github_projects:
 
 cloud_tags:
   - API
+  - EFO
   - Perl
   - Python
   - abstract
@@ -107,6 +108,7 @@ cloud_tags:
   - maps
   - markdown
   - mongodb
+  - ontologies
   - outreach
   - poster
   - presentation
