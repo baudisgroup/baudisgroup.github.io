@@ -45,17 +45,14 @@ by requesting terms relevant for genomic and metadata e.g. for [EFO](https://www
 
 * **Preferred term label**: abnormal sample
 * **Synonyms**
-  - germline reference sample
-  - baseline reference sample
-  - non-neoplastic sample
-  - inherited reference sample
-  - native sample
+  - abnormal tissue sample
+  - altered sample
 * **Textual definition**: A material sample derived from cells or tissue representing an observed or suspected physiologically, genomically or phenotypically abnormal state
 * **Parent term**: [OBI:0000747](http://purl.obolibrary.org/obo/OBI_0000747) material sample
 * submitted 2019-02-08 <https://github.com/EBISPOT/efo/issues/365>
 * live 2019-02-013
 
-#### Reference Sample ([EFO:0009656](http://www.ebi.ac.uk/efo/EFO_0009656))
+#### Neoplastic Sample ([EFO:0009656](http://www.ebi.ac.uk/efo/EFO_0009656))
 
 * **Preferred term label**: neoplastic sample
 * **Synonyms**
