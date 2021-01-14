@@ -15,6 +15,7 @@ category:
 tags:
   - code
   - ontologies
+  - EFO
 ---
 
 ## {{ page.title }}
