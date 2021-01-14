@@ -1,6 +1,7 @@
 ---
-title: "Onmtology Term Contributions"
+title: "Ontology Term Contributions"
 date: 2021-01-14
+permalink: /howto/ontology-term-contributions/
 layout: default
 author: '@mbaudis'
 excerpt_separator: <!--more-->
