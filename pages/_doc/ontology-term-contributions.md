@@ -27,42 +27,6 @@ by requesting terms relevant for genomic and metadata e.g. for [EFO](https://www
 
 ### EFO Terms for cancer sample material
 
-#### Metastasis Sample ([EFO:0010941](http://www.ebi.ac.uk/efo/EFO_0010941))
-
-* **Preferred term label**: metastasis sample
-* **Synonyms**
-  - metastasis
-* **Textual definition**: A neoplastic sample derived from a cancer metastasis (not from a primary tumor).
-* **Parent term**: [EFO:0009656](http://www.ebi.ac.uk/efo/EFO_0009656) neoplastic sample
-* submitted 2020-12-16 <https://github.com/EBISPOT/efo/issues/917>
-* live 2021-01-18
-
-#### Primary Tumor Sample ([EFO:0010942](http://www.ebi.ac.uk/efo/EFO_0010942))
-
-* **Preferred term label**: primary tumor sample
-* **Synonyms**
-  - primary tumor
-  - primary neoplasia
-  - primary tumour sample
-  - primary neoplasia sample
-* **Textual definition**: A neoplastic sample derived from a primary tumor (not from a cancer metastasis).
-* **Parent term**: [EFO:0009656](http://www.ebi.ac.uk/efo/EFO_0009656) neoplastic sample
-* submitted 2020-12-16 <https://github.com/EBISPOT/efo/issues/918>
-* live 2021-01-18
-
-#### Recurrent Tumor Sample ([EFO:0010943](http://www.ebi.ac.uk/efo/EFO_0010943))
-
-* **Preferred term label**: recurrent tumor sample
-* **Synonyms**
-  - recurrent tumor
-  - recurrent neoplasia
-  - recurrent tumour sample
-  - recurrent neoplasia sample
-* **Textual definition**: A neoplastic sample derived from a recurrent tumor (not from a primary occurrence of a neoplasm).
-* **Parent term**: [EFO:0009656](http://www.ebi.ac.uk/efo/EFO_0009656) neoplastic sample
-* submitted 2020-12-16 <https://github.com/EBISPOT/efo/issues/919>
-* live 2021-01-18
-
 #### Reference Sample ([EFO:0009654](http://www.ebi.ac.uk/efo/EFO_0009654))
 
 * **Preferred term label**: reference sample
@@ -100,3 +64,39 @@ by requesting terms relevant for genomic and metadata e.g. for [EFO](https://www
 * **Parent term**: [EFO:0009655](http://www.ebi.ac.uk/efo/EFO_0009655) abnormal sample
 * submitted 2019-02-08 <https://github.com/EBISPOT/efo/issues/365>
 * live 2019-02-013
+
+#### Metastasis Sample ([EFO:0010941](http://www.ebi.ac.uk/efo/EFO_0010941))
+
+* **Preferred term label**: metastasis sample
+* **Synonyms**
+  - metastasis
+* **Textual definition**: A neoplastic sample derived from a cancer metastasis (not from a primary tumor).
+* **Parent term**: [EFO:0009656](http://www.ebi.ac.uk/efo/EFO_0009656) neoplastic sample
+* submitted 2020-12-16 <https://github.com/EBISPOT/efo/issues/917>
+* live 2021-01-18
+
+#### Primary Tumor Sample ([EFO:0010942](http://www.ebi.ac.uk/efo/EFO_0010942))
+
+* **Preferred term label**: primary tumor sample
+* **Synonyms**
+  - primary tumor
+  - primary neoplasia
+  - primary tumour sample
+  - primary neoplasia sample
+* **Textual definition**: A neoplastic sample derived from a primary tumor (not from a cancer metastasis).
+* **Parent term**: [EFO:0009656](http://www.ebi.ac.uk/efo/EFO_0009656) neoplastic sample
+* submitted 2020-12-16 <https://github.com/EBISPOT/efo/issues/918>
+* live 2021-01-18
+
+#### Recurrent Tumor Sample ([EFO:0010943](http://www.ebi.ac.uk/efo/EFO_0010943))
+
+* **Preferred term label**: recurrent tumor sample
+* **Synonyms**
+  - recurrent tumor
+  - recurrent neoplasia
+  - recurrent tumour sample
+  - recurrent neoplasia sample
+* **Textual definition**: A neoplastic sample derived from a recurrent tumor (not from a primary occurrence of a neoplasm).
+* **Parent term**: [EFO:0009656](http://www.ebi.ac.uk/efo/EFO_0009656) neoplastic sample
+* submitted 2020-12-16 <https://github.com/EBISPOT/efo/issues/919>
+* live 2021-01-18
