@@ -2,20 +2,21 @@
 title: "Genomic Copy Number Signatures Based Classifiers for Subtype Identification in Cancer"
 date: 2020-12-18
 layout: default
-authors: 
+authors:
  - '@mbaudis'
  - '@bo'
 excerpt_separator: <!--more-->
-pdf_file_name: 
+pdf_file_name:
 pdf_file_type: article    # slides poster article
-www_link: 
+www_link:
 www_links_formatted:
   - <a href="https://biorxiv.org/cgi/content/short/2020.12.18.423278v1" target="_blank">[bioRxiv]</a>
-category: 
+category:
   - publications
   - news
-tags: 
+tags:
   - article
+  - preprint
 ---
 
 ### Genomic Copy Number Signatures Based Classifiers for Subtype Identification in Cancer

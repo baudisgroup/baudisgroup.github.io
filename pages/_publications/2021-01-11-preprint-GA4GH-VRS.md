@@ -10,12 +10,13 @@ pdf_file_name:
 pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
-  - <a href="https://biorxiv.org/cgi/content/short/2020.12.18.423278v1" target="_blank">[bioRxiv]</a>
+  - <a href="https://www.biorxiv.org/content/10.1101/2021.01.15.426843v1" target="_blank">[bioRxiv]</a>
 category:
   - publications
   - news
 tags:
   - article
+  - preprint
 ---
 
 ### The GA4GH Variation Representation Specification (VRS): a Computational Framework for the Precise Representation and Federated Identification of Molecular Variation.

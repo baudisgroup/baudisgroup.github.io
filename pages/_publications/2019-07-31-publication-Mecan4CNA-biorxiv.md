@@ -6,16 +6,17 @@ author: '@mbaudis'
 excerpt_separator: <!--more-->
 pdf_file_name: 2019-07-31___Gao-and-Baudis__Minimum-Error-Calibration-and-Normalization-for-Genomic-Copy-Number-Analysis__biorXiv.pdf
 pdf_file_type: article    # slides poster article
-www_link: 
+www_link:
 www_links_formatted:
   - <a href="https://www.biorxiv.org/content/10.1101/720854v1" target="_blank">[bioRxiv]</a>
   - <a href="https://pypi.org/project/mecan4cna/" target="_blank">[Python pip]</a>
   - <a href="https://github.com/baudisgroup/mecan4cna" target="_blank">[Github]</a>  
-category: 
+category:
   - publications
   - news
-tags: 
+tags:
   - article
+  - preprint
 ---
 
 ### Minimum Error Calibration and Normalization for Genomic Copy Number Analysis.
@@ -31,4 +32,3 @@ Currently, CNV profiles of tumor samples are generated using genomic micro-array
 In this study, we present a novel method named Minimum Error Calibration and Normalization of Copy Numbers Analysis (Mecan4CNA). For each sCNV profile, Mecan4CNA reduces the noise level, calculates values representing the normal DNA copies (baseline) and the change of one copy (level distance), and finally normalizes all values. Experiments of Mecan4CNA on simulated data showed an overall accuracy of 93% and 91% in determining the baseline and level distance, respectively. Comparison of baseline and level distance estimation with existing methods and karyotyping data on the NCI-60 tumor cell line produced coherent results. To estimate the method’s impact on downstream analyses we performed GISTIC analyses on original and Mecan4CNA data from the Cancer Genome Atlas (TCGA) where the normalized data showed prominent improvements of both sensitivity and specificity in detecting focal regions.
 
 In general, Mecan4CNA provides an advanced method for CNA data normalization especially in research involving data of high volume and heterogeneous quality. but with its informative output and visualization can also facilitate analysis of individual CNA profiles. Mecan4CNA is freely available as a Python package and through Github.
-
