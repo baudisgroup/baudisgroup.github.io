@@ -14,6 +14,7 @@ category:
 tags:
   - article
   - preprint
+  - news
 ---
 
 ### DNA copy number imbalances in primary cutaneous lymphomas (PCL)

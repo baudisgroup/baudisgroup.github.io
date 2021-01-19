@@ -17,6 +17,7 @@ category:
 tags:
   - article
   - preprint
+  - news
 ---
 
 ### The GA4GH Variation Representation Specification (VRS): a Computational Framework for the Precise Representation and Federated Identification of Molecular Variation.

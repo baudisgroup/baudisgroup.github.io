@@ -17,6 +17,7 @@ category:
 tags:
   - article
   - preprint
+  - news
 ---
 
 ### Genomic Copy Number Signatures Based Classifiers for Subtype Identification in Cancer
