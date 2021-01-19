@@ -26,7 +26,7 @@ Specific projects explore computational methods, genomics of selected tumour ent
 ### Latest News    
 
 {% comment %}
-	Some news ...	
+	Some news ...
 {% endcomment %}
 
 
@@ -45,7 +45,7 @@ Specific projects explore computational methods, genomics of selected tumour ent
 {%- assign cat_posts = cat_posts | sort: 'date' | reverse -%}
 
 {% for post in cat_posts limit: max_list %}
-  {% unless post.tags contains '.prepend' or post.tags contains '.append' %} 
+  {% unless post.tags contains '.prepend' or post.tags contains '.append' %}
     {%- assign post_author = post.author | downcase -%}
     {%- assign excerpt_link = post.url | relative_url -%}
     {%- if post.excerpt_link contains '/' -%}
