@@ -83,9 +83,9 @@ tags-date-sorted:
 related_sites:
   'Baudisgroup Internal': 'https://internal.baudisgroup.org'
   'Progenetix': 'https://progenetix.org'
-  'arrayMap': 'https://arraymap.org'
   'Beacon<span style="color: red; font-weight: 800;">+</span>': 'http://beacon.progenetix.org/ui/'
-  'Beacon': 'https://ga4gh-beacon.github.io'
+  'Beacon Project': 'https://ga4gh-beacon.github.io'
+  'GA4GH SchemaBlocks': 'https://schemablocks.org'
   'GA4GH::Discovery': 'http://ga4gh-discovery.github.io'
   CompbioZurich: 'https://compbiozurich.org'
 
