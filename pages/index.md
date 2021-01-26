@@ -7,11 +7,11 @@ date:   2019-03-18
 
 ## [Welcome to the _baudisgroup_ Pages](http://info.baudisgroup.org)
 
-The _baudisgroup_ website represents projects and information by the __Computational Oncogenomics Group__ of the [University of Zurich (UZH)](http://www.imls.uzh.ch/en/research/baudis/) and the [Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/baudis-michael/). For visitors more interested in Particle Astrophysics, we strongly recommend the website of another, although related, [Professor Baudis](https://www.physik.uzh.ch/en/groups/baudis.html).
+The _baudisgroup_ website represents projects and information by the __Computational Oncogenomics Group__ of the [University of Zurich (UZH)](https://www.mls.uzh.ch/en/research/baudis/) and the [Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/baudis-michael/). For visitors more interested in Particle Astrophysics, we strongly recommend the website of another, although related, [Professor Baudis](https://www.physik.uzh.ch/en/groups/baudis.html).
 
 The Computational Oncogenomics Group focus lies in the exploration of structural genome variations in cancer. Our work centres around our [arrayMap](arraymap.org) and [Progenetix](progenetix.org) resources of curated molecular-cytogenetic and sequencing data.
 
-Specific projects explore computational methods, genomics of selected tumour entities as well as genomic variant patterns across malignancies. As members of the [Global Alliance for Genomics and Health](http://ga4gh.org), the group is developing standards in biocuration and data sharing for genomic variants and phenotypic data, for instance in driving development of the [ELIXIR Beacon](https://www.elixir-europe.org/about-us/implementation-studies/beacons) project through the [Beacon+ implementation](http://beacon.progenetix.org). Other projects are related to genome data epistemology, e.g. geographic and diagnostic sampling biases.
+Specific projects explore computational methods, genomics of selected tumour entities as well as genomic variant patterns across malignancies. As members of the [Global Alliance for Genomics and Health](http://ga4gh.org), the group is developing standards in biocuration and data sharing for genomic variants and phenotypic data, for instance in driving development of the [ELIXIR Beacon](https://www.elixir-europe.org/about-us/implementation-studies/beacons) project through the [Beacon+ implementation](http://beacon.progenetix.org/ui/). Other projects are related to genome data epistemology, e.g. geographic and diagnostic sampling biases.
 
 ### Some Projects
 
