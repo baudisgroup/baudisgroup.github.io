@@ -2,7 +2,8 @@
 title:  "MongoDB Cheat Sheet"
 permalink: /howto/mongodbcommands/
 layout: default
-date: 2019-11-06
+date: 2021-02-03
+excerpt_separator: <!--more-->
 category:
   - howto
 tags:
@@ -13,6 +14,18 @@ tags:
 ## MongoDB Cheat Sheet
 
 As frequent-but-not-every-day-one-needs-these-command [MongoDB](http://mongodb.org) users, we, obviously, can use a cheat sheet. Here is the start of one.
+
+#### List all (primary) attributes
+
+Since not all documents may have all keys, the following method loops over all documents and collects the encountered keys.
+
+```javascript
+var dbks = {};
+db.___your-collection-name___.find().forEach(function(doc){Object.keys(doc).forEach(function(key){allKeys[key]=1})})
+dbks;
+```
+
+<!--more-->
 
 #### Rename a collection
 
@@ -47,12 +60,12 @@ db.biosamples.aggregate(
 	},
 	{
 		$group:{
-			_id:"$external_references.type.id",
+			_id:"$external_references.id",
 		}
 	},
 	{
 		$match:{
-			_id:{"$regex":/pubmed/}
+			_id:{"$regex":/PMID/}
 		}
 	},
 	{
