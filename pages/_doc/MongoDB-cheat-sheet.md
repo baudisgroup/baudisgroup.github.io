@@ -27,6 +27,23 @@ dbks;
 
 <!--more-->
 
+#### Delete fields with `undefined` from nested list
+
+This procedure rewrites the list objects for the other keys, excluding here the `description` key if the value is "undefined":
+
+```
+db.biosamples.find({}).forEach(function(item)
+	{
+		for(i = 0; i != item.biocharacteristics.length; ++i) {
+			if (item.biocharacteristics[i].description == null) {
+				item.biocharacteristics[i] = { id: item.biocharacteristics[i].id, label : item.biocharacteristics[i].label }
+			}
+		}
+		db.biosamples.update({_id: item._id}, item);
+	}
+)
+```
+
 #### Rename a collection
 
 This is done via an admin command, using the full path (i.e. "database.collection").
@@ -52,7 +69,7 @@ This calls for an aggregation, where:
 * the values are collected (`$group` into `_id`)
 * a match is performed
 * the number of the resulting objects is counted
- 
+
 ```
 db.biosamples.aggregate(
 	{
