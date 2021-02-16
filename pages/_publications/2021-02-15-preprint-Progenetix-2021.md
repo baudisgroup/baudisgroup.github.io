@@ -10,7 +10,7 @@ pdf_file_name: "2021-02-15___Huang-et-al.__The-Progenetix-oncogenomic-resource-i
 pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
-  - <a href="https://www.biorxiv.org/content/10.1101/2021.02.15.428237v1" target="_blank">[bioRxiv]</a>
+  - <a href="https://www.biorxiv.org/content/10.1101/2021.02.15.428237v2" target="_blank">[bioRxiv]</a>
 category:
   - publications
   - news
