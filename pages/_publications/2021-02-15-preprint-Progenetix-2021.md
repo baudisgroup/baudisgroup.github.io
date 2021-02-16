@@ -6,7 +6,7 @@ authors:
  - '@mbaudis'
  - '@qingyao'
 excerpt_separator: <!--more-->
-pdf_file_name: 2021-02-15___Huang-et-al.__The-Progenetix-oncogenomic-resource-in 2021__bioRxiv-428237v1.full.pdf
+pdf_file_name: "2021-02-15___Huang-et-al.__The-Progenetix-oncogenomic-resource-in 2021__bioRxiv-428237v1.full.pdf"
 pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
