@@ -4,7 +4,7 @@ date: 2020-12-18
 layout: default
 authors:
  - '@mbaudis'
- - '@bo'
+ - '@KyleGao'
 excerpt_separator: <!--more-->
 pdf_file_name:
 pdf_file_type: article    # slides poster article
