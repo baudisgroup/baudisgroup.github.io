@@ -27,7 +27,7 @@ tags:
 
 ##### bioRxiv. doi: https://doi.org/10.1101/2021.02.15.428237
 
-This article provides an overview of recennt changes and additions to the Progenetix database and the services provided through the resource.
+This article provides an overview of recent changes and additions to the Progenetix database and the services provided through the resource.
 
 <!--more-->
 
