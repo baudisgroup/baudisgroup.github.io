@@ -6,7 +6,8 @@ authors:
  - '@mbaudis'
  - '@qingyao'
 excerpt_separator: <!--more-->
-pdf_file_name: "2021-02-15___Huang-et-al.__The-Progenetix-oncogenomic-resource-in 2021__bioRxiv-428237v1.full.pdf"
+excerpt_link: https://info.baudisgroup.org/publications/2021-02-15-preprint-Progenetix-2021/
+pdf_file_name: "2021-02-16___Huang-et-al.__The-Progenetix-oncogenomic-resource-in-2021__bioRxiv-428237v2.pdf"
 pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
@@ -25,6 +26,8 @@ tags:
 #### Qingyao Huang, Paula Carrio Cordo, Bo Gao, Rahel Paloots, Michael Baudis
 
 ##### bioRxiv. doi: https://doi.org/10.1101/2021.02.15.428237
+
+This article provides an overview of recennt changes and additions to the Progenetix database and the services provided through the resource.
 
 <!--more-->
 
