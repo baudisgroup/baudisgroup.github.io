@@ -6,7 +6,7 @@ authors:
  - '@mbaudis'
  - '@bo'
 excerpt_separator: <!--more-->
-pdf_file_name:
+pdf_file_name: 2021-01-15___Wagner-A-et-al.__The-GA4GH-Variation-Representation-Specification-VRS__bioRxiv-426843v1.pdf
 pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
