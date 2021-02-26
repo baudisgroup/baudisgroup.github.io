@@ -2,7 +2,7 @@
 title:  "MongoDB Setup"
 permalink: /howto/mongodb-setup/
 layout: default
-date:   2018-04-18
+date:   2021-02-26
 category:
   - howto
 tags:
@@ -22,8 +22,8 @@ The installation itself (including download) proceeds like this:
 
 ```bash
 mkdir mongodb
-curl -O https://fastdl.mongodb.org/osx/mongodb-macos-x86_64-4.2.0.tgz
-tar -xvf mongodb-macos-x86_64-4.2.0.tgz -C ./mongodb --strip-components 1
+curl -O https://fastdl.mongodb.org/osx/mongodb-macos-x86_64-4.4.4.tgz
+tar -xvf mongodb-macos-x86_64-4.4.4.tgz -C ./mongodb --strip-components 1
 sudo mkdir -p /usr/local/bin
 sudo cp mongodb/bin/* /usr/local/bin/
 sudo touch /var/log/mongodb.log
