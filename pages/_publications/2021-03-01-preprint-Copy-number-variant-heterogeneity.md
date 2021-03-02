@@ -24,7 +24,7 @@ tags:
 
 #### Paula Carrio Cordo and Michael Baudis
 
-##### bioRxiv. doi: https://doi.org/10.1101/2021.03.01.433348
+##### bioRxiv. doi: <https://doi.org/10.1101/2021.03.01.433348>
 
 This article explores the correlation between subsets of cancer entities, grouped by their somatic CNV patterns, and levels of diagnostic classification systems.
 
