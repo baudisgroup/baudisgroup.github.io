@@ -6,7 +6,7 @@ authors:
  - '@mbaudis'
 excerpt_separator: <!--more-->
 excerpt_link: https://info.baudisgroup.org/publications/2021-03-01-preprint-Copy-number-variant-heterogeneity/
-pdf_file_name: "2021-03-01___Carrio-Cordo-and-Baudis__CNV-heterogeneity-in-cancer-and-diagnostic-classifications__biorXiv-2021.03.01.433348v1.pdf"
+pdf_file_name: "2021-03-01___Carrio-Cordo-and-Baudis__CNV-heterogeneity-in-cancer-and-diagnostic-classifications__biorXiv-433348v1.pdf"
 pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
