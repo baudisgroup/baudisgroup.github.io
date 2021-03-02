@@ -26,7 +26,7 @@ tags:
 
 ##### bioRxiv. doi: https://doi.org/10.1101/2021.03.01.433348
 
-This article provides an overview of recent changes and additions to the Progenetix database and the services provided through the resource.
+This article explores the correlation between subsets of cancer entities, grouped by their somatic CNV patterns, and levels of diagnostic classification systems.
 
 <!--more-->
 
