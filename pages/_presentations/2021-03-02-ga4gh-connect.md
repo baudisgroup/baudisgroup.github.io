@@ -1,6 +1,7 @@
 ---
 title: "GA4GH Connect - Beacon v2 and SchemaBlocks"
 layout: default
+excerpt_separator: <!--more-->
 date: 2021-03-02
 authors:
   - '@mbaudis'
@@ -20,13 +21,11 @@ pdf_file_type: slides
 #### [GA4GH Connect 2020](https://broadinstitute.swoogo.com/ga4gh-connect-2021/?i=sNK7RoeeqhyJE1ueSnn5lz4F9RRfnnIU)
 ### Michael Baudis
 
-##### Beacon v2 Structural Variants
+##### Beacon v2 Structural Variants [[slides]](/pdf/2021-03-02___Michael-Baudis__Beacon-structural-variants-queries.pdf)
 
-* [[slides]](/pdf/2021-03-02___Michael-Baudis__Beacon-structural-variants-queries.pdf)
+##### SchemaBlocks {S}[B] [[slides]](/pdf/2021-03-04___Michael-Baudis__SchemaBocks__GA4GH-Connect-2021-slides.pdf)
 
-##### SchemaBlocks {S}[B]
-
-* [[slides]](/pdf/2021-03-04___Michael-Baudis__SchemaBocks__GA4GH-Connect-2021-slides.pdf)
+<!--more-->
 
 #### Additional Links
 
