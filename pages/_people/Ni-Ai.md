@@ -8,6 +8,7 @@ date:   2012-05-15
 category:
   - people
 tags:
+  - alumni
   - group
 ---
 
