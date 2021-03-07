@@ -10,7 +10,7 @@ pdf_file_name:
 pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
-  - <a href="https://biorxiv.org/cgi/content/short/2020.12.18.423278v1" target="_blank">[bioRxiv]</a>
+  - <a href="https://biorxiv.org/cgi/content/short/2020.12.18.423278v2" target="_blank">[bioRxiv]</a>
 category:
   - publications
   - news
