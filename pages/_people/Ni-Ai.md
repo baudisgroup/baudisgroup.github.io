@@ -9,7 +9,6 @@ category:
   - people
 tags:
   - alumni
-  - group
 ---
 
 ## Ni Ai
