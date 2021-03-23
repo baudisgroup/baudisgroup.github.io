@@ -29,5 +29,5 @@ category:
 | __Education__ |     |
 | 2017 – 2021 | Bachelor of Science in Biomedicine, University of Zurich, Switzerland |
 | __Employment__ |     |
-| Feb 2021 - ongoing - Intern at the Baudis Group, Department of Molecular Life Sciences, University of Zurich, Switzerland |
-| Sept - Dec 2019 - Intern at the Brown Lab, Institute of Pharmacology and Toxicology, University of Zurich, Switzerland |
+| Feb 2021 - ongoing | Intern at the Baudis Group, Department of Molecular Life Sciences, University of Zurich, Switzerland |
+| Sept - Dec 2019 | Intern at the Brown Lab, Institute of Pharmacology and Toxicology, University of Zurich, Switzerland |
