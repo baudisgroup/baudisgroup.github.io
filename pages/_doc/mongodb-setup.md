@@ -2,7 +2,9 @@
 title:  "MongoDB Setup"
 permalink: /howto/mongodb-setup/
 layout: default
-date:   2021-02-26
+date:   2021-03-23
+authors:
+  - "@mbaudis"
 category:
   - howto
 tags:
