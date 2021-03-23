@@ -12,7 +12,7 @@ tags:
 
 ## Setting up a standard installation of MongoDB on OS X
 
-These instructions are based on our specific use, but should work in general for MongoDB installations under OS X (tested up to 10.13.4 "High Sierra").
+These instructions are based on our specific use, but should work in general for MongoDB installations under OS X (tested up to 11.3 "Big Sur" beta 20E5210c).
 
 ### Install the MongoDB binary
 
