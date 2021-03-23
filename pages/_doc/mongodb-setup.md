@@ -30,7 +30,7 @@ sudo touch /var/log/mongodb.log
 ```
 
 
-The databases have to go somewhere; one example with system-wide availability would be `/data/db/mongodb/`. The same path has to be used in the configuration below (`--dbpath`).
+The databases have to go somewhere; one example with system-wide availability would be `/Library/MongoDB`. The same path has to be used in the configuration below (`--dbpath`).
 
 ```bash
 sudo mkdir -p /Library/MongoDB
