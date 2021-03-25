@@ -6,9 +6,10 @@ excerpt_separator: <!--more-->
 layout: default
 date:   2012-05-15
 category:
-  - people
+  - alumni
 tags:
   - alumni
+  - group
 ---
 
 ## Ni Ai

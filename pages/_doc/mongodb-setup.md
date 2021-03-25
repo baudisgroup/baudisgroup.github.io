@@ -2,7 +2,9 @@
 title:  "MongoDB Setup"
 permalink: /howto/mongodb-setup/
 layout: default
-date:   2021-02-26
+date:   2021-03-23
+authors:
+  - "@mbaudis"
 category:
   - howto
 tags:
@@ -12,7 +14,7 @@ tags:
 
 ## Setting up a standard installation of MongoDB on OS X
 
-These instructions are based on our specific use, but should work in general for MongoDB installations under OS X (tested up to 10.13.4 "High Sierra").
+These instructions are based on our specific use, but should work in general for MongoDB installations under OS X (tested up to 11.3 "Big Sur" beta 20E5210c).
 
 ### Install the MongoDB binary
 
@@ -30,7 +32,7 @@ sudo touch /var/log/mongodb.log
 ```
 
 
-The databases have to go somewhere; one example with system-wide availability would be `/data/db/mongodb/`. The same path has to be used in the configuration below (`--dbpath`).
+The databases have to go somewhere; one example with system-wide availability would be `/Library/MongoDB`. The same path has to be used in the configuration below (`--dbpath`).
 
 ```bash
 sudo mkdir -p /Library/MongoDB
