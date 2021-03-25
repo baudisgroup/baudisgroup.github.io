@@ -3,7 +3,9 @@ title: 'ZH Sem Bioinfo - Qingyao Huang'
 layout: default
 authors:
   - '@mbaudis'
+  - '@qingyao'
 excerpt_separator: <!--more-->
+excerpt_link: https://info.baudisgroup.org/presentations/2021-03-25-zh-seminars-in-bioinformatics/
 www_link:
 www_links_formatted:
 pdf_file_name:
