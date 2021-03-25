@@ -1,5 +1,5 @@
 ---
-title: "The Progenetix oncogenomic resource in 2021"
+title: "Copy number variant heterogeneity among cancer types reflects inconsistent concordance with diagnostic classifications"
 date: 2021-03-01
 layout: default
 authors:
