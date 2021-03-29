@@ -1,7 +1,6 @@
 ---
 title: "Progenetix, Beacon and GA4GH"
 layout: default
-date: 2020-12-07
 authors:
   - '@mbaudis'
 excerpt_separator: <!--more-->
