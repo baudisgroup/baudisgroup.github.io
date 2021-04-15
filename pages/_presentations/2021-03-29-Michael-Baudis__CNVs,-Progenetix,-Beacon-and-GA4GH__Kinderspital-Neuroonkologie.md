@@ -10,6 +10,7 @@ category:
 tags:
   - presentation
   - UZH
+  - news
 pdf_file_name: 2021-03-29___Michael-Baudis__CNVs,-Progenetix,-Beacon-and-GA4GH__Kinderspital-Neuroonkologie.pdf
 pdf_file_type: slides
 ---
