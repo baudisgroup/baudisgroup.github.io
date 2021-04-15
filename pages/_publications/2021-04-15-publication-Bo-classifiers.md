@@ -20,7 +20,7 @@ tags:
   - news
 ---
 
-### Signatures of Discriminative Copy Number Aberrations in 31 Cancer Subtypes
+## Signatures of Discriminative Copy Number Aberrations in 31 Cancer Subtypes
 ##### (Original preprint was "Genomic Copy Number Signatures Based Classifiers for Subtype Identification in Cancer")
 #### Bo Gao and Michael Baudis (2021)
 ##### Accepted at _Frontiers in Genetics_, 2021-04-15
