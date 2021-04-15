@@ -1,5 +1,5 @@
 ---
-title: "Genomic Copy Number Signatures Based Classifiers for Subtype Identification in Cancer"
+title: "Signatures of Discriminative Copy Number Aberrations in 31 Cancer Subtypes"
 date: 2021-04-15
 layout: default
 authors:
