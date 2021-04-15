@@ -1,6 +1,6 @@
 ---
 title: "Genomic Copy Number Signatures Based Classifiers for Subtype Identification in Cancer"
-date: 2020-12-18
+date: 2021-04-15
 layout: default
 authors:
  - '@mbaudis'
@@ -20,8 +20,10 @@ tags:
   - news
 ---
 
-### Genomic Copy Number Signatures Based Classifiers for Subtype Identification in Cancer
-#### Bo Gao and Michael Baudis (2020)
+### Signatures of Discriminative Copy Number Aberrations in 31 Cancer Subtypes
+##### (Original preprint was "Genomic Copy Number Signatures Based Classifiers for Subtype Identification in Cancer")
+#### Bo Gao and Michael Baudis (2021)
+##### Accepted at _Frontiers in Genetics_, 2021-04-15
 ##### bioRxiv, 2020-12-18
 <!--more-->
 
