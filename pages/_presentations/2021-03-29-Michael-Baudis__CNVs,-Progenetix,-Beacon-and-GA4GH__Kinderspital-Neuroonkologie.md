@@ -29,5 +29,5 @@ This seminar gives an overview of the history & current state of the Progenetix 
 
 * [Progenetix](http://progenetix.org)
 * [Beacon Website](http://beacon-project.io)
-* [Beacon+ in progenetix-next](https://progenetix.org/beacon-plus/search)
+* [Beacon+ in progenetix-next](https://progenetix.org/beaconplus-instances/beaconplus/)
 * [Bycon Project](https://github.com/progenetix/bycon)

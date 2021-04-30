@@ -31,5 +31,5 @@ pdf_file_type: slides
 
 * [Beacon Website](http://beacon-project.io)
 * [SchemaBlocks {S}[B]](https://schemablocks.org)
-* [Beacon+ in progenetix-next](https://progenetix.org/beacon-plus/search)
+* [Beacon+ in progenetix-next](https://progenetix.org/beaconplus-instances/beaconplus/)
 * [Bycon Project](https://github.com/progenetix/bycon)

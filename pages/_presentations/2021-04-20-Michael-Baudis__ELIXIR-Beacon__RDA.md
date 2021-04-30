@@ -29,4 +29,4 @@ This seminar gives an overview of current state of the Progenetix Beacon project
 
 * [Beacon Website](http://beacon-project.io)
 * [Beacon Development at Github](https://github.com/ga4gh-beacon)
-* [Beacon+ in Progenetix](https://progenetix.org/beacon-plus/search)
+* [Beacon+ in Progenetix](https://progenetix.org/beaconplus-instances/beaconplus/)
