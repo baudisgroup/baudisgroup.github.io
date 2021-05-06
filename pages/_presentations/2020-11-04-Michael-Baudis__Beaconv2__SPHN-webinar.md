@@ -4,6 +4,7 @@ layout: default
 date: 2020-11-04
 authors:
   - '@mbaudis'
+www_link: https://sphn.ch/seminar-training/beacon-project/
 category:
   - presentations
   - news
@@ -16,7 +17,7 @@ pdf_file_name: 2020-11-04___Michael-Baudis__GA4GH,-Beacon-and-SPHN__SPHN-Webinar
 pdf_file_type: slides
 ---
 
-## {{Beacon v2 – Towards flexible use and clinical applications for a reference genomic data protocol}}
+## Beacon v2 – Towards flexible use and clinical applications for a reference genomic data protocol
 #### [SPHN Webinar](https://sphn.ch/seminar-training/beacon-project/)
 ### Michael Baudis
 
