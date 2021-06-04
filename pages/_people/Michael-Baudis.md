@@ -27,7 +27,7 @@ tags:
 | web | [UZH DMLS](http://www.mls.uzh.ch/en/research/baudis/) :: [SIB](http://sib.swiss/baudis-michael/) |
 | __Personal__ |     |
 | Date of birth | 1967-11-11 |
-| Nationality | Germany |
+| Nationalities | Swiss & German |
 | Family | Married since 1991, two children |
 | email | [michael@baud.is](mailto:michael@baud.is) |
 | __Education__ |     |
