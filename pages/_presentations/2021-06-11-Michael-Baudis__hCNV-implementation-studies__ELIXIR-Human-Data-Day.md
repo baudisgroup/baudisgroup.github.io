@@ -10,7 +10,7 @@ category:
 tags:
   - presentation
   - news
-pdf_file_name: 2021-06-11___Michael-Baudis__ELIXIR-hCNV-Uopdates-and-Plans__ELIXIR-Human-Data-Day.pdf
+pdf_file_name: 2021-06-11___Michael-Baudis__ELIXIR-hCNV-Updates-and-Plans__ELIXIR-Human-Data-Day.pdf
 pdf_file_type: slides
 ---
 
