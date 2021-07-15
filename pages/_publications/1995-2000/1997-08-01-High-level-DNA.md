@@ -2,7 +2,7 @@
 title: "High-level DNA..."
 date: 1997-08-01
 layout: default
-pdf_file_name: 9250147.pdf
+pdf_file_name: 1997-08-01___Werner-et-al.__High-Level-DNA-Amplifications-Are-Common-Genetic-Aberrations-in-B-Cell-Neoplasms__AmJPathol.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/9250147
 category:
