@@ -13,11 +13,9 @@ tags:
   - news
 pdf_file_name: 2021-08-03___Qingyao-Huang__CGC-progenetix-presentation.pdf
 pdf_file_type: slides
-
-
 ---
 
-## Progenetix - An open reference resource for copy number variation data in cancer
+## {{page.title}}
 ### Qingyao Huang
 #### Cancer Genomics Consortium Annual Meeting 2021 Aug 1-4
 
