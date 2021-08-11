@@ -26,4 +26,4 @@ pdf_file_type: slides
 
 #### Additional Links
 
-* [Video Recording of Presentation](https://progenetix.org/storage-ext/2021-08-03___Qingyao__CGC_recording.mp4)
+* [Video Recording of Presentation](https://progenetix.org/storage-ext/recordings/2021-08-03___Qingyao__CGC_recording.mp4)
