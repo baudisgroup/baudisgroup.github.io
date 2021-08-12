@@ -12,7 +12,7 @@ tags:
   - presentation
   - conferences
   - news
-pdf_file_name: 2021-08-03___Qingyao-Huang__CGC-progenetix-presentation.pdf
+pdf_file_name: pdf_file_name: 2021-08-03___Qingyao-Huang__CGC-progenetix-presentation__slides.pdf
 pdf_file_type: slides
 ---
 
