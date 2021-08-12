@@ -56,7 +56,7 @@ Server address: http://127.0.0.1:4000
 
 #### Notes
 
-* If you have a non-empty `baseurl` parameter in your `_config.yml` (e.g. the name og the repository you are running the site from), you will have to specify an empty `baseurl` when starting your localhost test server:
+* If you have a non-empty `baseurl` parameter in your `_config.yaml` (e.g. the name og the repository you are running the site from), you will have to specify an empty `baseurl` when starting your localhost test server:
 ```bash
 jekyll serve --baseurl "" --incremental
 ```

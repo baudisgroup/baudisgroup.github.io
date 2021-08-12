@@ -9,7 +9,7 @@ category:
   - news
 tags:
   - group
-  - collaborations
+  - collaboration
 ---
 
 ## {{ page.title }}

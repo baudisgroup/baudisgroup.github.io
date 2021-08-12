@@ -62,7 +62,7 @@ tags:
     - can be re-used trough a Liquid tag, e.g. `## {{page.title}}` will add the title to the HTML rendering wrapped in `<h2>` markup
 * `date`
     - the date assigned to the page, as ISO8601
-    - if set in the future, the `_config.yml` must contain the `future: true` directive - or the page will only be processed after the date...
+    - if set in the future, the `_config.yaml` must contain the `future: true` directive - or the page will only be processed after the date...
 * `layout`
 * `author`
     - page author (can also be a YAML array)
@@ -82,7 +82,7 @@ tags:
     - the name of a PDF (without path!) somewhere in "assets", which will be auto-linked at the bottom of the page
 * `category`
     - usually one category the page belongs to
-    - should be one of the categories in `_config.yml` (otherwise not much use ...)
+    - should be one of the categories in `_config.yaml` (otherwise not much use ...)
 * `tags`
     - usually several tags associated with the content of the page
-    - should be from the tags in `_config.yml` (otherwise not much use ...)
+    - should be from the tags in `_config.yaml` (otherwise not much use ...)
