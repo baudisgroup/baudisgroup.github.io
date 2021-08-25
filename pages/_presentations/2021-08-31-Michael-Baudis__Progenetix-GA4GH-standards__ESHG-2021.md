@@ -18,9 +18,7 @@ pdf_file_type: poster
 ### Q. Huang, B. Gao, R. Paloots, P. Carrio-Cordo, Z. Yang, M. Baudis
 #### [ESHG 2021](https://2021.eshg.org)
 
-![ESHG Logo](/assets/img/eshg_logo_260x208.png){: style="float: right; width: 130px; margin-top: -95px;"}
-
-This poster presentation at the European Society of Human Genetics meeting 2021 discusses the integration and development of GA4GH standards by the Progenetix oncogenomics resource.
+![ESHG Logo](/assets/img/eshg_logo_260x208.png){: style="float: right; width: 130px; margin-top: -95px;"}This poster presentation at the European Society of Human Genetics meeting 2021 discusses the integration and development of GA4GH standards by the Progenetix oncogenomics resource.
 
 <!--more-->
 
