@@ -24,8 +24,8 @@ The installation itself (including download) proceeds like this:
 
 ```bash
 mkdir mongodb
-curl -O https://fastdl.mongodb.org/osx/mongodb-macos-x86_64-4.4.4.tgz
-tar -xvf mongodb-macos-x86_64-4.4.4.tgz -C ./mongodb --strip-components 1
+curl -O https://fastdl.mongodb.org/osx/mongodb-macos-x86_64-5.0.2.tgz
+tar -xvf mongodb-macos-x86_64-5.0.2.tgz -C ./mongodb --strip-components 1
 sudo mkdir -p /usr/local/bin
 sudo cp mongodb/bin/* /usr/local/bin/
 sudo touch /var/log/mongodb.log
