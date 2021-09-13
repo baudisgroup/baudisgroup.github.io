@@ -6,13 +6,12 @@ author: Michael
 excerpt_separator: <!--more-->
 pdf_file_name:
 pdf_file_type:    # slides poster article
-www_link: 
+www_link:
 www_links_formatted:   # use this for a quoted, complete HTML link with label '<a href="http://" target="_blank">...</a>'
-category: 
+category:
   - howto      # publication howto presentation
-tags: 
-  - code          # article talk poster slides 
-  - resource
+tags:
+  - code          # article talk poster slides
 ---
 
 ## {{ page.title }}
@@ -40,4 +39,3 @@ Since 2018, our group offers the [__segment_liftover__ tool](https://github.com/
     * http://genome.ucsc.edu/cgi-bin/hgLiftOver
 * NCBI Remapping service:
     * http://www.ncbi.nlm.nih.gov/genome/tools/remap
-

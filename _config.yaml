@@ -47,9 +47,6 @@ collections:
   doc:
     output: true
     permalink: /doc/:path/
-  teaching:
-    output: true
-    permalink: /teaching/:path/
 collections_dir: pages  # optional; here, all collections are inside "/pages"
 
 # navigation blocks can be used to separate different categories and add e.g.
@@ -96,14 +93,14 @@ github_projects:
 
 cloud_tags:
   - API
-  - EFO
   - Perl
   - Python
   - abstract
   - article
   - Beacon
   - code
-  - collaborations
+  - collaboration
+  - conference
   - ga4gh
   - maps
   - markdown
@@ -114,7 +111,6 @@ cloud_tags:
   - preprint
   - presentation
   - regex
-  - resource
   - slides
   - talk
   - website
