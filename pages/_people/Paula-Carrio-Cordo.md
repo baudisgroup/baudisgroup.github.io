@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 layout: default
 date:   2016-04-01
 category:
-  - people
+  - alumni
 tags:
   - group
   - alumni
@@ -17,7 +17,7 @@ tags:
 #### PhD candidate in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics **SIB**
 
 <!--more-->
- 
+
 |      |     |
 | ---: | --- |
 | __Contact__ |     |
@@ -29,7 +29,8 @@ tags:
 | Date of birth | 30.07.1992 |
 | Nationality | Spanish |
 | __Education__ |     |
-| 2017 – current | Research thesis in theoretical cancer genomics, Institute of Molecular Life Sciences, University of Zurich, Switzerland |
+| 2021-04-21 | PhD in Molecular Life Sciences of the Faculty of Sciences, University of Zurich |
+| 2017 – 2021 | Research thesis in theoretical cancer genomics, Institute of Molecular Life Sciences, University of Zurich, Switzerland |
 | 2016 – 2017 | Master of Science in Quantitative Biology and Systems Biology, University of Zurich, Switzerland |
 | 2013 – 2014 | Erasmus exchange - Bachelor of Science in Biology, University of Zurich, Switzerland |
 | 2010 – 2015 | Bachelor of Science in Biology, University of Oviedo, Spain |

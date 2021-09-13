@@ -6,9 +6,11 @@ excerpt_separator: <!--more-->
 layout: default
 date:   2017-04-01
 category:
-  - people
+  - alumni
 tags:
   - Qingyao
+  - people
+  - alumni
 ---
 
 ## Qingyao Huang
@@ -29,7 +31,8 @@ tags:
 | Religion | Science |
 | Hobbies | Cooking, Backpacking, Guitar |
 | __Education__ |     |
-| 2017 – current | Research thesis in theoretical cancer genomics, Institute of Molecular Life Sciences, University of Zurich, Switzerland |
+| 2021-07-16 | PhD in Molecular Life Sciences of the Faculty of Sciences, University of Zurich |
+| 2017 – 2021 | Research thesis in theoretical cancer genomics, Institute of Molecular Life Sciences, University of Zurich, Switzerland |
 | 2013 - 2015 | Master of Science in Molecular Medicine, Charité Univeristy of Medicine, Berlin, Germany |
 | 2010 - 2013 | Bachelor of Science in Biochemistry and Cell Biology, Jacobs University Bremen, Germany |
 | __Employment__ |     |
