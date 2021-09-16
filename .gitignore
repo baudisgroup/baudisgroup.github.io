@@ -3,3 +3,4 @@ _site
 pages/.DS_Store
 
 *.lock
+.jekyll-metadata
