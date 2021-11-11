@@ -26,6 +26,7 @@ tags:
 
 #### Alex H. Wagner, Lawrence Babb, Gil Alterovitz, Michael Baudis, Matthew Brush, Daniel L. Cameron, Melissa Cline, Malachi Griffith, Obi L. Griffith, Sarah E. Hunt, David Kreda, Jennifer M. Lee, Stephanie Li, Javier Lopez, Eric Moyer, Tristan Nelson, Ronak Y. Patel, Kevin Riehle, Peter N. Robinson, Shawn Rynearson, Helen Schuilenburg, Kirill Tsukanov, Brian Walsh, Melissa Konopko, Heidi L. Rehm, Andrew D. Yates, Robert R. Freimuth, Reece K. Hart
 
+##### Wagner, Alex H. et al. Cell Genomics, Volume 1, Issue 2, 100027
 ##### bioRxiv. version 20212021.01.15.426843. (2021-01-15)
 
 #### Note
