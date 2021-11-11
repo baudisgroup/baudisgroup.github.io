@@ -10,7 +10,7 @@ pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
   - <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00039-2" target="_blank">[Cell Genomics]</a>
-  - <a href="2021-11-10___Thorogood-et-al.__International-federation-of-genomic-medicine-databases-using-GA4GH-standards__Cell-Genomics.pdf" target="_blank">[Article PDF}]</a>
+  - <a href="2021-11-10___Thorogood-et-al.__International-federation-of-genomic-medicine-databases-using-GA4GH-standards__Cell-Genomics.pdf" target="_blank">[Article PDF]</a>
 category:
   - publications
   - news

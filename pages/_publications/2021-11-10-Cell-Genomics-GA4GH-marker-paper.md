@@ -10,7 +10,7 @@ pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
   - <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00036-7" target="_blank">[Cell Genomics]</a>
-  - <a href="https://info.baudisgroup.org/pdf/2021-11-10___Rehm-et-al.__GA4GH--International-policies-and-standards-for-data-sharing-across-genomic-research-and-healthcare__Cell-Genomics.pdf" target="_blank">[Article PDF}]</a>
+  - <a href="https://info.baudisgroup.org/pdf/2021-11-10___Rehm-et-al.__GA4GH--International-policies-and-standards-for-data-sharing-across-genomic-research-and-healthcare__Cell-Genomics.pdf" target="_blank">[Article PDF]</a>
 category:
   - publications
   - news
