@@ -23,7 +23,7 @@ tags:
 
 #### Adrian Thorogood, Heidi L. Rehm, Peter Goodhand, Angela J.H. Page, Yann Joly, Michael Baudis, Jordi Rambla, Arcadi Navarro, Tommi H. Nyronen, Mikael Linden, Edward S. Dove, Marc Fiume, Michael Brudno, Melissa S. Cline, Ewan Birney
 
-##### Thorogood, Adrian et al. Cell Genomics, Volume 1, Issue 2, 100032
+##### Thorogood, Adrian et al. Cell Genomics, Volume 1, Issue 2, 100032 [doi:10.1016/j.xgen.2021.100032](https://doi.org/10.1016/j.xgen.2021.100032)
 
 #### Note
 
