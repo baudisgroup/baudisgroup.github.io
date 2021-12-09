@@ -5,3 +5,4 @@ pages/.DS_Store
 *.lock
 .jekyll-metadata
 pages/.DS_Store
+assets/.DS_Store

@@ -27,7 +27,7 @@ tags:
 
 #### Note
 
-This article was published as part of a special GA4GH edition of [Cell Genomics](https://www.cell.com/cell-genomics/issue?pii=S2666-979X(21)X0003-1).
+![Cell Genomics logo](/assets/img/logo-cell-genomics.png){: style="float: right; width: 150px; margin-top: -100px;"}This article was published as part of a special GA4GH edition of [Cell Genomics](https://www.cell.com/cell-genomics/issue?pii=S2666-979X(21)X0003-1).
 
 <!--more-->
 
