@@ -2,6 +2,9 @@
 title: "Cancer cell lines in focus: somatic copy number & germline variation"
 layout: default
 date: 2019-09-10
+authors:
+ - "@mbaudis"
+ - "@qingyao"
 category:
   - presentations
 tags:
@@ -13,8 +16,8 @@ pdf_file_type: poster
 ---
 
 #### BC2 2019, Basel
-## Minimum Error Calibration and Normalization for Genomic Copy Number Analysis
-### Bo Gao
+## {{page.title}}
+### Qingyao Huang
 
 #### Abstract
 
