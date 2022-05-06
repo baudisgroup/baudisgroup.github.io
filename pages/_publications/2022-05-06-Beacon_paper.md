@@ -17,9 +17,9 @@ tags:
   - publication
 ---
 
-## Beacon v2 and Beacon networks: A "lingua franca" for federated data discovery in biomedical genomics, and beyond
-### Rambla J, Baudis M, Ariosa R, Beck T, Fromont LA, Navarro A, Paloots R, Rueda M, Saunders G, Singh B, Spalding JD.
-#### Human Mutation. 2022 Mar 17. [PMID:35297548](https://onlinelibrary.wiley.com/doi/10.1002/humu.24369)
+### Beacon v2 and Beacon networks: A "lingua franca" for federated data discovery in biomedical genomics, and beyond
+#### Rambla J, Baudis M, Ariosa R, Beck T, Fromont LA, Navarro A, Paloots R, Rueda M, Saunders G, Singh B, Spalding JD.
+##### Human Mutation. 2022 Mar 17. [PMID:35297548](https://onlinelibrary.wiley.com/doi/10.1002/humu.24369)
 
 **Abstract** Beacon is a basic data discovery protocol issued by the Global Alliance for Genomics and Health (GA4GH). The main goal addressed by version 1 of the Beacon protocol was to test the feasibility of broadly sharing human genomic data, through providing simple "yes" or "no" responses to queries about the presence of a given variant in datasets hosted by Beacon providers.
 <!--more-->
