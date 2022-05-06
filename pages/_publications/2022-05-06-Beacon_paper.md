@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: default
 title: Beacon v2 Publication in Human Mutation
 description: Beacon v2 publication
 date: 2022-03-17
