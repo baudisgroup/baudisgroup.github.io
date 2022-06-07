@@ -1,0 +1,30 @@
+---
+title: "Progenetix & BeaconPlus"
+layout: default
+authors:
+  - '@rahelp'
+excerpt_separator: <!--more-->
+category:
+  - presentations
+  - news
+tags:
+  - presentation
+  - news
+
+---
+
+## {{page.title}}
+##### A cancer genomics resource built on GA4GH standards
+### Rahel Paloots, Michael Baudis
+#### CGC St Louis 2022
+
+Progenetix is a cancer genomics resource that includes genomic profiling data as well as biomedical annotations and provenance data for cancer studies. 
+The main goal of the Progenetix database is to provide easy, open access for research studies and clinical diagnostics. To facilitate sharing of 
+genomic data, Progenetix complies with and contributes to GA4GH and Beacon data standards. Beacon, developed with the support from ELXIR 
+(the European bioinformatics infrastructure organization), started out as protocol to share genomic variants over federated queries. The current 
+development of Beacon (Beacon v2) enables extended metadata-rich queries in both public and restricted federated access modes. The implementation 
+of Beacon v2 API in Progenetix, offers a solution to sharing vast amounts of genomic data securely and effectively. Moreover, it is open-access 
+and well-documented, with an open API for third party use. Currently, Progenetix contains around 130 thousand cancer copy number variant (CNV) 
+profiles from more than 700 different cancer types (NCIt classification), making it the largest resource for cancer CNV profiles. In addition to 
+primary neoplasia samples, Progenetix also includes a set of cancer cell line CNV samples. In order to provide a comprehensive cancer cell line 
+variant database, Progenetix also incorporates known single nucleotide variants of cancer cell lines.
