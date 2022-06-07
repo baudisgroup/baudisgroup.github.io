@@ -13,8 +13,8 @@ tags:
 
 ---
 
-## {{page.title}}
-##### Cancer cell line variant knowledge resource for facilitated cell line identification
+## Cancer cell line variant knowledge resource for facilitated cell line identification
+
 ### Rahel Paloots, Michael Baudis
 #### ESHG Vienna 2022
 
