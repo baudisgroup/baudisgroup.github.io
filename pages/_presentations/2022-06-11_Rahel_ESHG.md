@@ -1,5 +1,5 @@
 ---
-title: "Progenetix & BeaconPlus"
+title: "Cancer cell lines"
 layout: default
 authors:
   - '@rahelp'
