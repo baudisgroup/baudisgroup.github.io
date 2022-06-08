@@ -4,13 +4,13 @@ layout: default
 authors:
   - '@mbaudis'
 excerpt_separator: <!--more-->
+pdf_file_name: 2022-06-13___Michael-Baudis-Progenetix-ESHG-poster.pdf
 category:
   - presentations
   - news
 tags:
   - presentation
   - news
-
 ---
 
 ## {{page.title}}
