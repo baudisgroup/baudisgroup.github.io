@@ -14,6 +14,7 @@ tags:
   - Phenopackets
   - article
   - publication
+  - news
 ---
 
 ### The GA4GH Phenopacket schema defines a computable representation of clinical data

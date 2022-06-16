@@ -4,7 +4,6 @@ layout: default
 authors:
  - '@mbaudis'
 excerpt_separator: <!--more-->
-title: Beacon v2 Publication in Human Mutation
 description: Beacon v2 publication
 date: 2022-03-17
 author: "@rahelp"
@@ -15,6 +14,7 @@ tags:
   - Beacon
   - article
   - publication
+  - news
 ---
 
 ### Beacon v2 and Beacon networks: A "lingua franca" for federated data discovery in biomedical genomics, and beyond
