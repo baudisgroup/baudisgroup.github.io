@@ -18,6 +18,7 @@ tags:
 ---
 
 ### The GA4GH Phenopacket schema defines a computable representation of clinical data
+![Cell Genomics logo](/assets/img/nature-biotechnology-logo.svg){: style="float: right; width: 200px; margin-top: -40px;"}
 #### Jacobsen JOB, Baudis M, Baynam GS, Beckmann JS, Beltran S, Buske OJ, Callahan TJ, Chute CG, Courtot M, Danis D, Elemento O, Essenwanger A, Freimuth RR, Gargano MA, Groza T, Hamosh A, Harris NL, Kaliyaperumal R, Lloyd KCK, Khalifa A, Krawitz PM, Köhler S, Laraway BJ, Lehväslaiho H, Matalonga L, McMurry JA, Metke-Jimenez A, Mungall CJ, Munoz-Torres MC, Ogishima S, Papakonstantinou A, Piscia D, Pontikos N, Queralt-Rosinach N, Roos M, Sass J, Schofield PN, Seelow D, Siapos A, Smedley D, Smith LD, Steinhaus R, Sundaramurthi JC, Swietlik EM, Thun S, Vasilevsky NA, Wagner AH, Warner JL, Weiland C, Axton M, Babb L, Boerkoel CF, Chaudhari BP, Chin H-L, Dumontier M, Gazzaz N, Hansen DP, Hochheiser H, Kinsler VA, Lochmüller H, Mankovich AR, Saunders GI, Sergouniotis PI, Thompson R, Zankl A, Haendel MA, Robinson PN, The GAGHPMC.
 ##### Nature Biotechnology. 2022;40:817-820. [LINK](https://rdcu.be/cPLaA)
 
