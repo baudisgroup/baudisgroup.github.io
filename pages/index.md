@@ -16,6 +16,7 @@ The _baudisgroup_ website represents projects and information by the __Computati
 Ongoing software and service projects can be visited at our Github organizations ([[progenetix](https://github.com/progenetix)] and [[baudisgroup](https://github.com/baudisgroup)]) and when looking at individual contributions to e.g. GA4GH and ELIXIR.
 
 * [bycon](https://github.com/progenetix/bycon) at Github in __Progenetix__ - Python based implementation of a [GA4GH Beacon](http://beacon-project.org)
+* [pgxRpi](https://github.com/progenetix/pgxRpi) at Github in __Progenetix__ - An API wrapper package in R for loading & displaying data from Progenetix 
 * [segment-liftover](https://github.com/baudisgroup/segment-liftover) at Github __baudisgroup__
     * [publication](http://info.baudisgroup.org/publications/2018/03/14/segment_liftover.html)
 * [SNP2pop](https://github.com/baudisgroup/snp2pop) at Github __baudisgroup__
