@@ -1,3 +1,3 @@
-## [Welcome to the _baudisgroup_ Pages](http://info.baudisgroup.org)
+# [Baudisgroup Website](http://info.baudisgroup.org)
 
-The source files for the web pages are in the [*pages*](./pages) directory.
+Mkdocs version of the [revised baudisgroup site](http://info.baudisgroup.org).

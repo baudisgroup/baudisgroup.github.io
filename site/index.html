@@ -1,0 +1,3275 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Computational Oncogenomics Group @ UZH & SIB">
+      
+      
+        <meta name="author" content="Michael Baudis">
+      
+      
+      <link rel="icon" href="img/favicon.ico">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-8.1.8">
+    
+    
+      
+        <title>baudisgroup @ UZH & SIB</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.6e60f8b8.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.e6a45f82.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#02a6f2">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="css/theme_overrides.css">
+    
+    <script>__md_scope=new URL(".",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="light-blue" data-md-color-accent="indigo">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#some-projects" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="baudisgroup @ UZH &amp; SIB" class="md-header__button md-logo" aria-label="baudisgroup @ UZH & SIB" data-md-component="logo">
+      
+  <img src="img/site_logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            baudisgroup @ UZH & SIB
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Baudisgroup Home
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/baudisgroup/baudisgroup.github.io/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 512"><path d="M186.1 328.7c0 20.9-10.9 55.1-36.7 55.1s-36.7-34.2-36.7-55.1 10.9-55.1 36.7-55.1 36.7 34.2 36.7 55.1zM480 278.2c0 31.9-3.2 65.7-17.5 95-37.9 76.6-142.1 74.8-216.7 74.8-75.8 0-186.2 2.7-225.6-74.8-14.6-29-20.2-63.1-20.2-95 0-41.9 13.9-81.5 41.5-113.6-5.2-15.8-7.7-32.4-7.7-48.8 0-21.5 4.9-32.3 14.6-51.8 45.3 0 74.3 9 108.8 36 29-6.9 58.8-10 88.7-10 27 0 54.2 2.9 80.4 9.2 34-26.7 63-35.2 107.8-35.2 9.8 19.5 14.6 30.3 14.6 51.8 0 16.4-2.6 32.7-7.7 48.2 27.5 32.4 39 72.3 39 114.2zm-64.3 50.5c0-43.9-26.7-82.6-73.5-82.6-18.9 0-37 3.4-56 6-14.9 2.3-29.8 3.2-45.1 3.2-15.2 0-30.1-.9-45.1-3.2-18.7-2.6-37-6-56-6-46.8 0-73.5 38.7-73.5 82.6 0 87.8 80.4 101.3 150.4 101.3h48.2c70.3 0 150.6-13.4 150.6-101.3zm-82.6-55.1c-25.8 0-36.7 34.2-36.7 55.1s10.9 55.1 36.7 55.1 36.7-34.2 36.7-55.1-10.9-55.1-36.7-55.1z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    baudisgroup.github.io
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="baudisgroup @ UZH &amp; SIB" class="md-nav__button md-logo" aria-label="baudisgroup @ UZH & SIB" data-md-component="logo">
+      
+  <img src="img/site_logo.png" alt="logo">
+
+    </a>
+    baudisgroup @ UZH & SIB
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/baudisgroup/baudisgroup.github.io/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 512"><path d="M186.1 328.7c0 20.9-10.9 55.1-36.7 55.1s-36.7-34.2-36.7-55.1 10.9-55.1 36.7-55.1 36.7 34.2 36.7 55.1zM480 278.2c0 31.9-3.2 65.7-17.5 95-37.9 76.6-142.1 74.8-216.7 74.8-75.8 0-186.2 2.7-225.6-74.8-14.6-29-20.2-63.1-20.2-95 0-41.9 13.9-81.5 41.5-113.6-5.2-15.8-7.7-32.4-7.7-48.8 0-21.5 4.9-32.3 14.6-51.8 45.3 0 74.3 9 108.8 36 29-6.9 58.8-10 88.7-10 27 0 54.2 2.9 80.4 9.2 34-26.7 63-35.2 107.8-35.2 9.8 19.5 14.6 30.3 14.6 51.8 0 16.4-2.6 32.7-7.7 48.2 27.5 32.4 39 72.3 39 114.2zm-64.3 50.5c0-43.9-26.7-82.6-73.5-82.6-18.9 0-37 3.4-56 6-14.9 2.3-29.8 3.2-45.1 3.2-15.2 0-30.1-.9-45.1-3.2-18.7-2.6-37-6-56-6-46.8 0-73.5 38.7-73.5 82.6 0 87.8 80.4 101.3 150.4 101.3h48.2c70.3 0 150.6-13.4 150.6-101.3zm-82.6-55.1c-25.8 0-36.7 34.2-36.7 55.1s10.9 55.1 36.7 55.1 36.7-34.2 36.7-55.1-10.9-55.1-36.7-55.1z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    baudisgroup.github.io
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Baudisgroup Home
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        Baudisgroup Home
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#some-projects" class="md-nav__link">
+    Some Projects
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#support-or-contact" class="md-nav__link">
+    Support or Contact
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#address" class="md-nav__link">
+    Address
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#latest-news-publications" class="md-nav__link">
+    Latest News &amp; Publications
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="group" class="md-nav__link">
+        Group
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="publications" class="md-nav__link">
+        Publications
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="presentations" class="md-nav__link">
+        Presentations
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://schemablocks.org" class="md-nav__link">
+        SchemaBlocks {S}[B] &#8599;
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://beacon-project.io" class="md-nav__link">
+        Beacon Project &#8599;
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.mls.uzh.ch/en/research/baudis.html" class="md-nav__link">
+        Michael Baudis @ UZH &#8599;
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+  <h1 id="welcome-to-the-baudisgroup-pages"><a href="http://info.baudisgroup.org">Welcome to the <em>baudisgroup</em> Pages</a><a class="headerlink" href="#welcome-to-the-baudisgroup-pages" title="Permanent link">&para;</a></h1>
+<p>The <em>baudisgroup</em> website represents projects and information by the <strong>Computational Oncogenomics Group</strong> of the <a href="https://www.mls.uzh.ch/en/research/baudis/">University of Zurich (UZH)</a> and the <a href="https://www.sib.swiss/baudis-michael/">Swiss Institute of Bioinformatics (SIB)</a>. For visitors more interested in Particle Astrophysics, we strongly recommend the website of another, although related, <a href="https://www.physik.uzh.ch/en/groups/baudis.html">Professor Baudis</a>.</p>
+<p><img style="float: right; width: 320px; margin-left: 15px; margin-bottom-10px;" src="/img/2020-06-10___Michael-Baudis-Beacon-evolution.005.png" />The Computational Oncogenomics Group's research focus lies in the exploration of structural genome variations in cancer. Our work centres around our <a href="http://progenetix.org">Progenetix</a> resource of curated molecular-cytogenetic and sequencing data. Specific projects explore computational methods, genomics of selected tumour entities and genomic variant patterns across malignancies. As members of the <a href="http://ga4gh.org">Global Alliance for Genomics and Health</a>, the group is developing standards in biocuration and data sharing for genomic variants and phenotypic data, for instance in driving development of the <a href="https://beacon-project.io">ELIXIR Beacon</a> project. Other research is related to genome data epistemology, e.g. geographic and diagnostic sampling biases in cancer studies.</p>
+<h3 id="some-projects">Some Projects<a class="headerlink" href="#some-projects" title="Permanent link">&para;</a></h3>
+<p>Ongoing software and service projects can be visited at our Github organizations (<a href="https://github.com/progenetix">progenetix</a> and <a href="https://github.com/baudisgroup">baudisgroup</a>) and when looking at individual contributions to e.g. GA4GH and ELIXIR.</p>
+<ul>
+<li><a href="https://github.com/progenetix/bycon">bycon</a> at Github in <strong>Progenetix</strong> - Python based implementation of a <a href="http://beacon-project.org">GA4GH Beacon</a></li>
+<li><a href="https://github.com/progenetix/pgxRpi">pgxRpi</a> at Github in <strong>Progenetix</strong> - An API wrapper package in R for loading &amp; displaying data from Progenetix </li>
+<li><a href="https://github.com/baudisgroup/segment-liftover">segment-liftover</a> at Github <strong>baudisgroup</strong><ul>
+<li><a href="http://info.baudisgroup.org/publications/2018/03/14/segment_liftover.html">publication</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/baudisgroup/snp2pop">SNP2pop</a> at Github <strong>baudisgroup</strong><ul>
+<li><a href="https://www.nature.com/articles/s41598-020-61854-x">publication at ScientificReports</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/progenetix/ICDOntologies">ICDOntologies</a> at Github in <strong>Progenetix</strong> - mapping disease concepts</li>
+</ul>
+<h3 id="support-or-contact">Support or Contact<a class="headerlink" href="#support-or-contact" title="Permanent link">&para;</a></h3>
+<p>For requests &amp; support, please use standard Github procedures such as pull
+requests or issues on our project repositories, or <a href="mailto:contact@progenetix.org">contact us</a>.</p>
+<h3 id="address">Address<a class="headerlink" href="#address" title="Permanent link">&para;</a></h3>
+<p>Winterthurerstrasse 190 | Y-13F-01 | CH-8057 Zurich | Switzerland</p>
+<p><a href="/img/access-map-Irchel.png" target="_blank"><img alt="How to find the Baudisgroup" src="/img/access-map-Irchel.png" style="width: 80%;" /></a></p>
+<h2 id="latest-news-publications">Latest News &amp; Publications<a class="headerlink" href="#latest-news-publications" title="Permanent link">&para;</a></h2>
+  
+
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+    
+    
+      
+        
+          
+        
+      
+    
+  
+
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      July 31, 2022
+      
+    </span>
+</aside>
+    <h3 class="title_news">A cancer genomics resource built on GA4GH standards</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="rahel-paloots-michael-baudis">Rahel Paloots, Michael Baudis<a class="headerlink" href="#rahel-paloots-michael-baudis" title="Permanent link">&para;</a></h4>
+<h5 id="cgc-st-louis-2022">CGC St Louis 2022<a class="headerlink" href="#cgc-st-louis-2022" title="Permanent link">&para;</a></h5>
+<p>Progenetix is a cancer genomics resource that includes genomic profiling data as well as biomedical annotations and provenance data for cancer studies. The main goal of the Progenetix database is to provide easy, open access for research studies and clinical diagnostics. To facilitate sharing of genomic data, Progenetix complies with and contributes to GA4GH and Beacon data standards. Beacon, developed with the support from ELXIR (the European bioinformatics infrastructure organization), started out as protocol to share genomic variants over federated queries.</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      July 01, 2022
+      
+    </span>
+</aside>
+    <h3 class="title_news">Candidate targets of copy number deletion events across 17 cancer types</h3>
+
+<h5 class="title_news">Identifying cancer related genes against the background of somatic CNV events</h5>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="huang-q-and-baudis-m">Huang Q and Baudis M<a class="headerlink" href="#huang-q-and-baudis-m" title="Permanent link">&para;</a></h4>
+<h5 id="biorxiv-doiorg10110120220629498080">bioRxiv, <a href="https://doi.org/10.1101/2022.06.29.498080">doi.org/10.1101/2022.06.29.498080</a><a class="headerlink" href="#biorxiv-doiorg10110120220629498080" title="Permanent link">&para;</a></h5>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      June 27, 2022
+      
+    </span>
+</aside>
+    <h3 class="title_news">Progenetix, BeaconPlus & GA4GH</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h5 id="a-cancer-genomics-reference-resource-powered-by-ga4gh-standards">A cancer genomics reference resource powered by GA4GH standards<a class="headerlink" href="#a-cancer-genomics-reference-resource-powered-by-ga4gh-standards" title="Permanent link">&para;</a></h5>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<h4 id="roche-data-science-seminar">Roche Data Science Seminar<a class="headerlink" href="#roche-data-science-seminar" title="Permanent link">&para;</a></h4>
+<p>The presentation reports about the Progenetix cancer genomics resource and its role
+in the GA4GH ecosystem &amp; the Beacon genomics API development process.</p>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      June 15, 2022
+      
+    </span>
+</aside>
+    <h3 class="title_news">The GA4GH Phenopacket schema defines a computable representation of clinical data</h3>
+
+<h5 class="title_news">Phenopackets v2 publication</h5>
+
+<!-- Use a hidden p tag to provide a preview -->
+<p><img alt="Cell Genomics logo" src="/img/nature-biotechnology-logo.svg" style="float: right; width: 200px; margin-top: -5px;" /></p>
+<h4 id="jacobsen-job-baudis-m-baynam-gs-beckmann-js-beltran-s-buske-oj-callahan-tj-chute-cg-courtot-m-danis-d-elemento-o-essenwanger-a-freimuth-rr-gargano-ma-groza-t-hamosh-a-harris-nl-kaliyaperumal-r-lloyd-kck-khalifa-a-krawitz-pm-kohler-s-laraway-bj-lehvaslaiho-h-matalonga-l-mcmurry-ja-metke-jimenez-a-mungall-cj-munoz-torres-mc-ogishima-s-papakonstantinou-a-piscia-d-pontikos-n-queralt-rosinach-n-roos-m-sass-j-schofield-pn-seelow-d-siapos-a-smedley-d-smith-ld-steinhaus-r-sundaramurthi-jc-swietlik-em-thun-s-vasilevsky-na-wagner-ah-warner-jl-weiland-c-axton-m-babb-l-boerkoel-cf-chaudhari-bp-chin-h-l-dumontier-m-gazzaz-n-hansen-dp-hochheiser-h-kinsler-va-lochmuller-h-mankovich-ar-saunders-gi-sergouniotis-pi-thompson-r-zankl-a-haendel-ma-robinson-pn-the-gaghpmc">Jacobsen JOB, Baudis M, Baynam GS, Beckmann JS, Beltran S, Buske OJ, Callahan TJ, Chute CG, Courtot M, Danis D, Elemento O, Essenwanger A, Freimuth RR, Gargano MA, Groza T, Hamosh A, Harris NL, Kaliyaperumal R, Lloyd KCK, Khalifa A, Krawitz PM, Köhler S
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      June 13, 2022
+      
+    </span>
+</aside>
+    <h3 class="title_news">Implementation of the GA4GH Beacon protocol for discovery and sharing of genomic copy number variation data</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<h4 id="eshg-vienna-2022">ESHG Vienna 2022<a class="headerlink" href="#eshg-vienna-2022" title="Permanent link">&para;</a></h4>
+<p><strong>Background &amp; Objectives</strong> Genomic copy number variations (CNV) are a major contributor to inter-individual genomic variation, can be causative events in rare diseases, but especially represent the majority of the mutational landscape in the most malignancies. While specific CNV events and some recurring patterns have contributed to the identification of individual cancer drivers and the recognition of cancer  subtypes, the complexity of genomic CNV patterns requires large amounts of well-defined genomic profiles for statistically meaningful analyses. At the other end of the spectrum, in the area of rare disease genomics the potential pathogenicity of individual CNV events requires validation against a vast set of disease-related and reference genomic profiles and annotations.</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      June 07, 2022
+      
+    </span>
+</aside>
+    <h3 class="title_news">Progenetix & BeaconPlus</h3>
+
+<h5 class="title_news">An open cancer genomics resource on a stack of Beacon code...</h5>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<h4 id="elixir-all-hands-amsterdam-2022">ELIXIR All Hands Amsterdam 2022<a class="headerlink" href="#elixir-all-hands-amsterdam-2022" title="Permanent link">&para;</a></h4>
+<p>Here Michael provides some overview of the multi-year trajectory of the Beacon API
+development, and how BeaconPlus &amp; Progenetix have been utilized for "implementation
+driven design".</p>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      March 17, 2022
+      
+    </span>
+</aside>
+    <h3 class="title_news">Beacon v2 and Beacon networks: A "lingua franca" for federated data discovery in biomedical genomics, and beyond</h3>
+
+<h5 class="title_news">Beacon v2 publication</h5>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="rambla-j-baudis-m-ariosa-r-beck-t-fromont-la-navarro-a-paloots-r-rueda-m-saunders-g-singh-b-spalding-jd">Rambla J, Baudis M, Ariosa R, Beck T, Fromont LA, Navarro A, Paloots R, Rueda M, Saunders G, Singh B, Spalding JD.<a class="headerlink" href="#rambla-j-baudis-m-ariosa-r-beck-t-fromont-la-navarro-a-paloots-r-rueda-m-saunders-g-singh-b-spalding-jd" title="Permanent link">&para;</a></h4>
+<h5 id="human-mutation-2022-mar-17-pmid35297548">Human Mutation. 2022 Mar 17. <a href="https://onlinelibrary.wiley.com/doi/10.1002/humu.24369">PMID:35297548</a><a class="headerlink" href="#human-mutation-2022-mar-17-pmid35297548" title="Permanent link">&para;</a></h5>
+<p><strong>Abstract</strong> Beacon is a basic data discovery protocol issued by the Global Alliance for Genomics and Health (GA4GH). The main goal addressed by version 1 of the Beacon protocol was to test the feasibility of broadly sharing human genomic data, through providing simple "yes" or "no" responses to queries about the presence of a given variant in datasets hosted by Beacon providers.</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      November 30, 2021
+      
+    </span>
+</aside>
+    <h3 class="title_news">The GA4GH Phenopacket schema: A computable representation of clinical data for precision medicine</h3>
+
+<h5 class="title_news">Phenopackets v2 preprint</h5>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="jacobsen-job-baudis-m-baynam-gs-beckmann-js-beltran-s-callahan-tj-chute-cg-courtot-m-danis-d-elemento-o-freimuth-rr-gargano-ma-groza-t-hamosh-a-harris-nl-kaliyaperumal-r-khalifa-a-krawitz-pm-koehler-s-laraway-bj-lehvaeslaiho-h-lloyd-kc-matalonga-l-mcmurry-ja-metke-jimenez-a-mungall-cj-munoz-torres-mc-ogishima-s-papakonstantinou-a-piscia-d-pontikos-n-queralt-rosinach-n-roos-m-schofield-pn-siapos-a-smedley-d-smith-ld-steinhaus-r-sundaramurthi-jc-swietlik-em-thun-s-vasilevsky-na-wagner-ah-warner-jl-weiland-c-haendel-ma-robinson-pn">Jacobsen JOB, Baudis M, Baynam GS, Beckmann JS, Beltran S, Callahan TJ, Chute CG, Courtot M, Danis D, Elemento O, Freimuth RR, Gargano MA, Groza T, Hamosh A, Harris NL, Kaliyaperumal R, Khalifa A, Krawitz PM, Koehler S
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      November 10, 2021
+      
+    </span>
+</aside>
+    <h3 class="title_news">The GA4GH Variation Representation Specification (VRS): a Computational Framework for the Precise Representation and Federated Identification of Molecular Variation.</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="alex-h-wagner-lawrence-babb-gil-alterovitz-michael-baudis-matthew-brush-daniel-l-cameron-melissa-cline-malachi-griffith-obi-l-griffith-sarah-e-hunt-david-kreda-jennifer-m-lee-stephanie-li-javier-lopez-eric-moyer-tristan-nelson-ronak-y-patel-kevin-riehle-peter-n-robinson-shawn-rynearson-helen-schuilenburg-kirill-tsukanov-brian-walsh-melissa-konopko-heidi-l-rehm-andrew-d-yates-robert-r-freimuth-reece-k-hart">Alex H. Wagner, Lawrence Babb, Gil Alterovitz, Michael Baudis, Matthew Brush, Daniel L. Cameron, Melissa Cline 
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      November 10, 2021
+      
+    </span>
+</aside>
+    <h3 class="title_news">GA4GH - International policies and standards</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h3 id="international-federation-of-genomic-medicine-databases-using-ga4gh-standards">International federation of genomic medicine databases using GA4GH standards<a class="headerlink" href="#international-federation-of-genomic-medicine-databases-using-ga4gh-standards" title="Permanent link">&para;</a></h3>
+<h4 id="adrian-thorogood-heidi-l-rehm-peter-goodhand-angela-jh-page-yann-joly-michael-baudis-jordi-rambla-arcadi-navarro-tommi-h-nyronen-mikael-linden-edward-s-dove-marc-fiume-michael-brudno-melissa-s-cline-ewan-birney">Adrian Thorogood, Heidi L. Rehm, Peter Goodhand, Angela J.H. Page, Yann Joly, Michael Baudis, Jordi Rambla, Arcadi Navarro, Tommi H. Nyronen, Mikael Linden, Edward S. Dove, Marc Fiume, Michael Brudno, Melissa S. Cline, Ewan Birney<a class="headerlink" href="#adrian-thorogood-heidi-l-rehm-peter-goodhand-angela-jh-page-yann-joly-michael-baudis-jordi-rambla-arcadi-navarro-tommi-h-nyronen-mikael-linden-edward-s-dove-marc-fiume-michael-brudno-melissa-s-cline-ewan-birney" title="Permanent link">&para;</a></h4>
+<h5 id="thorogood-adrian-et-al-cell-genomics-volume-1-issue-2-100032-doi101016jxgen2021100032">Thorogood, Adrian et al. Cell Genomics, Volume 1, Issue 2, 100032 <a href="https://doi.org/10.1016/j.xgen.2021.100032">doi:10.1016/j.xgen.2021.100032</a><a class="headerlink" href="#thorogood-adrian-et-al-cell-genomics-volume-1-issue-2-100032-doi101016jxgen2021100032" title="Permanent link">&para;</a></h5>
+<h4 id="note">Note<a class="headerlink" href="#note" title="Permanent link">&para;</a></h4>
+<p><img alt="Cell Genomics logo" src="/img/logo-cell-genomics.png" style="float: right; width: 150px; margin-top: -50px;" />This article was published as part of a special GA4GH edition of <a href="https://www.cell.com/cell-genomics/issue?pii=S2666-979X(21)X0003-1">Cell Genomics</a>.</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      November 10, 2021
+      
+    </span>
+</aside>
+    <h3 class="title_news">GA4GH: International policies and standards for data sharing across genomic research and healthcare</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="heidi-l-rehm-angela-jh-page-lindsay-smith-jeremy-b-adams-gil-alterovitz-lawrence-j-babb-maxmillian-p-barkley-michael-baudis-michael-js-beauvais-tim-beck-jacques-s-beckmann-sergi-beltran-david-bernick-alexander-bernier-james-k-bonfield-tiffany-f-boughtwood-guillaume-bourque-sarion-r-bowers-anthony-j-brookes-michael-brudno-matthew-h-brush-david-bujold-tony-burdett-orion-j-buske-moran-n-cabili-daniel-l-cameron-robert-j-carroll-esmeralda-casas-silva-debyani-chakravarty-bimal-p-chaudhari-shu-hui-chen-j-michael-cherry-justina-chung-melissa-cline-hayley-l-clissold-robert-m-cook-deegan-melanie-courtot-fiona-cunningham-miro-cupak-robert-m-davies-danielle-denisko-megan-j-doerr-lena-i-dolman-edward-s-dove-l-jonathan-dursi-stephanie-om-dyke-james-a-eddy-karen-eilbeck-kyle-p-ellrott-susan-fairley-khalid-a-fakhro-helen-v-firth-michael-s-fitzsimons-marc-fiume-paul-flicek-ian-m-fore-mallory-a-freeberg-robert-r-freimuth-lauren-a-fromont-jonathan-fuerth-clara-l-gaff-weiniu-gan-elena-m-ghanaim-david-glazer-robert-c-green-malachi-griffith-obi-l-griffith-robert-l-grossman-tudor-groza-jaime-m-guidry-auvil-roderic-guigo-dipayan-gupta-melissa-a-haendel-ada-hamosh-david-p-hansen-reece-k-hart-dean-mitchell-hartley-david-haussler-rachele-m-hendricks-sturrup-calvin-wl-ho-ashley-e-hobb-michael-m-hoffman-oliver-m-hofmann-petr-holub-jacob-shujui-hsu-jean-pierre-hubaux-sarah-e-hunt-ammar-husami-julius-o-jacobsen-saumya-s-jamuar-elizabeth-l-janes-francis-jeanson-aina-jene-amber-l-johns-yann-joly-steven-jm-jones-alexander-kanitz-kazuto-kato-thomas-m-keane-kristina-kekesi-lafrance-jerome-kelleher-giselle-kerry-seik-soon-khor-bartha-m-knoppers-melissa-a-konopko-kenjiro-kosaki-martin-kuba-jonathan-lawson-rasko-leinonen-stephanie-li-michael-f-lin-mikael-linden-xianglin-liu-isuru-udara-liyanage-javier-lopez-anneke-m-lucassen-michael-lukowski-alice-l-mann-john-marshall-michele-mattioni-alejandro-metke-jimenez-anna-middleton-richard-j-milne-fruzsina-molnar-gabor-nicola-mulder-monica-c-munoz-torres-rishi-nag-hidewaki-nakagawa-jamal-nasir-arcadi-navarro-tristan-h-nelson-ania-niewielska-amy-nisselle-jeffrey-niu-tommi-h-nyronen-brian-d-oconnor-sabine-oesterle-soichi-ogishima-vivian-ota-wang-laura-ad-paglione-emilio-palumbo-helen-e-parkinson-anthony-a-philippakis-angel-d-pizarro-andreas-prlic-jordi-rambla-augusto-rendon-renee-a-rider-peter-n-robinson-kurt-w-rodarmer-laura-lyman-rodriguez-alan-f-rubin-manuel-rueda-gregory-a-rushton-rosalyn-s-ryan-gary-i-saunders-helen-schuilenburg-torsten-schwede-serena-scollen-alexander-senf-nathan-c-sheffield-neerjah-skantharajah-albert-v-smith-heidi-j-sofia-dylan-spalding-amanda-b-spurdle-zornitza-stark-lincoln-d-stein-makoto-suematsu-patrick-tan-jonathan-a-tedds-alastair-a-thomson-adrian-thorogood-timothy-l-tickle-katsushi-tokunaga-juha-tornroos-david-torrents-sean-upchurch-alfonso-valencia-roman-valls-guimera-jessica-vamathevan-susheel-varma-danya-f-vears-coby-viner-craig-voisin-alex-h-wagner-susan-e-wallace-brian-p-walsh-marc-s-williams-eva-c-winkler-barbara-j-wold-grant-m-wood-j-patrick-woolley-chisato-yamasaki-andrew-d-yates-christina-k-yung-lyndon-j-zass-ksenia-zaytseva-junjun-zhang-peter-goodhand-kathryn-north-ewan-birney">Heidi L. Rehm, Angela J.H. Page, Lindsay Smith, Jeremy B. Adams, Gil Alterovitz, Lawrence J. Babb, Maxmillian P. Barkley, Michael Baudis, Michael J.S. Beauvais, Tim Beck, Jacques S. Beckmann, Sergi Beltran, David Bernick, Alexander Bernier, James K. Bonfield, Tiffany F. Boughtwood, Guillaume Bourque, Sarion R. Bowers, Anthony J. Brookes, Michael Brudno, Matthew H. Brush, David Bujold, Tony Burdett, Orion J. Buske, Moran N. Cabili
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      June 30, 2021
+      
+    </span>
+</aside>
+    <h3 class="title_news">The Progenetix oncogenomic resource in 2021</h3>
+
+<h5 class="title_news">Article describing the current content & technical status of progenetix.org</h5>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="qingyao-huang-paula-carrio-cordo-bo-gao-rahel-paloots-michael-baudis">Qingyao Huang, Paula Carrio Cordo, Bo Gao, Rahel Paloots, Michael Baudis<a class="headerlink" href="#qingyao-huang-paula-carrio-cordo-bo-gao-rahel-paloots-michael-baudis" title="Permanent link">&para;</a></h4>
+<h5 id="database-oxford-2021-jul-172021baab043">Database (Oxford). 2021 Jul 17;2021:baab043.<a class="headerlink" href="#database-oxford-2021-jul-172021baab043" title="Permanent link">&para;</a></h5>
+<ul>
+<li>doi: 10.1093/database/baab043.</li>
+<li>PMID: 34272855</li>
+<li>PMCID: PMC8285936.</li>
+<li>bioRxiv. doi: <a href="https://doi.org/10.1101/2021.02.15.428237">doi.org/10.1101/2021.02.15.428237</a></li>
+</ul>
+<p><img alt="DATABASE logo" src="/img/logo-database-journal-300x150.png" style="float: right; width: 150px; margin-top: -100px;" />This article provides an overview of recent changes and additions to the Progenetix database and the services provided through the resource.</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      May 13, 2021
+      
+    </span>
+</aside>
+    <h3 class="title_news">Signatures of Discriminative CNA in 31 Cancer Subtypes</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h3 id="bo-gao-and-michael-baudis-2021">Bo Gao and Michael Baudis (2021)<a class="headerlink" href="#bo-gao-and-michael-baudis-2021" title="Permanent link">&para;</a></h3>
+<h4 id="published-at-frontiers-in-genetics-2021-05-13">Published at <em>Frontiers in Genetics</em>, 2021-05-13<a class="headerlink" href="#published-at-frontiers-in-genetics-2021-05-13" title="Permanent link">&para;</a></h4>
+<h4 id="abstract">Abstract<a class="headerlink" href="#abstract" title="Permanent link">&para;</a></h4>
+<p>Copy number aberrations (CNA) are one of the most important classes of genomic mutations relatedto oncogenetic effects. In the past three decades, a vast amount of CNA data has been generated bymolecular-cytogenetic and genome sequencing based methods. While this data has been instrumentalin the identification of cancer-related genes and promoted research into the relation between CNA andhisto-pathologically defined cancer types, the heterogeneity of source data and derived CNV profilespose great challenges for data integration and comparative analysis. Furthermore, a majority of exist-ing studies have been focused on the association of CNA to pre-selected ”driver” genes with limitedapplication to rare drivers and other genomic elements.</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      March 02, 2021
+      
+    </span>
+</aside>
+    <h3 class="title_news">GA4GH Connect - Beacon v2 and SchemaBlocks</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="ga4gh-connect-2020"><a href="https://broadinstitute.swoogo.com/ga4gh-connect-2021/?i=sNK7RoeeqhyJE1ueSnn5lz4F9RRfnnIU">GA4GH Connect 2020</a><a class="headerlink" href="#ga4gh-connect-2020" title="Permanent link">&para;</a></h4>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<h5 id="beacon-v2-structural-variants-slides">Beacon v2 Structural Variants <a href="http://info.baudisgroup.org/pdf/2021-03-02___Michael-Baudis__Beacon-structural-variants-queries.pdf">[slides]</a><a class="headerlink" href="#beacon-v2-structural-variants-slides" title="Permanent link">&para;</a></h5>
+<h5 id="schemablocks-sb-slides">SchemaBlocks {S}[B] <a href="http://info.baudisgroup.org/pdf/2021-03-04___Michael-Baudis__SchemaBocks__GA4GH-Connect-2021-slides.pdf">[slides]</a><a class="headerlink" href="#schemablocks-sb-slides" title="Permanent link">&para;</a></h5>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      March 01, 2021
+      
+    </span>
+</aside>
+    <h3 class="title_news">Copy number variant heterogeneity among cancer types reflects inconsistent concordance with diagnostic classifications</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="paula-carrio-cordo-and-michael-baudis">Paula Carrio Cordo and Michael Baudis<a class="headerlink" href="#paula-carrio-cordo-and-michael-baudis" title="Permanent link">&para;</a></h4>
+<h5 id="biorxiv-doi-doiorg10110120210301433348">bioRxiv. doi: <a href="https://doi.org/10.1101/2021.03.01.433348">doi.org/10.1101/2021.03.01.433348</a><a class="headerlink" href="#biorxiv-doi-doiorg10110120210301433348" title="Permanent link">&para;</a></h5>
+<p>This article explores the correlation between subsets of cancer entities, grouped by their somatic CNV patterns, and levels of diagnostic classification systems.</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      December 07, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Genomic data and Privacy</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<h4 id="ethz-lecture">ETHZ Lecture<a class="headerlink" href="#ethz-lecture" title="Permanent link">&para;</a></h4>
+<p>The understanding of the impact of individual inherited and somatic genome variants on phenotypes and diseases requires a thorough understanding of the occurrence of such variants amongst populations in general and carriers of the phenotypes and diseases in particular. This information can only be provided through the inclusion of data from a multitude of genome resources  in variant evaluation efforts, including such from outside (international) jurisdictions. However, opening such resources carries the inherent risk of breaching privacy, particularly through re-identification of individuals or their relatives and potentially through the exposure of individual genome-related personal information including  phenotypic and "performance" prediction and relative disease risk.</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      November 04, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Beacon v2 – Towards flexible use and clinical applications for a reference genomic data protocol</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="sphn-webinar"><a href="https://sphn.ch/seminar-training/beacon-project/">SPHN Webinar</a><a class="headerlink" href="#sphn-webinar" title="Permanent link">&para;</a></h4>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<p>Genomic “Beacons” provide discovery services for genomic data using the Beacon API developed as a key driver project of the Global Alliance for Genomics and Health (GA4GH). The Beacon protocol itself defines an open standard for genomics data discovery and provides a framework for web services responding to queries against genomic data collections, for instance from population based or disease specific genome repositories. Sites offering beacons can scale through aggregation in “Beacon Networks” which distribute queries among a potentially large number of beacons and assemble their responses.</p>
+<p>As part of ELIXIR’s Beacon 2019–21 project work has advanced on a re-designed Beacon protocol, with the aim to provide a maximum of flexibility while closely adhering to data and security standards promoted by the international research community, aligned with the GA4GH ecosystem. Beacon v2 features have been designed with view to clinical and biomedical research, e.g. for variant evidence and annotation data or the retrieval of diagnostic and other clinical data when used in secure environments. Recently, the efficient use of the Beacon protocol for non-human genome data has been demonstrated for COVID-19 repositories, showcasing the flexibility of the protocol.</p>
+<p>Here I will provide an overview about the history, current status future directions of the Beacon protocol, including details about the Beacon+ service on top of the progenetix.org cancer genomics resource.</p>
+<h4 id="additional-links">Additional Links<a class="headerlink" href="#additional-links" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://beacon-project.io">Beacon Website</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      October 30, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Update of Progenetix Oncogenomics Resource</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="research-progress-report-dmls-university-of-zurich"><a href="https://www.mls.uzh.ch/en/seminars.html">Research Progress Report, DMLS, University of Zurich</a><a class="headerlink" href="#research-progress-report-dmls-university-of-zurich" title="Permanent link">&para;</a></h4>
+<h3 id="qingyao-huang">Qingyao Huang<a class="headerlink" href="#qingyao-huang" title="Permanent link">&para;</a></h3>
+<p>Copy number aberration (CNA) is frequently observed in cancer genomes. Meta-analysis of genomic variations helps to disentangle the multiplex molecular mechanism underlying tumorigenesis as well as identify and characterize molecular subtypes. Over the years, cancer genomic research have resulted in a considerable amount of data segregated by studies. The Progenetix project (<a href="http://www.progenetix.org">www.progenetix.org</a>), initiated in 2001, aims to systematize the published cancer genomic profiles and provide accurate annotation to facilitate integrative analysis. Since the last update of the Progenetix database in 2013, the field of genomics research and cancer research has seen significant advancement in terms of molecular genetics technology, annotation/reference refinement, data standard harmonization and data gathering in an increasingly structured and systematic manner. Continuous data integration, curation and maintenance have been dedicated to provide the most comprehensive representation of the cancer genome profiling data. </p>
+<p>Since last release, there have been significant expansion on sample number, cancer type diversity, publications, study cohorts and technology platforms, improvements on data quality, ontology representation, as well as stuctural changes in terms of database schema, and data access including web interface. In this presentation, we detail the 2020 update of the Progenetix in six aspects: 1. Introduction, 2 New meta-data features with domain-specific mapping, 3 Data sources with sample expansion and process pipeline, 4 Data standard and object model, 5 Adopted Beacon protocol and associated features, 6 New web interface and features. </p>
+<h4 id="additional-links">Additional Links<a class="headerlink" href="#additional-links" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="https://progenetix.org/storage-ext/2020-10-30___Qingyao__DMLS_progress_report_recording.mp4">Video Recording of Presentation</a></li>
+<li><a href="http://progenetix.org">Progenetix Website</a></li>
+<li><a href="http://beacon-project.io">Beacon Website</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      October 26, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Welcome to Ziying</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<p>Today <a href="/group/Ziying_Yang/">Ziying Yang</a> arrived as a new member of the <em>baudisgroup</em>. </p>
+<p>Welcome Ziying!</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      September 30, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">GA4GH Beacon v2 at GA4GH Plenary</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h2 id="ga4gh-beacon-v2-evolving-reference-standard-for-genomic-data-exchange">GA4GH Beacon v2 - Evolving Reference Standard for Genomic Data Exchange<a class="headerlink" href="#ga4gh-beacon-v2-evolving-reference-standard-for-genomic-data-exchange" title="Permanent link">&para;</a></h2>
+<h4 id="ga4gh-8th-plenary"><a href="https://broadinstitute.swoogo.com/ga4gh-8th-plenary/455678">GA4GH 8th Plenary</a><a class="headerlink" href="#ga4gh-8th-plenary" title="Permanent link">&para;</a></h4>
+<h3 id="gary-saunders-jordi-rambla-de-argila-anthony-brookes-juha-tornroos-and-michael-baudis">Gary Saunders, Jordi Rambla de Argila, Anthony Brookes, Juha Törnroos and Michael Baudis<a class="headerlink" href="#gary-saunders-jordi-rambla-de-argila-anthony-brookes-juha-tornroos-and-michael-baudis" title="Permanent link">&para;</a></h3>
+<h5 id="for-the-elixir-beacon-project-ga4gh-discovery-work-stream-and-the-international-network-of-beacon-api-developers">For the ELIXIR Beacon project, GA4GH Discovery work stream and the international network of Beacon API developers<a class="headerlink" href="#for-the-elixir-beacon-project-ga4gh-discovery-work-stream-and-the-international-network-of-beacon-api-developers" title="Permanent link">&para;</a></h5>
+<p>The Beacon driver project was one of the earliest initiatives of the Global Alliance for Genomics and Health with the Beacon v1.0 API as first approved GA4GH standard.
+Version 2 of the protocol is slated to provide fundamental changes, towards a Internet of Genomics foundational standard:
+* requests beyond genomic variants ("filters")
+* payload responses, secured through open AAI
+* aligning w/ GA4GH standards (Phenopackets, VRS, DUO...) through SchemaBlocks <a href="https://schemablocks.org">{S}[B]</a>
+* Working with international partners on deployment of advanced implementations</p>
+<h4 id="additional-links">Additional Links<a class="headerlink" href="#additional-links" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://beacon-project.io">Beacon Website</a></li>
+<li><a href="https://schemablocks.org">SchemaBlocks {S}[B]</a></li>
+<li><a href="https://progenetix.org/beaconplus-instances/beaconplus/">Beacon+ in progenetix-next</a></li>
+<li><a href="https://github.com/progenetix/bycon">Bycon Project</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      September 30, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Progenetix - A cancer genomics reference resource around GA4GH standards</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="ga4gh-8th-plenary"><a href="https://broadinstitute.swoogo.com/ga4gh-8th-plenary/455678">GA4GH 8th Plenary</a><a class="headerlink" href="#ga4gh-8th-plenary" title="Permanent link">&para;</a></h4>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<p>The Progenetix oncogenomics resource provides sample-specific cancer
+genome profiling data and biomedical annotations as well as provenance data from cancer studies. Especially through currently 113322 curated genomic copy number number (CNV) profiles from 1600 individual studies representing over 500 cancer types (NCIt), Progenetix empowers aggregate and comparative analyses which vastly exceed individual studies or single diagnostic concepts.</p>
+<p>Progenetix has been widely used in research studies, clinical diagnostics and recently in the development of data protocols and standards with the Global Alliance for Genomics and Health (GA4GH) and the European bioinformatics initiative ELIXIR. Specifically, the Beacon+ service, implemented on top of the Progenetix datasets, has been instrumental in developing and testing advanced features of the Beacon protocol such as structural variant queries, "handover" data delivery and the implementation of queries for phenoptypic and diagnostic parameters using CURIE based "filters". During development of GA4GH metadata concepts and schemas - which have influenced emerging standards such as the Phenopackets format - cancer specific annotations from the Progenetix collection have served to identify conceptual requirements and to develop domain-specific mappings (e.g. ICD-O to NCIt translations). The resource's focus on structural genome variants has been instrumental in addressing their specific requirements in GA4GH schema development and the Beacon protocol.</p>
+<p>Here, we will demonstrate how an open genomic reference resource has been built around GA4GH standards and how it is being used to support ongoing and future developments in GA4GH standard development and ELIXIR implementation studies.</p>
+<p>progenetix.org</p>
+<h4 id="additional-links">Additional Links<a class="headerlink" href="#additional-links" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://beacon-project.io">Beacon Website</a></li>
+<li><a href="https://progenetix.org/beacon-plus/search">Beacon+ in progenetix-next</a></li>
+<li><a href="https://github.com/progenetix/bycon">Bycon Project</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      September 02, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Cancer Data - ELIXIR::GA4GH: Advancing genomics resources through standards and ontologies</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="eccb2020"><a href="https://eccb2020.info/ntbew02-elixirga4gh-advancing-genomics-through-expedited-data-access-enabled-by-standards-and-ontologies/">ECCB2020</a><a class="headerlink" href="#eccb2020" title="Permanent link">&para;</a></h4>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<h4 id="additional-links">Additional Links<a class="headerlink" href="#additional-links" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://beacon-project.io">Beacon Website</a></li>
+<li><a href="http://next.progenetix.org/">Beacon+ in progenetix-next</a></li>
+<li><a href="https://github.com/progenetix/bycon">Bycon Project</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      August 10, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">The Ubiquitin Ligase TRIP12 Limits PARP1 Trapping and Constrains PARP Inhibitor Efficiency</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="marco-gatti-ralph-imhof-qingyao-huang-michael-baudis-matthias-altmeyer">Marco Gatti, Ralph Imhof, Qingyao Huang, Michael Baudis, Matthias Altmeyer<a class="headerlink" href="#marco-gatti-ralph-imhof-qingyao-huang-michael-baudis-matthias-altmeyer" title="Permanent link">&para;</a></h4>
+<h5 id="cell-rep-2020-aug-4-doi-101016jcelrep2020107985">Cell Rep. 2020 Aug 4 DOI: <a href="https://doi.org/10.1016/j.celrep.2020.107985">10.1016/j.celrep.2020.107985</a><a class="headerlink" href="#cell-rep-2020-aug-4-doi-101016jcelrep2020107985" title="Permanent link">&para;</a></h5>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      June 30, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Beacon v2 - Flexible Use and Clinical Applications</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h2 id="beacon-v2-towards-flexible-use-and-clinical-applications-for-a-reference-genomic-data-sharing-protocol">Beacon v2 - Towards Flexible Use and Clinical Applications for a Reference Genomic Data Sharing Protocol<a class="headerlink" href="#beacon-v2-towards-flexible-use-and-clinical-applications-for-a-reference-genomic-data-sharing-protocol" title="Permanent link">&para;</a></h2>
+<h4 id="personalized-health-technologies-2020"><a href="https://www.personalizedhealth.nexus.ethz.ch">Personalized Health Technologies 2020</a><a class="headerlink" href="#personalized-health-technologies-2020" title="Permanent link">&para;</a></h4>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<p>Beacons provide discovery services for genomic data using the Beacon API developed under
+the leadership of ELIXIR, as a key driver project of the Global Alliance for Genomics and
+Health (GA4GH). The Beacon protocol itself defines an open standard for genomics data
+discovery. It provides a framework for public web services responding to queries against
+genomic data collections, for instance from population based or disease specific genome
+repositories. Sites offering beacons can scale through aggregation in "Beacon Networks",
+which distribute single genome queries among a potentially large number of international
+beacons and assemble their responses.</p>
+<p>As part of ELIXIR’s Beacon 2019-21 project work has started on a radically re-designed
+Beacon protocol, with the aim to provide a maximum of flexibility while closely adhering
+to data and security standards promoted by the international research community, and
+especially as part of projects in the GA4GH ecosystem. Upcoming features have been designed
+with view to biomedical applications, e.g. for variant evidence and annotation data or the
+retrieval of phenotype and other clinical data when used in secure (network) environments.</p>
+<p>Recently, the efficient use of the Beacon protocol for non-human genome data has been
+demonstrated for COVID-19 repositories, showcasing the flexibility of the protocol.</p>
+<p>Here I will provide an overview about the history, current status future directions of the
+Beacon protocol, including details about the Beacon+ service on top of the <a href="http://progenetix.org">progenetix.org</a>
+cancer genomics resource.</p>
+<h4 id="additional-links">Additional Links<a class="headerlink" href="#additional-links" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://beacon-project.io">Beacon Website</a></li>
+<li><a href="http://beacon.progenetix.org">Beacon+</a></li>
+<li><a href="http://beacon.progenetix.org">Bycon Project</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      June 10, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">ELIXIR All Hands - Beacon Evolution</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="elixir-all-hands-2020-beacon-workshop">ELIXIR All Hands 2020 - Beacon Workshop<a class="headerlink" href="#elixir-all-hands-2020-beacon-workshop" title="Permanent link">&para;</a></h4>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<p>This presentation covers some of Beacon's
+origins, features and directions.</p>
+<h4 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://info.baudisgroup.org/pdf/2020-06-10___Michael-Baudis__Beacon-evolution__ELIXIR-All-Hands-slides.pdf">Presentation slides</a></li>
+<li><a href="http://beacon-project.io">Beacon Website</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      May 14, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Oncology Informatics: Status Quo and Outlook - Review</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="paul-martin-putora-michael-baudis-beth-m-beadle-issam-el-naqa-frank-a-giordano-and-nils-h-nicolay">Paul Martin Putora, Michael Baudis, Beth M. Beadle, Issam El Naqa, Frank A. Giordano and Nils H. Nicolay<a class="headerlink" href="#paul-martin-putora-michael-baudis-beth-m-beadle-issam-el-naqa-frank-a-giordano-and-nils-h-nicolay" title="Permanent link">&para;</a></h4>
+<h5 id="oncology-2020-05-14-doi-101159000507586-review">Oncology, 2020-05-14. <a href="https://doi.org/10.1159/000507586">DOI 10.1159/000507586</a> (Review)<a class="headerlink" href="#oncology-2020-05-14-doi-101159000507586-review" title="Permanent link">&para;</a></h5>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      May 06, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Swissnex SF: Laura & Michael Baudis - Life & Family</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<p>Originally planned for their stays at <a href="https://www.berkeley.edu">UCB</a> and <a href="http://lbl.gov">LBNL</a>, Laura &amp; Michael were interviewed by Tabea Stoeckel from <a href="https://www.swissnexsanfrancisco.org">swissnex San Francisco</a> about their stay in the Bay Area and their research &amp; family life as internationally active scientists.</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      May 06, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Minimum Error Calibration and Normalization for Genomic Copy Number Analysis</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="bo-gao-and-michael-baudis-2020">Bo Gao and Michael Baudis (2020)<a class="headerlink" href="#bo-gao-and-michael-baudis-2020" title="Permanent link">&para;</a></h4>
+<h5 id="biorxiv-2019-07-31-doi-101101720854">bioRxiv, 2019-07-31. <a href="https://doi.org/10.1101/720854">DOI 10.1101/720854</a><a class="headerlink" href="#biorxiv-2019-07-31-doi-101101720854" title="Permanent link">&para;</a></h5>
+<h5 id="genomics-volume-112-issue-5-september-2020-pages-3331-3341-accepted-2020-05-06-doiorg101016jygeno202005008">Genomics, Volume 112, Issue 5, September 2020, Pages 3331-3341, accepted 2020-05-06 <a href="https://doi.org/10.1016/j.ygeno.2020.05.008">doi.org/10.1016/j.ygeno.2020.05.008</a>.<a class="headerlink" href="#genomics-volume-112-issue-5-september-2020-pages-3331-3341-accepted-2020-05-06-doiorg101016jygeno202005008" title="Permanent link">&para;</a></h5>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      April 20, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">SchemaBlocks and GA4GH TASC</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<p>A brief presentation about SchemaBlocks concepts and its possible integration into the new GA4GH TASC effort.</p>
+<h4 id="additional-links">Additional Links<a class="headerlink" href="#additional-links" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://schemablocks.org">schemablocks</a></li>
+<li><a href="http://ga4gh.org">GA4GH</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      April 03, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="alex-h-wagner-brian-walsh-georgia-mayfield-david-tamborero-dmitriy-sonkin-kilannin-krysiak-jordi-deu-pons-ryan-p-duren-jianjiong-gao-julie-mcmurry-sara-patterson-catherine-del-vecchio-fitz-beth-a-pitel-ozman-u-sezerman-kyle-ellrott-jeremy-l-warner-damian-t-rieke-tero-aittokallio-ethan-cerami-deborah-i-ritter-lynn-m-schriml-robert-r-freimuth-melissa-haendel-gordana-raca-subha-madhavan-michael-baudis-jacques-s-beckmann-rodrigo-dienstmann-debyani-chakravarty-xuan-shirley-li-susan-mockus-olivier-elemento-nikolaus-schultz-nuria-lopez-bigas-mark-lawler-jeremy-goecks-malachi-griffith-obi-l-griffith-adam-a-margolin-variant-interpretation-for-cancer-consortium">Alex H. Wagner, Brian Walsh, Georgia Mayfield, David Tamborero, Dmitriy Sonkin, Kilannin Krysiak, Jordi Deu-Pons, Ryan P. Duren, Jianjiong Gao, Julie McMurry, Sara Patterson, Catherine del Vecchio Fitz, Beth A. Pitel, Ozman U. Sezerman, Kyle Ellrott, Jeremy L. Warner, Damian T. Rieke, Tero Aittokallio, Ethan Cerami, Deborah I. Ritter, Lynn M. Schriml, Robert R. Freimuth, Melissa Haendel, Gordana Raca, Subha Madhavan, Michael Baudis, Jacques S. Beckmann
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      April 02, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Geographic assessment of cancer genome profiling studies</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="paula-carrio-cordo-elise-acheson-qingyao-huang-and-michael-baudis-2020">Paula Carrio Cordo, Elise Acheson, Qingyao Huang and Michael Baudis (2020)<a class="headerlink" href="#paula-carrio-cordo-elise-acheson-qingyao-huang-and-michael-baudis-2020" title="Permanent link">&para;</a></h4>
+<h5 id="database-volume-2020-2020-baaa009-doiorg101093databasebaaa009">DATABASE, Volume 2020, 2020, baaa009, <a href="https://doi.org/10.1093/database/baaa009">doi.org/10.1093/database/baaa009</a><a class="headerlink" href="#database-volume-2020-2020-baaa009-doiorg101093databasebaaa009" title="Permanent link">&para;</a></h5>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      March 19, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">SWISSNEX SF Lunch Seminar - Data Mining in Genomics</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h3 id="genomic-research-and-personalised-health-strategies">Genomic Research and Personalised Health Strategies<a class="headerlink" href="#genomic-research-and-personalised-health-strategies" title="Permanent link">&para;</a></h3>
+<h4 id="resources-standards-protocols-tools-discourse">Resources | Standards | Protocols | Tools | Discourse<a class="headerlink" href="#resources-standards-protocols-tools-discourse" title="Permanent link">&para;</a></h4>
+<p>These are the <a href="/pdf/2020-03-19___Swissnex-SF-Michael-Baudis-Biodata.pdf">slides</a>
+of a short presentation, given (virtually, since COVID-19) for a
+<a href="https://www.swissnexsanfrancisco.org">SWISSNEX San Francisco</a> lunch meeting.</p>
+<h4 id="additional-links">Additional Links<a class="headerlink" href="#additional-links" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="https://progenetix.org">Progenetix</a></li>
+<li><a href="http://schemablocks.org">schemablocks</a></li>
+<li><a href="http://beacon.progenetix.org">Beacon+</a></li>
+<li><a href="http://ga4gh.org">GA4GH</a></li>
+<li><a href="http://beacon-project.io">ELIXIR Beacon Project</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      March 16, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Enabling population assignment from cancer genomes with SNP2pop</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="huang-q-and-baudis-m-2020">Huang Q and Baudis M. (2020)<a class="headerlink" href="#huang-q-and-baudis-m-2020" title="Permanent link">&para;</a></h4>
+<h5 id="sci-rep-10-4846-2020-doiorg101038s41598-020-61854-x">Sci Rep 10, 4846 (2020). <a href="https://doi.org/10.1038/s41598-020-61854-x">doi.org/10.1038/s41598-020-61854-x</a><a class="headerlink" href="#sci-rep-10-4846-2020-doiorg101038s41598-020-61854-x" title="Permanent link">&para;</a></h5>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      February 14, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">BBOP Presentation - Baudisgroup Projects & Interests</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h5 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h5>
+<ul>
+<li><a href="https://progenetix.org">Progenetix</a>
+     <a href="https://info.progenetix.org/doc/+generated-doc-API-api/">Progenetix API</a></li>
+<li><a href="http://schemablocks.org">schemablocks</a></li>
+<li><a href="http://beacon.progenetix.org">Beacon+</a></li>
+<li><a href="http://beacon-project.io">ELIXIR Beacon Project</a></li>
+<li><a href="http://ga4gh-discovery.github.io">GA4GH :: Discovery</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      February 08, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Michael @ BBOP</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<p>Between 2020-02-08 and 2020-04-10, Michael has switched his office for a desk
+at the Berkeley Bioinformatics Open-source Projects (<a href="http://www.berkeleybop.org/index.html">BBOP</a>)
+where he will work with members of Chris Mungall's team on projects related to
+biomedical ontologies, data standards and the analysis of cancer genome data.</p>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      February 06, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">ELIXIR Beacon Project - Networking Resources Across and Beyond ELIXIR Human Data Communities</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="elixir-open-day-wellcome-trust-genome-campus-hinxton"><a href="https://elixir-europe.org/events/elixir-open-day">ELIXIR Open Day</a> - Wellcome Trust Genome Campus Hinxton<a class="headerlink" href="#elixir-open-day-wellcome-trust-genome-campus-hinxton" title="Permanent link">&para;</a></h4>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<p>In this presentation I introduce the Beacon project and provide
+my opinions about its future trajectory, and especially its role
+in driving the alignment of ELIXIR and GA4GH projects in related
+to (human) genome data sharing.</p>
+<h5 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h5>
+<ul>
+<li><a href="http://info.baudisgroup.org/pdf/2020-02-06___Michael-Baudis__Beacon-Networks__ELIXIR-Day-2020.pdf">Presentation slides</a></li>
+<li><a href="http://beacon-project.io">ELIXIR Beacon Project</a></li>
+<li><a href="http://beacon.progenetix.org">Beacon+</a></li>
+<li><a href="http://schemablocks.org">schemablocks</a></li>
+<li><a href="http://ga4gh-discovery.github.io">GA4GH :: Discovery</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      January 28, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">GA4GH SchemaBlocks for Human Cell Atlas</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<p>This is a presentation of the SchemaBlocks initiative and the overall GA4GH
+context, for the Human Cell Atlas project, given by Michael at one of their
+teleconferences.</p>
+<h4 id="additional-links">Additional Links<a class="headerlink" href="#additional-links" title="Permanent link">&para;</a></h4>
+<ul>
+<li><a href="http://schemablocks.org">schemablocks</a></li>
+<li><a href="http://ga4gh.org">GA4GH</a></li>
+<li><a href="https://www.humancellatlas.org">Human Cell Atlas</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      January 11, 2020
+      
+    </span>
+</aside>
+    <h3 class="title_news">Geographic assessment of cancer genome profiling studies</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="paula-carrio-cordo-elise-acheson-qingyao-huang-and-michael-baudis-2020">Paula Carrio Cordo, Elise Acheson, Qingyao Huang and Michael Baudis (2020)<a class="headerlink" href="#paula-carrio-cordo-elise-acheson-qingyao-huang-and-michael-baudis-2020" title="Permanent link">&para;</a></h4>
+<h5 id="biorxiv-2020-11-01-doi-101101827683">bioRxiv, 2020-11-01. <a href="https://doi.org/10.1101/827683">DOI 10.1101/827683</a><a class="headerlink" href="#biorxiv-2020-11-01-doi-101101827683" title="Permanent link">&para;</a></h5>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      November 08, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">Talk at St. Gallen Radiation Oncology - Bioinformatics and Data Exchange</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="3rd-st-gallen-radiation-oncology-informatics-meeting">3rd St. Gallen Radiation Oncology Informatics Meeting<a class="headerlink" href="#3rd-st-gallen-radiation-oncology-informatics-meeting" title="Permanent link">&para;</a></h4>
+<h2 id="bioinformatics-and-data-exchange-for-genomics-in-an-international-context">Bioinformatics and data exchange for genomics in an international context<a class="headerlink" href="#bioinformatics-and-data-exchange-for-genomics-in-an-international-context" title="Permanent link">&para;</a></h2>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<p>The presentation at the St. Gallen meeting introduced the audience to the 
+group's research and resources, and how this is connected to the different
+national &amp; international data standards and sharing initiatives.</p>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      October 08, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">Talk at AMED Tokyo -  Cancer Genomics and Standards</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="mini-symposium-about-cnv-and-data-standards-at-amed-japan-tokyo">Mini-Symposium about CNV and Data Standards at <a href="https://www.amed.go.jp/en/index.html">AMED Japan, Tokyo</a><a class="headerlink" href="#mini-symposium-about-cnv-and-data-standards-at-amed-japan-tokyo" title="Permanent link">&para;</a></h4>
+<h2 id="cancer-genomics-and-implementation-of-data-driven-standards-for-genomic-data-exchange">Cancer Genomics and Implementation of Data Driven Standards for Genomic Data Exchange<a class="headerlink" href="#cancer-genomics-and-implementation-of-data-driven-standards-for-genomic-data-exchange" title="Permanent link">&para;</a></h2>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<p>At this meeting, several Japanese participants presented their research and 
+results, with a focus on Copy Number Variants and other structural genome 
+variations.</p>
+<p>Michael presented the overarching work of the group, from curating &amp; analyzing 
+cancer CNV datasets towards the projects (Beacon, Schemablocks, h-CNV) to enable 
+sharing of these and other types of genomic data.</p>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      September 10, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">Minimum Error Calibration and Normalization for Genomic Copy Number Analysis</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="bc2-2019-basel">BC2 2019, Basel<a class="headerlink" href="#bc2-2019-basel" title="Permanent link">&para;</a></h4>
+<h2 id="minimum-error-calibration-and-normalization-for-genomic-copy-number-analysis">Minimum Error Calibration and Normalization for Genomic Copy Number Analysis<a class="headerlink" href="#minimum-error-calibration-and-normalization-for-genomic-copy-number-analysis" title="Permanent link">&para;</a></h2>
+<h3 id="bo-gao">Bo Gao<a class="headerlink" href="#bo-gao" title="Permanent link">&para;</a></h3>
+<h4 id="abstract">Abstract<a class="headerlink" href="#abstract" title="Permanent link">&para;</a></h4>
+<p><strong>Background</strong>:<br />
+Copy number variations (CNV) are regional deviations from thenormal autosomal bi-allelic DNA content. While germline CNVs are a majorcontributor to genomic syndromes and inherited diseases, the majority of cancersaccumulate extensive ”somatic” CNV (sCNV or CNA) during the process ofoncogenetic transformation and progression. While specific sCNV have closelybeen associated with tumorigenesis, intriguingly many neoplasias exhibitrecurrent sCNV patterns beyond the involvement of a few cancer driver genes.Currently, CNV profiles of tumor samples are generated using genomicmicro-arrays or high-throughput DNA sequencing. Regardless of the underlyingtechnology, genomic copy number data is derived from the relative assessmentand integration of multiple signals, with the data generation process being proneto contamination from several sources. Estimated copy number values have noabsolute and linear correlation to their corresponding DNA levels, and the extentof deviation differs between sample profiles which poses a great challenge fordata integration and comparison in large scale genome analysis.</p>
+<p><strong>Results</strong>:<br />
+In this study, we present a novel method named Minimum ErrorCalibration and Normalization of Copy Numbers Analysis (Mecan4CNA). Foreach sCNV profile,Mecan4CNAreduces the noise level, calculates valuesrepresenting the normal DNA copies (baseline) and the change of one copy (leveldistance), and finally normalizes all values. Experiments ofMecan4CNAonsimulated data showed an overall accuracy of 93% and 91% in determining thebaseline and level distance, respectively. Comparison of baseline and level distanceestimation with existing methods and karyotyping data on the NCI-60 tumor cellline produced coherent results. To estimate the method’s impact on downstreamanalyses we performed GISTIC analyses on original andMecan4CNAdata fromthe Cancer Genome Atlas (TCGA) where the normalized data showed prominentimprovements of both sensitivity and specificity in detecting focal regions.</p>
+<p><strong>Conclusions</strong>: 
+In general,Mecan4CNAprovides an advanced method for CNAdata normalization especially in research involving data of high volume andheterogeneous quality. With its informative output and visualization, it can alsofacilitate analysis of individual CNA profiles.Mecan4CNAis freely available as aPython package and through Github.</p>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      September 10, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">Cancer cell lines in focus: somatic copy number & germline variation</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="bc2-2019-basel">BC2 2019, Basel<a class="headerlink" href="#bc2-2019-basel" title="Permanent link">&para;</a></h4>
+<h3 id="qingyao-huang">Qingyao Huang<a class="headerlink" href="#qingyao-huang" title="Permanent link">&para;</a></h3>
+<h4 id="abstract">Abstract<a class="headerlink" href="#abstract" title="Permanent link">&para;</a></h4>
+<p><strong>Background</strong>:<br />
+Human cell lines are convenient model systems in cancer research, for validation of proposed molecular mechanisms as well as to evaluate potential therapeutic approaches, e.g. through high- throughput screening of potential anti-tumour compounds against cancer cell line panels. However, conclusions about biological pathways or pharmacological potential depend on a close molecular relation between the cancer type represented and the cell line model used for analyses.  
+The validity of cell line based observations depends therefore A) on the correct identification and lineage assignment, and B) on the conservation of cancer specific molecular alterations during cell line propagation. However, according to ICLAC (International Cell Line Authentication Committee) a large proportion of cell lines have been found to be misidentified.</p>
+<p><strong>Methods</strong>:
+Our study is based on 3675 genomic copy number variation (CNV) profiling data from arrayMap resource, representing 1539 distinct cell lines as identified in the Cellosaurus database. In addition, manually curated ontology terms based on retrieved metadata are available, as defined by NCI Thesaurus (NCIt) and International Classification of Diseases-Ontology (ICD-O). For germline analysis, we performed genome-wide phasing and imputation to integrate samples from various array platforms. Then, we estimated kinship and built phylogenetic trees based on germline similarity.</p>
+<p><strong>Results</strong>:<br />
+We confirmed the close relatedness within cell lines as well as between cell lines of similar ethnic origin. For somatic variation, we clustered CNV patterns and evaluated the consistency between cell lines and the primary tutor sample data of the same origin.</p>
+<p><strong>Conclusions</strong>: 
+We analysed both somatic variation and germline signature within the same cell lines, to evaluate dynamic genome changes related to cell line propagation, as well as to determine instances of mis- assignment based on strong genomic profile divergence. As a research output, we provide the germline lineage tree and somatic CNV clustering for available cancer cell lines as an online resource.</p>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      September 03, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">UniFi Seminar - Structural Genome Variants in Cancer</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="seminar-universita-degli-studi-firenze-dipartimento-di-biologia">Seminar Universita degli Studi Firenze - Dipartimento di Biologia<a class="headerlink" href="#seminar-universita-degli-studi-firenze-dipartimento-di-biologia" title="Permanent link">&para;</a></h4>
+<h2 id="structural-genome-variants-in-cancer-research-resources-standards">Structural Genome Variants in Cancer: Research, resources standards<a class="headerlink" href="#structural-genome-variants-in-cancer-research-resources-standards" title="Permanent link">&para;</a></h2>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<h5 id="abstract">Abstract<a class="headerlink" href="#abstract" title="Permanent link">&para;</a></h5>
+<p>Genomic copy number variations are major contributors to malignant transformation and progression and constitute - at least in their quantitative extension - the largest contributors to genomic mutation landscapes, in the majority of cancer types. Such mutations occur in the vast majority of tumors as somatic genome alterations (sCNV) during clonal development and expansion and are promoted by a variety of mechanisms leading to extended or focal changes in the number of genomic segments. </p>
+<p>However, while sCNV based alterations of many canonical cancer related genes has been shown, the impact of the widespread, extensive sCNV patterns is poorly understood, not the least due to the limited amount of accessible whole-genome sCNV datasets and the lack of appropriate data standards and exchange formats.</p>
+<p>With the Progenetix and arrayMap repositories our group provides 2 of the largest resources for pre-processed CNV data in cancer, mostly based on the curation and re-analysis of data from public repositories and individual publications. As members of the Global Alliance for Genomics and Health (GA4GH) and participants in the ELIXIR h-CNV community and Beacon project, we utilise our resources to design, implement and test variant annotation and storage formats, as well as federated genome variation discovery tools such as the “Beacon” API, with focus on CNV data.</p>
+<p>The presentation will focus on our work for sCNV resources and tools, and also provide some introduction into GA4GH and ELIXIR, with focus of our specific areas of interest. </p>
+<ul>
+<li><a href="/pdf/2019-09-03___Michael-Baudis__Structural-Genome-Variants-in-Cancer__Seminar-UniFirenze.pdf">[slides]</a></li>
+</ul>
+<h5 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h5>
+<ul>
+<li><a href="http://progenetix.org">progenetix.org</a></li>
+<li><a href="http://arraymap.org">arraymap.org</a></li>
+<li><a href="http://beacon-project.io">ELIXIR Beacon Project</a></li>
+<li><a href="http://beacon.progenetix.org">Beacon+</a></li>
+<li><a href="http://schemablocks.org">schemablocks</a></li>
+</ul>
+<p><img alt="" src="/img/2019-09-03-seminar-Firenze-Michael-flyer.png" /></p>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      August 27, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">Leveraging European infrastructures to access 1 million human genomes by 2022</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="gary-saunders-michael-baudis-regina-becker-sergi-beltran-christophe-beroud-ewan-birney-cath-brooksbank-sren-brunak-marc-van-den-bulcke-rachel-drysdale-salvador-capella-gutierrez-paul-flicek-francesco-florindi-peter-goodhand-ivo-gut-jaap-heringa-petr-holub-jef-hooyberghs-nick-juty-thomas-m-keane-jan-o-korbel-ilkka-lappalainen-brane-leskosek-gert-matthijs-michaela-th-mayrhofer-andres-metspalu-steven-newhouse-tommi-nyronen-angela-page-bengt-persson-aarno-palotie-helen-parkinson-jordi-rambla-david-salgado-erik-steinfelder-morris-a-swertz-susheel-varma-niklas-blomberg-and-serena-scollen">Gary Saunders, Michael Baudis, Regina Becker, Sergi Beltran, Christophe Béroud, Ewan Birney, Cath Brooksbank, Søren Brunak, Marc Van den Bulcke, Rachel Drysdale, Salvador Capella-Gutierrez, Paul Flicek, Francesco Florindi, Peter Goodhand, Ivo Gut, Jaap Heringa, Petr Holub, Jef Hooyberghs, Nick Juty, Thomas M. Keane, Jan O. Korbel, Ilkka Lappalainen, Brane Leskosek, Gert Matthijs, Michaela Th. Mayrhofer, Andres Metspalu, Steven Newhouse, Tommi Nyrönen, Angela Page, Bengt Persson, Aarno Palotie, Helen Parkinson, Jordi Rambla, David Salgado, Erik Steinfelder, Morris A. Swertz, Susheel Varma, Niklas Blomberg, and Serena Scollen<a class="headerlink" href="#gary-saunders-michael-baudis-regina-becker-sergi-beltran-christophe-beroud-ewan-birney-cath-brooksbank-sren-brunak-marc-van-den-bulcke-rachel-drysdale-salvador-capella-gutierrez-paul-flicek-francesco-florindi-peter-goodhand-ivo-gut-jaap-heringa-petr-holub-jef-hooyberghs-nick-juty-thomas-m-keane-jan-o-korbel-ilkka-lappalainen-brane-leskosek-gert-matthijs-michaela-th-mayrhofer-andres-metspalu-steven-newhouse-tommi-nyronen-angela-page-bengt-persson-aarno-palotie-helen-parkinson-jordi-rambla-david-salgado-erik-steinfelder-morris-a-swertz-susheel-varma-niklas-blomberg-and-serena-scollen" title="Permanent link">&para;</a></h4>
+<h5 id="nature-reviews-genetics-volume-20-pages693701-2019">Nature Reviews Genetics volume 20, pages693–701 (2019)<a class="headerlink" href="#nature-reviews-genetics-volume-20-pages693701-2019" title="Permanent link">&para;</a></h5>
+<!--  CONTENT  -->
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      July 31, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">Minimum Error Calibration and Normalization for Genomic Copy Number Analysis</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="bo-gao-and-michael-baudis-2019">Bo Gao and Michael Baudis (2019)<a class="headerlink" href="#bo-gao-and-michael-baudis-2019" title="Permanent link">&para;</a></h4>
+<h5 id="biorxiv-2019-07-31-doi-101101720854">bioRxiv, 2019-07-31. <a href="https://doi.org/10.1101/720854">DOI 10.1101/720854</a><a class="headerlink" href="#biorxiv-2019-07-31-doi-101101720854" title="Permanent link">&para;</a></h5>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      June 17, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">ELIXIR All Hands - Beacon Introduction</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="elixir-all-hands-lisbon-2019">ELIXIR All Hands - Lisbon 2019<a class="headerlink" href="#elixir-all-hands-lisbon-2019" title="Permanent link">&para;</a></h4>
+<h2 id="introduction-to-beacon">Introduction to Beacon<a class="headerlink" href="#introduction-to-beacon" title="Permanent link">&para;</a></h2>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<p>This presentation was the opener for the ELIXIR Beacon session, and introduces to current developments and especially the interactions between GA4GH :: Discovery and ELIXIR Beacon.</p>
+<h5 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h5>
+<ul>
+<li><a href="http://beacon-project.io">ELIXIR Beacon Project</a></li>
+<li><a href="http://beacon.progenetix.org">Beacon+</a></li>
+<li><a href="http://schemablocks.org">schemablocks</a></li>
+<li><a href="http://ga4gh-discovery.github.io">GA4GH :: Discovery</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      June 14, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">HGVS 2019 - Development of Standards for Genomic Data Exchange</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="human-genome-variation-society-gothenburg-2019">Human Genome Variation Society - Gothenburg 2019<a class="headerlink" href="#human-genome-variation-society-gothenburg-2019" title="Permanent link">&para;</a></h4>
+<h2 id="implementation-driven-development-of-standards-for-genomic-data-exchange-from-cancer-genome-data-collections">Implementation Driven Development of Standards for Genomic Data Exchange from Cancer Genome Data Collections<a class="headerlink" href="#implementation-driven-development-of-standards-for-genomic-data-exchange-from-cancer-genome-data-collections" title="Permanent link">&para;</a></h2>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<h5 id="abstract">Abstract<a class="headerlink" href="#abstract" title="Permanent link">&para;</a></h5>
+<p>Cancers are genomic diseases, arising from the clonal propagation of somatic mutation events, with a limited contribution from inherited genomic variants. Genomic copy number variations are major contributors to malignant transformation and progression and constitute - at least in their quantitative extension - the largest contributors to genomic mutation landscapes, in the majority of cancer types. However, while sCNV based alterations of many canonical cancer related genes has been shown, the impact of the widespread, extensive sCNV patterns is poorly understood, not the least due to the limited amount of accessible whole-genome sCNV datasets and the lack of appropriate data standards and exchange formats.
+With the Progenetix and arrayMap repositories our group provides 2 of the largest resources for pre-processed CNV data in cancer, mostly based on the curation and re-analysis of data from public repositories and individual publications. As members of the Global Alliance for Genomics and Health (GA4GH) and participants in the ELIXIR h-CNV community and Beacon project, we utilise our resources to design, implement and test variant annotation and storage formats, as well as federated genome variation discovery tools such as the “Beacon” API, with focus on CNV data.</p>
+<h5 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h5>
+<ul>
+<li><a href="http://progenetix.org">progenetix.org</a></li>
+<li><a href="http://arraymap.org">arraymap.org</a></li>
+<li><a href="http://beacon-project.io">ELIXIR Beacon Project</a></li>
+<li><a href="http://beacon.progenetix.org">Beacon+</a></li>
+<li><a href="http://schemablocks.org">schemablocks</a></li>
+</ul>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      January 25, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">2019 01 25 talk RD basel michael</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="rd-data-intelligence-leaders-forum-basel">R&amp;D Data Intelligence Leaders Forum Basel<a class="headerlink" href="#rd-data-intelligence-leaders-forum-basel" title="Permanent link">&para;</a></h4>
+<h2 id="connecting-the-silos-genomic-data-standards-resources-and-the-global-alliance-for-genomics-and-health">Connecting the silos - Genomic Data Standards, Resources and the Global Alliance for Genomics and Health<a class="headerlink" href="#connecting-the-silos-genomic-data-standards-resources-and-the-global-alliance-for-genomics-and-health" title="Permanent link">&para;</a></h2>
+<h3 id="michael-baudis">Michael Baudis<a class="headerlink" href="#michael-baudis" title="Permanent link">&para;</a></h3>
+<h5 id="abstract">Abstract<a class="headerlink" href="#abstract" title="Permanent link">&para;</a></h5>
+<p>This presentation discusses the need for data sharing in genomics, provides information about the Global Alliance for Genomics and Health (GA4GH), and shows some of our group's contributions, especially regarding Beacon development.</p>
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      January 23, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">Federated discovery and sharing of genomic data using Beacons</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="miroslav-cupak-stephen-keenan-jordi-rambla-sabela-de-la-torre-stephanie-dyke-anthony-brookes-knox-carey-david-lloyd-peter-goodhand-maximilian-haeussler-michael-baudis-heinz-stockinger-lena-dolman-ilkka-lappalainen-juha-tornroos-mikael-linden-john-spalding-saif-ur-rehman-angela-page-paul-flicek-susheel-varma-gary-saunders-serena-scollen-stephen-sherry-david-haussler-beacon-project-team">Miroslav Cupak , Stephen Keenan , Jordi Rambla , Sabela de la Torre , Stephanie Dyke , Anthony Brookes , Knox Carey , David Lloyd , Peter Goodhand , Maximilian Haeussler , Michael Baudis , Heinz Stockinger , Lena Dolman , Ilkka Lappalainen , Juha Törnroos , Mikael Linden , John Spalding , Saif Ur-Rehman , Angela Page , Paul Flicek , Susheel Varma , Gary Saunders , Serena Scollen , Stephen Sherry , David Haussler , Beacon Project Team<a class="headerlink" href="#miroslav-cupak-stephen-keenan-jordi-rambla-sabela-de-la-torre-stephanie-dyke-anthony-brookes-knox-carey-david-lloyd-peter-goodhand-maximilian-haeussler-michael-baudis-heinz-stockinger-lena-dolman-ilkka-lappalainen-juha-tornroos-mikael-linden-john-spalding-saif-ur-rehman-angela-page-paul-flicek-susheel-varma-gary-saunders-serena-scollen-stephen-sherry-david-haussler-beacon-project-team" title="Permanent link">&para;</a></h4>
+<h5 id="nat-biotechnol-2019-accepted-2019-01-23">Nat Biotechnol (2019), accepted 2019-01-23<a class="headerlink" href="#nat-biotechnol-2019-accepted-2019-01-23" title="Permanent link">&para;</a></h5>
+<!--  CONTENT  -->
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+    <aside class="blog-post-aside">
+    <span>
+      
+      <span class="twemoji">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0zm-3.5 4.5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25H3.25zM21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25V9.5z"/></svg>
+      </span>
+      January 19, 2019
+      
+    </span>
+</aside>
+    <h3 class="title_news">DNA copy number imbalances in primary cutaneous lymphomas (PCL)</h3>
+
+<!-- Use a hidden p tag to provide a preview -->
+<h4 id="gug-g-huang-q-chiticariu-e-solovan-c-and-baudis-m-2019">Gug G, Huang Q, Chiticariu E, Solovan C and Baudis M  (2019)<a class="headerlink" href="#gug-g-huang-q-chiticariu-e-solovan-c-and-baudis-m-2019" title="Permanent link">&para;</a></h4>
+<h5 id="jeadv-2019-01-19-doiorg101111jdv15442">JEADV, 2019-01-19. <a href="https://doi.org/10.1111/jdv.15442">doi.org/10.1111/jdv.15442</a><a class="headerlink" href="#jeadv-2019-01-19-doiorg101111jdv15442" title="Permanent link">&para;</a></h5>
+
+<a href="./">
+  <span class="twemoji">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M13.22 19.03a.75.75 0 0 0 1.06 0l6.25-6.25a.75.75 0 0 0 0-1.06l-6.25-6.25a.75.75 0 1 0-1.06 1.06l4.97 4.97H3.75a.75.75 0 0 0 0 1.5h14.44l-4.97 4.97a.75.75 0 0 0 0 1.06z"/></svg>
+  </span>
+  Continue reading
+</a>
+  
+
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      &copy; Copyright 2007 - 2022 Michael Baudis
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+      
+      
+    
+    <a href="https://github.com/baudisgroup" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": ".", "features": ["content.tabs.link", "search.highlight", "search.share", "navigation.instant", "navigation.tracking", "navigation.sections", "toc.integrate"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "assets/javascripts/workers/search.22074ed6.min.js"}</script>
+    
+    
+      <script src="assets/javascripts/bundle.960e086b.min.js"></script>
+      
+    
+  </body>
+</html>

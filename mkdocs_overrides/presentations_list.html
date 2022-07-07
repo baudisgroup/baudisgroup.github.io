@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ page.content }}
+  {% set news_posts = [] %}
+
+  {% for this_file in pages %}
+    {% set this_page = this_file.page %}
+    {% if this_page.meta is defined %}
+      {% if this_page.url.startswith(config.extra.presentations.dir) and this_page.meta.date is defined %}
+        {{ news_posts.append( this_page ) or "" }}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for page in (news_posts|sort(attribute="meta.date", reverse=True))[:config.extra.blog_list_length] %}
+    {% include "partials/date_separator.html" %}
+    {% include "partials/post_list_preview.html" %}
+  {% endfor %}
+{% endblock %}

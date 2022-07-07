@@ -1,0 +1,134 @@
+title: 'baudisgroup @ UZH & SIB'
+label: 'baudisgroup UZH & SIB'
+tagline: 'Computational Oncogenomics Group @ UZH & SIB'
+description: |
+  Public website of the Computational Oncogenomics group at the University of Zurich
+github_organisation: baudisgroup
+google_analytics: UA-572981-2
+# source_path: '~/groupbox/www/info.baudisgroup.org/pages'
+# destination: '/Library/WebServer/Documents/Sites/org.baudisgroup.info/'
+keywords:
+  - genomics
+  - cancer
+  - Beacon
+  - DNA
+  - 'data sharing'
+  - 'FAIR'
+  - GA4GH
+  - Zurich
+site_domain_name: info.baudisgroup.org
+url: 'https://info.baudisgroup.org'
+baseurl: ""
+site_parent_link: 'https://www.mls.uzh.ch/en/research/baudis.html'
+
+# instructions for processing specific directories
+
+include:        # usually only pages in / and /_posts are "seen" => processed
+  - categories  # contains landing pages for each category
+  - tags        # contains landing pages for each tag
+
+# Collections are used to organise pages into logical groups; these do not need
+# to have a relation to the "categories", though this is highly recommended
+# Collection directories reside in "/collections_dir/_(collection name)".
+
+collections:
+  people:
+    output: true
+    permalink: /people/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
+  presentations:
+    output: true
+    permalink: /presentations/:path/
+  positions:
+    output: true
+    permalink: /positions/:path/
+  doc:
+    output: true
+    permalink: /doc/:path/
+collections_dir: pages  # optional; here, all collections are inside "/pages"
+
+# navigation blocks can be used to separate different categories and add e.g.
+# external link block(s), in combination with a properly modified layout
+
+nav_cat_blocks: # comma-separated "label,type,label_visibility"
+  General: 'General,categories,hide'
+  related_sites: 'Related Sites,related_sites,show'
+  github_projects: 'Github Projects,github_projects,show'
+
+General:
+  people: Group members
+  news: News
+  publications: Publications
+  presentations: 'Talks & Posters'
+  teaching: 'Teaching'
+  howto: 'Notes & Guides'
+  positions: Open Positions
+
+categories-date-sorted:
+  - news
+  - publications
+  - presentations
+
+tags-date-sorted:
+  - presentation
+  - article
+  - slides
+  - talk
+
+related_sites:
+  'Baudisgroup Internal': 'https://internal.baudisgroup.org'
+  'Progenetix': 'https://progenetix.org'
+  'Beacon<span style="color: red; font-weight: 800;">+</span>': 'http://beacon.progenetix.org/ui/'
+  'Beacon Project': 'https://ga4gh-beacon.github.io'
+  'hCNV Community': 'https://hcnv.github.io'
+  'GA4GH SchemaBlocks': 'https://schemablocks.org'
+  'GA4GH::Discovery': 'http://ga4gh-discovery.github.io'
+  CompbioZurich: 'https://compbiozurich.org'
+
+github_projects:
+  baudisgroup: 'https://github.com/baudisgroup/'
+  progenetix: 'https://github.com/progenetix/'
+  'ELIXIR Beacon': 'https://github.com/ga4gh-beacon/'
+
+cloud_tags:
+  - API
+  - Perl
+  - Python
+  - abstract
+  - article
+  - Beacon
+  - code
+  - collaboration
+  - conference
+  - ga4gh
+  - maps
+  - markdown
+  - mongodb
+  - ontologies
+  - outreach
+  - poster
+  - preprint
+  - presentation
+  - regex
+  - slides
+  - talk
+  - website
+
+# additional Jekyll instructions
+
+plugins:
+ - jekyll-seo-tag
+type: website
+show_downloads: true
+future: true
+safe: false
+navigation_max_items: 4 # number of shown links in current category
+emptyArray: []          # dummy element for array initialisation
+
+# local build specific
+
+include:
+  - .htaccess
+#markdown: kramdown

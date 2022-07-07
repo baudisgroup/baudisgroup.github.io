@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ page.title }}</h1>
+<p>
+  <b>{{ page.meta.description }}</b>
+</p>
+  {{ page.content }}
+
+  {% if page.meta.pdf_file_name %}
+<hr/>
+    {% set pdfLab = "PDF" %}
+    {% if ".pdf" in page.meta.pdf_file_name %}
+<span class="twemoji">
+  Download {{ pdfLab }}&nbsp;<a href="/pdf/{{page.meta.pdf_file_name}}">{% include ".icons/fontawesome/regular/file-pdf.svg" %}</a>
+</span>
+    {% endif %}
+  {% endif %}
+  {% include "partials/date_separator.html" %}
+{% endblock %}
