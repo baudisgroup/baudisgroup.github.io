@@ -1,9 +1,10 @@
 {% extends "base.html" %}
 
 {% block content %}
-  {{ page.content }}
-  {% set news_posts = [] %}
 
+  {{ page.content }}
+
+  {% set news_posts = [] %}
   {% for this_file in pages %}
     {% set this_page = this_file.page %}
     {% if this_page.meta is defined %}
@@ -17,4 +18,5 @@
     {% include "partials/date_separator.html" %}
     {% include "partials/post_list_preview.html" %}
   {% endfor %}
+
 {% endblock %}
