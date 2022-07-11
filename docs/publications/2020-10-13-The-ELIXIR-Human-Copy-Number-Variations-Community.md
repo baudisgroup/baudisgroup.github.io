@@ -4,15 +4,9 @@ template: blog_post.html
 authors:
  - '@mbaudis'
 pdf_file_name: 2020-10-13___Salgado-D-et-al.__The-ELIXIR-hCNV-Community__F1000-Research.pdf
-pdf_file_type: article    # slides poster article
 www_link:
-www_links_formatted:
+links:
   - '<a href="https://f1000research.com/articles/9-1229/v1" target="_blank">[article @ F1000 Research]</a>'
-category:
-  - publications
-  - news
-tags:
-  - article
 ---
 
 #### Salgado D, Armean IM, Baudis M et al.

@@ -4,12 +4,6 @@ date: 2020-12-07
 template: blog_post.html 
 authors:
   - '@mbaudis'
-category:
-  - presentations
-  - news
-tags:
-  - presentation
-  - ETHZ
 pdf_file_name: 2020-12-07___Michael-Baudis__Genomic-data-and-Privacy__ETHZ-551-1299-00L-HS20.pdf
 pdf_file_type: slides
 ---

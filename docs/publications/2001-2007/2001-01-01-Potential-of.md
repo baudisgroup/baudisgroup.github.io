@@ -3,7 +3,8 @@ title: "Potential of..."
 date: 2001-01-01
 pdf_file_name: 11757703.pdf
 pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/11757703
+links:
+  - http://europepmc.org/abstract/MED/11757703
 category:
   - publications
 tags:

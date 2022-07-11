@@ -1,13 +1,11 @@
 ---
 title: "CDCOCA: a statistica..."
+template: blog_post.html 
 date: 2011-01-01
 pdf_file_name: 21371302.pdf
 pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/21371302
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/21371302
 ---
 
 ### CDCOCA: a statistical method to define complexity dependence of co-occuring chromosomal aberrations.

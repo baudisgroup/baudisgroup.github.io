@@ -1,13 +1,10 @@
 ---
 title: "Comprehensive..."
+template: blog_post.html 
 date: 2008-07-01
 pdf_file_name: 18371186.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/18371186
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/18371186
 ---
 
 ### Comprehensive characterization of genomic aberrations in gangliogliomas by CGH, array-based CGH and interphase FISH.

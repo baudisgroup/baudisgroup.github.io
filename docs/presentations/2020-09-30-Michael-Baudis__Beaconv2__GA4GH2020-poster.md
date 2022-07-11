@@ -4,16 +4,12 @@ date: 2020-09-30
 template: blog_post.html 
 authors:
   - '@mbaudis'
-category:
-  - presentations
-  - news
-tags:
-  - poster
-  - presentation
-  - Beacon
-  - GA4GH
 pdf_file_name: 2020-09-21___Michael-Baudis__Beaconv2__GA4GH-8th-Plenary-poster.pdf
-pdf_file_type: poster
+links:
+  - '<a href="http://beacon-project.io">[Beacon Website]</a>'
+  - '<a href="https://schemablocks.org">[SchemaBlocks {S}[B]]</a>'
+  - '<a href="https://progenetix.org/beaconplus-instances/beaconplus/">[Beacon+ in progenetix-next]</a>'
+  - '<a href="https://github.com/progenetix/bycon">[Bycon Project]</a>'
 ---
 
 ## GA4GH Beacon v2 - Evolving Reference Standard for Genomic Data Exchange
@@ -27,10 +23,3 @@ Version 2 of the protocol is slated to provide fundamental changes, towards a In
 * payload responses, secured through open AAI
 * aligning w/ GA4GH standards (Phenopackets, VRS, DUO...) through SchemaBlocks [{S}[B]](https://schemablocks.org)
 * Working with international partners on deployment of advanced implementations
-
-#### Additional Links
-
-* [Beacon Website](http://beacon-project.io)
-* [SchemaBlocks {S}[B]](https://schemablocks.org)
-* [Beacon+ in progenetix-next](https://progenetix.org/beaconplus-instances/beaconplus/)
-* [Bycon Project](https://github.com/progenetix/bycon)

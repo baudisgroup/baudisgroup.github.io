@@ -1,13 +1,11 @@
 ---
 title: "Distance-based..."
+template: blog_post.html 
 date: 2006-08-01
 pdf_file_name: 16705014.pdf
 pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/16705014
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/16705014
 ---
 
 ### Distance-based clustering of CGH data.

@@ -1,13 +1,10 @@
 ---
-title: "Combined single..."
+title: "Combined single nucleotide polymorphism-based genomic mapping and global gene expression profiling identifies novel chromosomal imbalances, mechanisms and candidate genes important in the pathogenesis of T-cell prolymphocytic leukemia with inv(14)(q11q32)"
+template: blog_post.html 
 date: 2007-10-01
 pdf_file_name: 17713554.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/17713554
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/17713554
 ---
 
 ### Combined single nucleotide polymorphism-based genomic mapping and global gene expression profiling identifies novel chromosomal imbalances, mechanisms and candidate genes important in the pathogenesis of T-cell prolymphocytic leukemia with inv(14)(q11q32).

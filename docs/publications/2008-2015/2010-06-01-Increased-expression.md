@@ -1,13 +1,10 @@
 ---
 title: "Increased expression..."
+template: blog_post.html 
 date: 2010-06-01
 pdf_file_name: 20054560.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/20054560
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/20054560
 ---
 
 ### Increased expression of cellular retinol-binding protein 1 in laryngeal squamous cell carcinoma.

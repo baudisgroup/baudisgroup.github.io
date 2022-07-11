@@ -6,16 +6,10 @@ authors:
   - "@mbaudis"
   - "@qingyao"
 pdf_file_name: 2020-03-16___Huang-Q-and-Baudis-M__Population-assignment-from cancer genomes-with-SNP2pop__ScientificReports.pdf
-pdf_file_type: article    # slides poster article
 www_link: 
-www_links_formatted:
-  - final article at <a href="https://www.nature.com/articles/s41598-020-61854-x" target="_blank">[ScientificReports]</a>
-  - earlier <a href="https://www.biorxiv.org/content/early/2019/01/14/368647" target="_blank">[bioRxiv]</a> version
-category: 
-  - publications
-  - news
-tags: 
-  - article
+links:
+  - <a href="https://www.nature.com/articles/s41598-020-61854-x" target="_blank">[ScientificReports]</a>
+  - <a href="https://www.biorxiv.org/content/early/2019/01/14/368647" target="_blank">[bioRxiv]</a>
 ---
 
 #### Huang Q and Baudis M. (2020)

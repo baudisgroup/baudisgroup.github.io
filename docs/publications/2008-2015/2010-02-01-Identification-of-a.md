@@ -1,13 +1,10 @@
 ---
 title: "Identification of a..."
+template: blog_post.html 
 date: 2010-02-01
 pdf_file_name: 20101688.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/20101688
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/20101688
 ---
 
 ### Identification of a 21q22 duplication in a Silver-Russell syndrome patient further narrows down the Down syndrome critical region.

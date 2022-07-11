@@ -1,13 +1,10 @@
 ---
 title: "Randomized study to..."
+template: blog_post.html 
 date: 2002-11-01
 pdf_file_name: 12431962.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/12431962
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/12431962
 ---
 
 ### Randomized study to evaluate the use of high-dose therapy as part of primary treatment for "aggressive" lymphoma.

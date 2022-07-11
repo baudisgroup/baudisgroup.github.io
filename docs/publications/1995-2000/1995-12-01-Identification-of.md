@@ -2,7 +2,8 @@
 title: "Identification of..."
 date: 1995-12-01
 pdf_file_name: 8747993.pdf
-www_link: http://europepmc.org/abstract/MED/8747993
+links:
+  - http://europepmc.org/abstract/MED/8747993
 category:
   - publications
 tags:

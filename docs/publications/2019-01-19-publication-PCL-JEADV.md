@@ -1,18 +1,12 @@
 ---
 title: "DNA copy number imbalances in primary cutaneous lymphomas (PCL)"
+template: blog_post.html 
 date: 2019-01-19
 author: qingyao
 pdf_file_name: 2019-01-19___Gug-et-al.__DNA-copy-number-imbalances-in-primary-cutaneous-lymphomas,-PCL__JEADV.pdf
-pdf_file_type: article    # slides poster article
-www_link:
-www_links_formatted:
+links:
   - <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jdv.15442" target="_blank">[JEADV article page]</a>
   - <a href="https://europepmc.org/abstract/MED/30659659?fromSearch=singleResult&fromQuery=30659659">[Europe PMC]</a>
-category:
-  - publications
-  - news
-tags:
-  - article
 ---
 
 #### Gug G, Huang Q, Chiticariu E, Solovan C and Baudis M  (2019)

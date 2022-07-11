@@ -6,21 +6,10 @@ authors:
  - '@mbaudis'
  - '@KyleGao'
 pdf_file_name: 2021-05-13___Gao-and-Baudis__Signatures-of-Discriminative-Copy-Number-Aberrations-in-31-Cancer-Subtypes__Froniers-in-Genetics.pdf
-pdf_file_type: article    # slides poster article
-permalink: /publications/2021-gao-signatures.html
-excerpt_link: http://info.baudisgroup.org/publications/2021-gao-signatures.html
-www_link:
-www_links_formatted:
+links:
   - <a href="https://biorxiv.org/cgi/content/short/2020.12.18.423278v2" target="_blank">[bioRxiv]</a>
   - <a href="https://www.frontiersin.org/articles/10.3389/fgene.2021.654887/full" target="_blank">[frontiers in Genetics]</a>
   - <a href="https://progenetix.org/progenetix-cohorts/gao-2021-signatures/" target="_blank">[study data]</a>
-category:
-  - publications
-  - news
-tags:
-  - article
-  - preprint
-  - news
 ---
 
 ### Bo Gao and Michael Baudis (2021)

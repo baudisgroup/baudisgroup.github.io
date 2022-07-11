@@ -1,11 +1,11 @@
 ---
 title: "Online database and..."
+template: blog_post.html 
 date: 2006-03-01
 pdf_file_name: 16568815.pdf
 pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/16568815
-permalink: /publications/16568815.html
-excerpt_link: http://info.baudisgroup.org/publications/16568815.html
+links:
+  - http://europepmc.org/abstract/MED/16568815
 category:
   - publications
 tags:

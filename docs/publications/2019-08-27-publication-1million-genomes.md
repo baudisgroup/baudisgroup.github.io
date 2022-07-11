@@ -1,16 +1,12 @@
 ---
 title: "Leveraging European infrastructures to access 1 million human genomes by 2022"
+template: blog_post.html 
 date: 2019-08-27
 author: "@mbaudis"
 pdf_file_name: 2019-08-27___Saunders-et-al.__Leveraging-European-infrastructures-to-access-1-million-human-genomes-by-2022__NatRevGenetics.pdf
 pdf_file_type: article # slides poster article
-www_link: https://www.nature.com/articles/s41576-019-0156-9#Sec6
-www_links_formatted:
-category: 
-  - news
-  - publications
-tags: 
-  - article         # article talk poster slides 
+links: 
+  - https://www.nature.com/articles/s41576-019-0156-9#Sec6
 ---
 
 #### Gary Saunders, Michael Baudis, Regina Becker, Sergi Beltran, Christophe Béroud, Ewan Birney, Cath Brooksbank, Søren Brunak, Marc Van den Bulcke, Rachel Drysdale, Salvador Capella-Gutierrez, Paul Flicek, Francesco Florindi, Peter Goodhand, Ivo Gut, Jaap Heringa, Petr Holub, Jef Hooyberghs, Nick Juty, Thomas M. Keane, Jan O. Korbel, Ilkka Lappalainen, Brane Leskosek, Gert Matthijs, Michaela Th. Mayrhofer, Andres Metspalu, Steven Newhouse, Tommi Nyrönen, Angela Page, Bengt Persson, Aarno Palotie, Helen Parkinson, Jordi Rambla, David Salgado, Erik Steinfelder, Morris A. Swertz, Susheel Varma, Niklas Blomberg, and Serena Scollen

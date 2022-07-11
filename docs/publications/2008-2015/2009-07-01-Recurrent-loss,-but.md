@@ -1,13 +1,10 @@
 ---
 title: "Recurrent loss, but..."
+template: blog_post.html 
 date: 2009-07-01
 pdf_file_name: 19480937.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/19480937
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/19480937
 ---
 
 ### Recurrent loss, but lack of mutations, of the SMARCB1 tumor suppressor gene in T-cell prolymphocytic leukemia with TCL1A-TCRAD juxtaposition.

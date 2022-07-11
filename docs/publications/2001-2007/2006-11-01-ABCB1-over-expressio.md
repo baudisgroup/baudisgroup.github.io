@@ -1,13 +1,11 @@
 ---
 title: "ABCB1 over-expressio..."
+template: blog_post.html 
 date: 2006-11-01
 pdf_file_name: 16206189.pdf
 pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/16206189
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/16206189
 ---
 
 ### ABCB1 over-expression and drug-efflux in acute lymphoblastic leukemia cell lines with t(17;19) and E2A-HLF expression.

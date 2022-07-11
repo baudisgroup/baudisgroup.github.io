@@ -1,13 +1,10 @@
 ---
 title: "Silver-Russell..."
+template: blog_post.html 
 date: 2011-07-01
 pdf_file_name: 20738330.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/20738330
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/20738330
 ---
 
 ### Silver-Russell patients showing a broad range of ICR1 and ICR2 hypomethylation in different tissues.

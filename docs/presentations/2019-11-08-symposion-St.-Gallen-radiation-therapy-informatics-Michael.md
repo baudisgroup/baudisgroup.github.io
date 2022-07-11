@@ -1,17 +1,11 @@
 ---
 title: "Talk at St. Gallen Radiation Oncology - Bioinformatics and Data Exchange"
+template: blog_post.html 
 date: 2019-11-08
-www_links_formatted:
+links:
   - '<a href="https://www.kssg.ch/radio-onkologie/lehre-forschung/fortbildungsveranstaltungen/3rd-st-gallen-radiation-oncology/" target="_BLANK">3rd St. Gallen Radiation Oncology Informatics Meeting</a>'
   - '<a href="https://www.swiro.org" target="_BLANK">SWIRO - Swiss Women in Radiation Oncology</a>'
 pdf_file_name: "2019-11-08___Michael-Baudis__Bioinformatics-and-data-exchange__Radiation-Oncology-St.-Gallen.pdf"
-pdf_file_type: slides
-category:
-  - presentations
-tags:
-  - talk
-  - presentation
-  - abstract
 ---
 
 #### 3rd St. Gallen Radiation Oncology Informatics Meeting

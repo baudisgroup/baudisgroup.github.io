@@ -2,7 +2,8 @@
 title: "Integrated Molecular..."
 date: 2017-10-01
 pdf_file_name: 28966033.pdf
-www_link: http://europepmc.org/abstract/MED/28966033
+links:
+  - http://europepmc.org/abstract/MED/28966033
 category:
   - publications
 tags:

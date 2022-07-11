@@ -1,14 +1,11 @@
 ---
 title: "A Biobank Supporting Rare Disease Research In Dermatopathology. Our Experience In Establishing A Biobank."
+template: blog_post.html 
 date: 2015-09-01
 author: mbaudis
 pdf_file_name: '2015-09-01___Beleut_et_al.__Biobank-for-Rare_Disease_Research__RomJDermPath.pdf'   # your_file_no_path.pdf
-pdf_file_type: article   # poster slides article
-www_link: http://rojced.com/index.php/rojced/article/view/75
-category:
-  - publications    # publications presentations grants
-tags:
-  - article         # deadline progress
+links:
+  - http://rojced.com/index.php/rojced/article/view/75
 ---
 
 ### Beleut M, Seclaman E, Baudis M, Nicula A, and Solovan C

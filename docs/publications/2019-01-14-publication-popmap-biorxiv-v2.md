@@ -1,18 +1,13 @@
 ---
 title: Enabling population assignment from cancer genomes with SNP2pop
+template: blog_post.html 
 date: 2019-01-14
-author: mbaudis
+authors:
+  - mbaudis
 pdf_file_name: 2018-07-14___Huang_and_Baudis__Population_assignment_from_cancer_genome_data__biorXiv.pdf
 pdf_file_type: article    # slides poster article
-www_link:
-www_links_formatted:
+links:
   - <a href="https://www.biorxiv.org/content/early/2019/01/14/368647" target="_blank">[bioRxiv]</a>
-category:
-  - publications
-  - news
-tags:
-  - article
-  - preprint
 ---
 
 #### Huang Q and Baudis M. (2019)

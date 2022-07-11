@@ -3,7 +3,8 @@ title: "Efficacy of current..."
 date: 1996-09-01
 pdf_file_name: 9384700.pdf
 pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/9384700
+links:
+  - http://europepmc.org/abstract/MED/9384700
 category:
   - publications
 tags:

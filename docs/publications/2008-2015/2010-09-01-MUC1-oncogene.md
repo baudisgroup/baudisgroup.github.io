@@ -1,13 +1,10 @@
 ---
 title: "MUC1 oncogene..."
+template: blog_post.html 
 date: 2010-09-01
 pdf_file_name: 20682394.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/20682394
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/20682394
 ---
 
 ### MUC1 oncogene amplification correlates with protein overexpression in invasive breast carcinoma cells.

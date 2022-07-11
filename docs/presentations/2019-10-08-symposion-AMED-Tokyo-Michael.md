@@ -1,8 +1,8 @@
 ---
 title: "Talk at AMED Tokyo -  Cancer Genomics and Standards"
+template: blog_post.html 
 date: 2019-10-08
 pdf_file_name: "2019-10-08___Michael-Baudis__Structural-Genome-Variants-in-Cancer__AMED-Tokyo.pdf"
-pdf_file_type: slides
 ---
 
 #### Mini-Symposium about CNV and Data Standards at [AMED Japan, Tokyo](https://www.amed.go.jp/en/index.html)

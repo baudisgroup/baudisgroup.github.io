@@ -1,17 +1,11 @@
 ---
 title: "Geographic assessment of cancer genome profiling studies"
+template: blog_post.html 
 date: 2020-04-02
 author: '@mbaudis'
 pdf_file_name: 2020-04-02___Carrio-Cordo,-Baudis-et-al.__Geographic-Assessment-of-Cancer-Genome-Profiling-Studies__DATABASE.pdf
-pdf_file_type: article    # slides poster article
-www_link:
-www_links_formatted:
+links:
   - <a href="https://academic.oup.com/database/article/doi/10.1093/database/baaa009/5812711" target="_blank">[DATABASE]</a>
-category:
-  - publications
-  - news
-tags:
-  - article
 ---
 
 #### Paula Carrio Cordo, Elise Acheson, Qingyao Huang and Michael Baudis (2020)

@@ -1,13 +1,10 @@
 ---
 title: "Chromosomal changes..."
+template: blog_post.html 
 date: 2008-12-01
 pdf_file_name: 18810378.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/18810378
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/18810378
 ---
 
 ### Chromosomal changes characterize head and neck cancer with poor prognosis.

@@ -1,18 +1,12 @@
 ---
-title: "Genomic imbalances in 5918 malignant tumors"
+title: "Genomic imbalances in 5918 malignant epithelial tumors: an explorative meta-analysis of chromosomal CGH data"
+template: blog_post.html 
 date: 2007-01-01
 pdf_file_name: 18088415.pdf
-pdf_file_type: article
-permalink: /publications/18088415.html
-excerpt_link: http://info.baudisgroup.org/publications/18088415.html
-www_link: http://europepmc.org/abstract/MED/18088415
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/18088415
 ---
 
-### Genomic imbalances in 5918 malignant epithelial tumors: an explorative meta-analysis of chromosomal CGH data.
 #### Baudis M.
 
 **Abstract** BACKGROUND: Chromosomal abnormalities have been associated with most human malignancies, with gains and losses on some genomic regions associated with particular entities. METHODS: Of the 15429 cases collected for the Progenetix molecular-cytogenetic database, 5918 malignant epithelial neoplasias analyzed by chromosomal Comparative Genomic Hybridization (CGH) were selected for further evaluation. For the 22 clinico-pathological entities with more than 50 cases, summary profiles for genomic imbalances were generated from case specific data and analyzed.

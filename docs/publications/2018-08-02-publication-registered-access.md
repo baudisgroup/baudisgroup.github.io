@@ -1,16 +1,13 @@
 ---
 title: "Registered access: authorizing data access"
+template: blog_post.html 
 date: 2018-08-02
-author: Michael
+authors: 
+  - Michael
 pdf_file_name: 2018-06-20___Dyke_et_al.__Registered_access._Authorizing_data_access__EurJorHumGen.pdf
-pdf_file_type:    # slides poster article
 www_link: 
-www_links_formatted: '<a href="https://www.nature.com/articles/s41431-018-0219-y" target="_blank">European Journal of Human Genetics</a>'
-category: 
-  - news
-  - publications
-tags: 
-  - article         # article talk poster slides 
+links: 
+  - '<a href="https://www.nature.com/articles/s41431-018-0219-y" target="_blank">European Journal of Human Genetics</a>'
 ---
 
 #### Dyke SOM, Linden M, Lappalainen I, De Argila JR, Carey K, Lloyd D, Spalding JD, Cabili MN, Kerry G, Foreman J, Cutts T, Shabani M, Rodriguez LL, Haeussler M, Walsh B, Jiang X, Wang S, Perrett D, Boughtwood T, Matern A, Brookes AJ, Cupak M, Fiume M, Pandya R, Tulchinsky I, Scollen S, Törnroos J, Das S, Evans AC, Malin BA, Beck S, Brenner SE, Nyrönen T, Blomberg N, Firth HV, Hurles M, Philippakis AA, Rätsch G, Brudno M, Boycott KM, Rehm HL, Baudis M, Sherry ST, Kato K, Knoppers BM, Baker D, and Flicek P 

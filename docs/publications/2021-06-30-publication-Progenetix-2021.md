@@ -6,18 +6,6 @@ template: blog_post.html
 authors:
  - '@mbaudis'
  - '@qingyao'
-permalink: /publications/progenetix-2021.html
-pdf_file_name:
-pdf_file_type: article    # slides poster article
-www_link:
-www_links_formatted:
-category:
-  - publications
-  - news
-tags:
-  - article
-  - preprint
-  - news
 ---
 
 #### Qingyao Huang, Paula Carrio Cordo, Bo Gao, Rahel Paloots, Michael Baudis

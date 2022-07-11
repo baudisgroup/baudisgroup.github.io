@@ -1,13 +1,10 @@
 ---
 title: "Specific genomic..."
+template: blog_post.html 
 date: 2012-01-01
 pdf_file_name: 22937079.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/22937079
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/22937079
 ---
 
 ### Specific genomic regions are differentially affected by copy number alterations across distinct cancer types, in aggregated cytogenetic data.

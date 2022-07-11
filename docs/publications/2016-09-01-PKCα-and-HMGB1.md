@@ -1,13 +1,10 @@
 ---
-title: "PKCα and HMGB1..."
+title: PKCα and HMGB1 antagonistically control hydrogen peroxide-induced poly-ADP-ribose formation
+template: blog_post.html 
 date: 2016-09-01
 pdf_file_name: 27198223.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/27198223
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/27198223
 ---
 
 ### PKCα and HMGB1 antagonistically control hydrogen peroxide-induced poly-ADP-ribose formation.

@@ -1,13 +1,10 @@
 ---
 title: "DNA copy number..."
+template: blog_post.html 
 date: 2012-09-01
 pdf_file_name: 22772606.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/22772606
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/22772606
 ---
 
 ### DNA copy number alterations in central primitive neuroectodermal tumors and tumors of the pineal region: an international individual patient data meta-analysis.

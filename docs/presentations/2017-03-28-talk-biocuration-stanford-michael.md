@@ -2,7 +2,6 @@
 template: blog_post.html 
 date: 2017-08-29
 pdf_file_name: 2017-08-29_Baudisgroup_concepts_Odense.pdf
-pdf_file_type: slides
 ---
 
 #### Seminar at [SDU Odense](http://www.sdu.dk/en/)

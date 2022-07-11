@@ -1,13 +1,10 @@
 ---
 title: "Quantifying cancer..."
+template: blog_post.html 
 date: 2009-11-01
 pdf_file_name: 19692554.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/19692554
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/19692554
 ---
 
 ### Quantifying cancer progression with conjunctive Bayesian networks.

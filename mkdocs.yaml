@@ -91,7 +91,7 @@ plugins:
 
 extra:
   excerpt_separator: <!--more-->
-  blog_list_length: 50
+  blog_list_length: 100
   news:
     dir: news
   presentations:

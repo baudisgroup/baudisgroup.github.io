@@ -5,16 +5,8 @@ template: blog_post.html
 authors:
  - '@mbaudis'
 pdf_file_name: 2020-05-14___Putora,-Baudis-et-al.__Oncology-Informatics--Status-Quo-and-Outlook__Oncology,-review.pdf
-pdf_file_type: article    # slides poster article
-www_link:
-www_links_formatted:
+links:
   - '<a href="https://www.karger.com/Article/FullText/507586" target="_blank">[article @ Oncology]</a>'
-category:
-  - publications
-  - news
-tags:
-  - article
-  - review
 ---
 
 #### Paul Martin Putora, Michael Baudis, Beth M. Beadle, Issam El Naqa, Frank A. Giordano and Nils H. Nicolay

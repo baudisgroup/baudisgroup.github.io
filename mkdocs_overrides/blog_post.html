@@ -19,7 +19,7 @@
     {% if page.meta.links %}
       {% if page.meta.links|length > 0 %}
         {% for link in page.meta.links %}
-          {% if "<a href=" in link %}
+          {% if link.startswith('<a') %}
   <li>{{ link }}</li>
           {% elif link.startswith('[') %}
             {% set label = link.split('](', 1)[0] | replace('[', '') %}

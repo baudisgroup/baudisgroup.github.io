@@ -1,13 +1,11 @@
 ---
 title: "Integrative..."
+template: blog_post.html 
 date: 2012-01-01
 pdf_file_name: 22824167.pdf
 pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/22824167
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/22824167
 ---
 
 ### Integrative genome-wide expression profiling identifies three distinct molecular subgroups of renal cell carcinoma with different patient outcome.

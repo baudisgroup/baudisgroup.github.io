@@ -1,13 +1,10 @@
 ---
 title: "Losses at chromosome..."
+template: blog_post.html 
 date: 2012-01-01
 pdf_file_name: 22487468.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/22487468
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/22487468
 ---
 
 ### Losses at chromosome 4q are associated with poor survival in operable ductal pancreatic adenocarcinoma.

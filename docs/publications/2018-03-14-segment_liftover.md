@@ -3,7 +3,8 @@ title: "segment_liftover..."
 date: 2018-03-14
 pdf_file_name: segment_liftover_f1000.pdf
 pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/29946440
+links:
+  - http://europepmc.org/abstract/MED/29946440
 category:
   - publications
 tags:

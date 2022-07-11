@@ -5,15 +5,11 @@ template: blog_post.html
 date: 2021-04-20
 authors:
   - '@mbaudis'
-category:
-  - presentations
-  - news
-tags:
-  - presentation
-  - UZH
-  - news
-pdf_file_name:
-pdf_file_type:
+links:
+  - '<a href="http://info.baudisgroup.org/pdf/2021-04-20___Michael-Baudis__ELIXIR-Beacon__RDA.pdf">[Presentation slides]</a>'
+  - '<a href="http://beacon-project.io">[Beacon Website]</a>'
+  - '<a href="https://github.com/ga4gh-beacon">[Beacon Development at Github]</a>'
+  - '<a href="https://progenetix.org/beaconplus-instances/beaconplus/">[Beacon+ in Progenetix]</a>'
 ---
 
 #### Concepts | Status | History | Outlook
@@ -23,11 +19,4 @@ pdf_file_type:
 This seminar gives an overview of current state of the Progenetix Beacon project
 and the overall connection to the Global Alliance for Genomics and Health (GA4GH).
 
-<!--more-->
 
-#### Additional Links
-
-* [Presentation slides](http://info.baudisgroup.org/pdf/2021-04-20___Michael-Baudis__ELIXIR-Beacon__RDA.pdf)
-* [Beacon Website](http://beacon-project.io)
-* [Beacon Development at Github](https://github.com/ga4gh-beacon)
-* [Beacon+ in Progenetix](https://progenetix.org/beaconplus-instances/beaconplus/)

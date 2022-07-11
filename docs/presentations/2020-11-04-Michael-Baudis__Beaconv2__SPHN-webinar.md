@@ -4,7 +4,7 @@ date: 2020-11-04
 template: blog_post.html 
 authors:
   - '@mbaudis'
-link:
+links:
   - https://sphn.ch/seminar-training/beacon-project/
 pdf_file_name: 2020-11-04___Michael-Baudis__GA4GH,-Beacon-and-SPHN__SPHN-Webinar.pdf
 pdf_file_type: slides

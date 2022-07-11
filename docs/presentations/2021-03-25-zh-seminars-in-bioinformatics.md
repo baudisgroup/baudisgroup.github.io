@@ -7,7 +7,6 @@ authors:
   - '@mbaudis'
   - '@qingyao'
 pdf_file_name: "2021-03-25___Qingyao__ZH-bioinformatics-seminar.pdf"
-pdf_file_type: slides
 ---
 
 ### Qingyao Huang

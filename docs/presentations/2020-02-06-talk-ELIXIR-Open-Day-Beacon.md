@@ -1,5 +1,6 @@
 ---
 title: "ELIXIR Beacon Project - Networking Resources Across and Beyond ELIXIR Human Data Communities"
+template: blog_post.html 
 date: 2020-02-06
 ---
 

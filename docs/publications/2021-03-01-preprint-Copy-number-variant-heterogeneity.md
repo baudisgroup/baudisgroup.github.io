@@ -4,19 +4,10 @@ date: 2021-03-01
 template: blog_post.html 
 authors:
  - '@mbaudis'
-excerpt_link: https://info.baudisgroup.org/publications/2021-03-01-preprint-Copy-number-variant-heterogeneity/
 pdf_file_name: "2021-03-01___Carrio-Cordo-and-Baudis__CNV-heterogeneity-in-cancer-and-diagnostic-classifications__biorXiv-433348v1.pdf"
 pdf_file_type: article    # slides poster article
-www_link:
-www_links_formatted:
+links:
   - <a href="https://www.biorxiv.org/content/10.1101/2021.03.01.433348v1" target="_blank">[bioRxiv]</a>
-category:
-  - publications
-  - news
-tags:
-  - article
-  - preprint
-  - news
 ---
 
 #### Paula Carrio Cordo and Michael Baudis

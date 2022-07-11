@@ -6,11 +6,6 @@ author: mbaudis
 pdf_file_name: '2015-09-01___Beleut_et_al.__Biobank-for-Rare_Disease_Research__RomJDermPath.pdf'   # your_file_no_path.pdf
 pdf_file_type: article   # poster slides article
 www_link: http://rojced.com/index.php/rojced/article/view/75
-excerpt_separator: <!--more-->
-category:
-  - publications    # publications presentations grants
-tags:
-  - article         # deadline progress
 ---
 
 ### {{ page.title }}

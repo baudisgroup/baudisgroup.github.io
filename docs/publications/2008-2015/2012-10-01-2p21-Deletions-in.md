@@ -1,13 +1,10 @@
 ---
 title: "2p21 Deletions in..."
+template: blog_post.html 
 date: 2012-10-01
 pdf_file_name: 22766003.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/22766003
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/22766003
 ---
 
 ### 2p21 Deletions in hypotonia-cystinuria syndrome.

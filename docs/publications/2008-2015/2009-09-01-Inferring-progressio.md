@@ -1,13 +1,10 @@
 ---
 title: "Inferring progressio..."
+template: blog_post.html 
 date: 2009-09-01
 pdf_file_name: 19528087.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/19528087
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/19528087
 ---
 
 ### Inferring progression models for CGH data.

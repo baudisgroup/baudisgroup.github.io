@@ -3,7 +3,8 @@ title: "Chromosomal-imbalances-in-papillary-RCC-and-first-CGH-of-familial-cases"
 date: 1996-01-01
 pdf_file_name: 1996-07-17___Bentz-et-al.__Chromosomal-imbalances-in-papillary-RCC-and-first-CGH-of-familial-cases__Cytogenet-Cell-Genet.pdf
 pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/8995481
+links:
+  - http://europepmc.org/abstract/MED/8995481
 category:
   - publications
 tags:

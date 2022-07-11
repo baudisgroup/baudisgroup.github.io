@@ -1,14 +1,12 @@
 ---
 title: "The GA4GH Phenopacket schema: A computable representation of clinical data for precision medicine"
+template: blog_post.html 
 date: 2021-11-30
 description: Phenopackets v2 preprint
-template: blog_post.html 
 authors:
  - '@mbaudis'
 pdf_file_name: 2021-11-30___Jacobsen-et-al.__The GA4GH Phenopacket schema__medRxiv-preprint.pdf
-pdf_file_type: article    # slides poster article
-www_link:
-www_links_formatted:
+links:
   - <a href="http://medrxiv.org/content/early/2021/11/30/2021.11.27.21266944.abstract" target="_blank">[bioRxiv]</a>
 ---
 

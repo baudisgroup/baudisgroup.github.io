@@ -1,13 +1,10 @@
 ---
 title: "Translocations..."
+template: blog_post.html 
 date: 2009-02-01
 pdf_file_name: 18923440.pdf
-pdf_file_type: article
-www_link: http://europepmc.org/abstract/MED/18923440
-category:
-  - publications
-tags:
-  - article
+links:
+  - http://europepmc.org/abstract/MED/18923440
 ---
 
 ### Translocations involving 8q24 in Burkitt lymphoma and other malignant lymphomas: a historical review of cytogenetics in the light of todays knowledge.
