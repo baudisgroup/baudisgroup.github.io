@@ -1,16 +1,10 @@
 ---
 title: "hCNV Implementation Studies Old and New"
+date: 2022-03-15
 template: blog_post.html 
 authors:
   - '@mbaudis'
-category:
-  - presentations
-  - news
-tags:
-  - presentation
-  - news
 pdf_file_name: 2022-03-15___Michael-Baudis__hCNV-community-2019-2021_wrap-up.pdf
-pdf_file_type: slides
 ---
 
 

@@ -16,7 +16,21 @@
   {% endfor %}
 
   {% for page in (news_posts|sort(attribute="meta.date", reverse=True))[:config.extra.blog_list_length] %}
+
     {% include "partials/date_separator.html" %}
-    {% include "partials/post_list_preview.html" %}
+
+<h3 class="title_news">{{ page.title }}</h3>
+    {% if page.meta.description is defined %}
+<h5 class="title_news">{{ page.meta.description }}</h5>
+    {% endif %}
+<!-- Use a hidden p tag to provide a preview -->
+    {{ page.content.split(config.extra.excerpt_separator, 1)[0] }}
+<a href="{{ page.url|url }}">
+  <span class="twemoji">
+    {% include ".icons/octicons/arrow-right-24.svg" %}
+  </span>
+  Continue reading
+</a>
+
   {% endfor %}
 {% endblock %}

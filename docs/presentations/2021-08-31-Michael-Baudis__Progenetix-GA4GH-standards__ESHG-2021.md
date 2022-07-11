@@ -1,16 +1,10 @@
 ---
 title: "Cancer genomics reference resource and toolkit around GA4GH standards"
 template: blog_post.html 
+date: 2021-08-31
 authors:
   - '@mbaudis'
-category:
-  - presentations
-  - news
-tags:
-  - presentation
-  - news
 pdf_file_name: 2021-08-31___Michael-Baudis-Progenetix-ESHG-poster.pdf
-pdf_file_type: poster
 ---
 
 ### Q. Huang, B. Gao, R. Paloots, P. Carrio-Cordo, Z. Yang, M. Baudis

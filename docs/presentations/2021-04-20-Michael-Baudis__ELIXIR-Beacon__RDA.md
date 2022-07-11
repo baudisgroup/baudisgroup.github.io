@@ -1,6 +1,8 @@
 ---
 title: "Progenetix, Beacon and GA4GH at RDA"
+description: Research Data Alliance - RDA Virtual Plenary 17
 template: blog_post.html 
+date: 2021-04-20
 authors:
   - '@mbaudis'
 category:
@@ -22,7 +24,6 @@ This seminar gives an overview of current state of the Progenetix Beacon project
 and the overall connection to the Global Alliance for Genomics and Health (GA4GH).
 
 <!--more-->
-
 
 #### Additional Links
 

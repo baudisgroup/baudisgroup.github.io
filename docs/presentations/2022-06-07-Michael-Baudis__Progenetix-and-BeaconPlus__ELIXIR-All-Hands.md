@@ -6,7 +6,6 @@ authors:
   - '@mbaudis'
 date: 2022-06-07
 pdf_file_name: 2022-06-07___Michael-Baudis__Progenetix-and-BeaconPlus__ELIXIR-All-Hands-Slides.pdf
-pdf_file_type: slides
 ---
 
 ### Michael Baudis

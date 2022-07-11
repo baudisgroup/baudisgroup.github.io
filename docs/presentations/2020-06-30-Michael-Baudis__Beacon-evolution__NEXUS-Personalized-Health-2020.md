@@ -1,5 +1,5 @@
 ---
-title: "Beacon v2 - Flexible Use and Clinical Applications"
+title: "Beacon v2 - Towards Flexible Use and Clinical Applications for a Reference Genomic Data Sharing Protocol"
 date: 2020-06-30
 template: blog_post.html 
 authors:
@@ -14,7 +14,6 @@ pdf_file_name: 2020-06-30___Michael-Baudis__Beacon-evolution__NEXUS-PHRT2020-sli
 pdf_file_type: slides
 ---
 
-## Beacon v2 - Towards Flexible Use and Clinical Applications for a Reference Genomic Data Sharing Protocol
 #### [Personalized Health Technologies 2020](https://www.personalizedhealth.nexus.ethz.ch)
 ### Michael Baudis
 

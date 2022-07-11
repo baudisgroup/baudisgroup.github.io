@@ -1,18 +1,12 @@
 ---
 title: "hCNV data and the Progenetix Beacon"
-template: blog_post.html 
+description: Presentation at ELIXIR All Hands 2021
+template: blog_post.html
+date: 2021-06-08
 authors:
   - '@mbaudis'
-category:
-  - presentations
-  - news
-tags:
-  - presentation
-  - news
 pdf_file_name: 2021-06-08___Michael-Baudis__Beacon-Progenetix__ELIXIR-All-Hands.pdf
-pdf_file_type: slides
 ---
-
 
 ### Michael Baudis
 #### [ELIXIR All Hands 2021](https://elixirallhands.eventscase.com/EN/meeting)

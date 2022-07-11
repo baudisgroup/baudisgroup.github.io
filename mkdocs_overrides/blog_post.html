@@ -7,14 +7,24 @@
 </p>
   {{ page.content }}
 
+<ul>
   {% if page.meta.pdf_file_name %}
-<hr/>
     {% set pdfLab = "PDF" %}
     {% if ".pdf" in page.meta.pdf_file_name %}
-<span class="twemoji">
-  Download {{ pdfLab }}&nbsp;<a href="/pdf/{{page.meta.pdf_file_name}}">{% include ".icons/fontawesome/regular/file-pdf.svg" %}</a>
-</span>
+  <li>Download {{ pdfLab }}&nbsp;<a href="/pdf/{{page.meta.pdf_file_name}}"><span  class="twemoji">{% include ".icons/fontawesome/regular/file-pdf.svg" %}</span></a></li>
     {% endif %}
   {% endif %}
+  {% if page.meta.www_links %}
+    {% if page.meta.www_links|length > 0 %}
+      {% for link in page.meta.www_links %}
+        {% if "href=" in link %}
+  <li>{{ link }}</li>
+        {% else %}
+  <li><a href="{{ link }}">[LINK]</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endif %}
+</ul>
   {% include "partials/date_separator.html" %}
 {% endblock %}

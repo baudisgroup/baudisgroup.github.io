@@ -1,16 +1,13 @@
 ---
 title: "Swissnex SF: Laura & Michael Baudis - Life & Family"
+template: blog_post.html 
 date: 2020-05-06
-author: mbaudis
+authors:
+  - "@mbaudis"
 pdf_file_name: 2020-05-06___Swissnex-Behind-the-Scenes--Life-and-Family-as-International-Researchers__nextrends.pdf
-www_links_formatted:
+www_links:
   - '<a href="/pdf/2020-05-06___Swissnex-Behind-the-Scenes--Life-and-Family-as-International-Researchers__nextrends.pdf">[nextrends Article]</a>'
   - '<a href="https://www.physik.uzh.ch/en/groups/baudis.html">[Laura Baudis @ UZH]</a>'
-category:
-  - news
-tags:
-  - group
-  - outreach
 ---
 
 Originally planned for their stays at [UCB](https://www.berkeley.edu) and [LBNL](http://lbl.gov), Laura & Michael were interviewed by Tabea Stoeckel from [swissnex San Francisco](https://www.swissnexsanfrancisco.org) about their stay in the Bay Area and their research & family life as internationally active scientists.
