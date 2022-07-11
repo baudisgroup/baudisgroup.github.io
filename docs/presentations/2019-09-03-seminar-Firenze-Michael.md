@@ -1,14 +1,9 @@
 ---
-title: "UniFi Seminar - Structural Genome Variants in Cancer"
+title: "Structural Genome Variants in Cancer: Research, resources standards"
+template: blog_post.html 
+description: Seminar at the University of Florence
 date: 2019-09-03
-category:
-  - presentations
-tags:
-  - talk
-  - presentation
-  - abstract
 pdf_file_name: "2019-09-03___Michael-Baudis__Structural-Genome-Variants-in-Cancer__Seminar-UniFirenze.pdf"
-pdf_file_type: slides
 ---
 
 #### Seminar Universita degli Studi Firenze - Dipartimento di Biologia

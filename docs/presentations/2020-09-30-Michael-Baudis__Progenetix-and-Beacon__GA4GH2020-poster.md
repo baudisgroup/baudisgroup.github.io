@@ -4,16 +4,7 @@ date: 2020-09-30
 template: blog_post.html 
 authors:
   - '@mbaudis'
-category:
-  - presentations
-  - news
-tags:
-  - poster
-  - presentation
-  - Beacon
-  - GA4GH
 pdf_file_name: 2020-09-21___Michael-Baudis__Progenetix-GA4GH-standards__GA4GH-8th-Plenary-poster.pdf
-pdf_file_type: poster
 ---
 
 #### [GA4GH 8th Plenary](https://broadinstitute.swoogo.com/ga4gh-8th-plenary/455678)

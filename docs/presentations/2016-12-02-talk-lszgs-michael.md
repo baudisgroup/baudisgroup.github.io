@@ -1,12 +1,7 @@
 ---
+template: blog_post.html 
 date: 2016-12-02
-category:
-  - presentations
-tags:
-  - talk
-  - presentation
 pdf_file_name: 2016-04-14_Michael_Baudis_Biocuration2016.pdf
-pdf_file_type: slides
 ---
 
 #### LSZGS Cancer Biology course 2016

@@ -1,12 +1,7 @@
 ---
+template: blog_post.html 
 date: 2018-02-15
-category:
-  - presentations
-tags:
-  - talk
-  - presentation
 pdf_file_name: 2018-02-15_Beacon_DPPH_Lausanne_Michael_Baudis.pdf
-pdf_file_type: slides
 ---
 
 #### [DPPH - Data Protection in Personalized Health 2018](https://dpph18.epfl.ch), Lausanne

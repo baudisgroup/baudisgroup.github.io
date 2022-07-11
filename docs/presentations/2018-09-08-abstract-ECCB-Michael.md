@@ -1,14 +1,11 @@
 ---
 title: "ECCB 2018 - Beacon"
-category:
- - presentations
-tags:
-  - presentation
-  - talk
+template: blog_post.html 
+date: 2018-09-10
 pdf_file_name: 2018-09-10___Michael_Baudis__Elixir-Beacon__ECCB18.pdf
 pdf_file_type: slides
-wwws:
-  - http://eccb18.org/programme/
+link:
+  - '[ECCB 2018](http://eccb18.org/programme/)'
 ---
 
 #### Abstract: [ECCB 2018](http://eccb18.org)

@@ -5,14 +5,7 @@ template: blog_post.html
 authors:
  - "@mbaudis"
  - "@qingyao"
-category:
-  - presentations
-tags:
-  - poster
-  - presentation
-  - abstract
 pdf_file_name: "2019-09-10___Qingyao-Huang__cancer_cell_line__BC2_Basel.pdf"
-pdf_file_type: poster
 ---
 
 #### BC2 2019, Basel
@@ -22,7 +15,8 @@ pdf_file_type: poster
 #### Abstract
 
 **Background**:  
-Human cell lines are convenient model systems in cancer research, for validation of proposed molecular mechanisms as well as to evaluate potential therapeutic approaches, e.g. through high- throughput screening of potential anti-tumour compounds against cancer cell line panels. However, conclusions about biological pathways or pharmacological potential depend on a close molecular relation between the cancer type represented and the cell line model used for analyses.  
+Human cell lines are convenient model systems in cancer research, for validation of proposed molecular mechanisms as well as to evaluate potential therapeutic approaches, e.g. through high- throughput screening of potential anti-tumour compounds against cancer cell line panels. However, conclusions about biological pathways or pharmacological potential depend on a close molecular relation between the cancer type represented and the cell line model used for analyses.<!--more-->
+
 The validity of cell line based observations depends therefore A) on the correct identification and lineage assignment, and B) on the conservation of cancer specific molecular alterations during cell line propagation. However, according to ICLAC (International Cell Line Authentication Committee) a large proportion of cell lines have been found to be misidentified.
 
 **Methods**:

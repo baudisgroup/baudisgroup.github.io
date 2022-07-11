@@ -1,10 +1,6 @@
 ---
+template: blog_post.html 
 date: 2017-09-19
-category:
-  - presentations
-tags:
-  - talk
-  - presentation
 pdf_file_name: 2017-09-19_BIO390_Baudis_What_is_Bioinformatics.pdf
 pdf_file_type: slides
 ---

@@ -5,7 +5,7 @@ date: 2020-05-06
 authors:
   - "@mbaudis"
 pdf_file_name: 2020-05-06___Swissnex-Behind-the-Scenes--Life-and-Family-as-International-Researchers__nextrends.pdf
-www_links:
+links:
   - '<a href="/pdf/2020-05-06___Swissnex-Behind-the-Scenes--Life-and-Family-as-International-Researchers__nextrends.pdf">[nextrends Article]</a>'
   - '<a href="https://www.physik.uzh.ch/en/groups/baudis.html">[Laura Baudis @ UZH]</a>'
 ---

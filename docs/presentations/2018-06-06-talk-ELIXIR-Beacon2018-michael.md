@@ -1,19 +1,11 @@
 ---
+title: 'The ELIXIR Beacon in 2018: A driver project of GA4GH'
+template: blog_post.html 
 date: 2018-06-06
-category:
-  - presentations
-tags:
-  - talk
-  - beacon
-  - ga4gh
-  - slides
-  - presentation
 pdf_file_name: 2018-06-06___Michael_Baudis__ELIXIR-All-Hands-2018-Beacon.pdf
-pdf_file_type: slides
 ---
 
 #### [ELIXIR All Hands](https://www.elixir-europe.org/events/elixir-all-hands-2018), Berlin
-## The ELIXIR Beacon in 2018: A driver project of GA4GH
 ### Michael Baudis
 
 ##### Abstract

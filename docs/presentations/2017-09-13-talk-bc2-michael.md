@@ -1,12 +1,7 @@
 ---
+template: blog_post.html
 date: 2017-09-13
-category:
-  - presentations
-tags:
-  - talk
-  - presentation
 pdf_file_name: 2017-09-13_BC2_Michael_Baudis_GA4GH_Beacon.pdf
-pdf_file_type: slides
 ---
 
 #### [BC]2 2017 - [Basel Computational Biology Conference](https://www.bc2.ch/2017/)
@@ -15,7 +10,7 @@ pdf_file_type: slides
 
 ##### Abstract
 
-The core mission of the Global Alliance for Genomics and Health (GA4GH) is to advance the utility of biomedical data through facilitating of federated analyses, across geographic, regulatory and technical boundaries. A central component is the development of standardised data schemas and application programming interfaces (APIs), for molecular screening data as well as biological and technical metadata.
+The core mission of the Global Alliance for Genomics and Health (GA4GH) is to advance the utility of biomedical data through facilitating of federated analyses, across geographic, regulatory and technical boundaries. A central component is the development of standardised data schemas and application programming interfaces (APIs), for molecular screening data as well as biological and technical metadata.<!--more-->
 
 In addition to direct schema development, demonstration projects explore strategies and limitations of federated data access and attempt to engage active participants from different areas of biomedical research and clinical practice as well as experts from areas such as computer and network security, law and ethics. One of the main demonstrators has been the “Beacon” project, which through a lightweight “beacon-network” registry and API allows the querying for specific genome sequence variants at resources from all over the world.
 

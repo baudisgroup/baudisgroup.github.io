@@ -1,10 +1,6 @@
 ---
+template: blog_post.html 
 date: 2017-12-01
-category:
-  - presentations
-tags:
-  - talk
-  - presentation
 pdf_file_name: 2017-12-01_Cancer_Biology_course_Michael_Baudis.pdf
 pdf_file_type: slides
 ---

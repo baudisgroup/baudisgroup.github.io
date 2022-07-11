@@ -1,16 +1,9 @@
 ---
 title: "Qingyao - Institute Progress Report"
 date: 2018-06-29
-author: Qingyao
+authors:
+  - Qingyao
 pdf_file_name: 2018-06-29___Qingyao_Huang__Population_mapping_from_cancer_arrays__UZH_IMLS_progress_report.pdf
-pdf_file_type: slides
-www_link:
-category:
-  - presentations
-tags:
-  - presentation
-  - slides
-  - talk
 ---
 
 #### IMLS Progress Report

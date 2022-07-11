@@ -1,12 +1,7 @@
 ---
 title: "BCATS 2001 - progenetix.net: storage and visualization of genomic aberration data in human malignancies"
+template: blog_post.html 
 date: 2001-10-20
-category:
-  - presentations
-tags:
-  - poster
-  - presentation
-  - abstract
 pdf_file_name: 2001-10-20___Michael_Baudis__progenetix.net-at-BCATS__poster.pdf
 pdf_file_type: poster
 ---
@@ -21,7 +16,7 @@ pdf_file_type: poster
 
 Over the last decade, techniques for the genome wide scanning for genomic imbalances in malignant neoplasia have been developed, e.g. Comparative Genomic Hybridization (CGH).
 
-Currently, no comprehensive online source for CGH data with a standardized format suitable for data mining procedures has been made available for public access. Such a data repository could be valuable in identifying genetic aberration patterns with linkage to specific disease entities, and provide additional information for validating data from large scale expression array experiments.
+Currently, no comprehensive online source for CGH data with a standardized format suitable for data mining procedures has been made available for public access. Such a data repository could be valuable in identifying genetic aberration patterns with linkage to specific disease entities, and provide additional information for validating data from large scale expression array experiments.<!--more-->
 
 A case and band specific aberration matrix was selected as most suitable format for the mining of CGH data. The [progenetix.net] data repository was developed to provide the according data to the research community for a growing number of human malignancies.
 

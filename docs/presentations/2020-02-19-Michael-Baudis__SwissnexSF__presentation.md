@@ -4,15 +4,8 @@ date: 2020-03-19
 template: blog_post.html 
 authors:
   - '@mbaudis'
-category:
-  - presentations
-tags:
-  - talk
-  - presentation
 pdf_file_name: "2020-03-19___Swissnex-SF-Michael-Baudis-Biodata.pdf"
-pdf_file_type: slides
 ---
-
 
 ### Genomic Research and Personalised Health Strategies
 #### Resources | Standards | Protocols | Tools | Discourse

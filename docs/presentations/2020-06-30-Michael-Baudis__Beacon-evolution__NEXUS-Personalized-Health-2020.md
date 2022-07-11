@@ -1,17 +1,15 @@
 ---
 title: "Beacon v2 - Towards Flexible Use and Clinical Applications for a Reference Genomic Data Sharing Protocol"
 date: 2020-06-30
-template: blog_post.html 
+template: blog_post.html
 authors:
   - '@mbaudis'
-category:
-  - presentations
-tags:
-  - talk
-  - presentation
-  - Beacon
+links:
+  - '[Beacon Website](http://beacon-project.io)'
+  - '[Beacon+](http://beacon.progenetix.org)'
+  - '[Bycon Project](http://beacon.progenetix.org)'
+
 pdf_file_name: 2020-06-30___Michael-Baudis__Beacon-evolution__NEXUS-PHRT2020-slides.pdf
-pdf_file_type: slides
 ---
 
 #### [Personalized Health Technologies 2020](https://www.personalizedhealth.nexus.ethz.ch)
@@ -24,7 +22,7 @@ discovery. It provides a framework for public web services responding to queries
 genomic data collections, for instance from population based or disease specific genome
 repositories. Sites offering beacons can scale through aggregation in "Beacon Networks",
 which distribute single genome queries among a potentially large number of international
-beacons and assemble their responses.
+beacons and assemble their responses.<!--more-->
 
 As part of ELIXIR’s Beacon 2019-21 project work has started on a radically re-designed
 Beacon protocol, with the aim to provide a maximum of flexibility while closely adhering
@@ -39,9 +37,3 @@ demonstrated for COVID-19 repositories, showcasing the flexibility of the protoc
 Here I will provide an overview about the history, current status future directions of the
 Beacon protocol, including details about the Beacon+ service on top of the [progenetix.org](http://progenetix.org)
 cancer genomics resource.
-
-#### Additional Links
-
-* [Beacon Website](http://beacon-project.io)
-* [Beacon+](http://beacon.progenetix.org)
-* [Bycon Project](http://beacon.progenetix.org)

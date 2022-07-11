@@ -1,15 +1,10 @@
 ---
-title: "ELIXIR All Hands 2018 - Beacon"
+title: "ELIXIR Beacon - A Driver Project for the Global Alliance for Genomics and Health"
+template: blog_post.html 
 date: 2018-06-04
-category:
-  - presentations
-tags:
-  - poster
-  - presentation
 ---
 
 #### Abstract: [ELIXIR All Hands 2018](https://www.elixir-europe.org/events/elixir-all-hands-2018)
-## ELIXIR Beacon - A Driver Project for the Global Alliance for Genomics and Health
 ### Michael Baudis for the ELIXIR Beacon Project
 
 The core mission of the Global Alliance for Genomics and Health is to "...enable genomic data sharing for the benefit of human health". One of the instruments to enact this mission is the selection and support of driver projects, which address particular scientific, technical, regulatory or security related aspects of federated access to human genomes and related metadata.

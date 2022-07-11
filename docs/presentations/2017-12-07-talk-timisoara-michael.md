@@ -1,10 +1,6 @@
 ---
+template: blog_post.html 
 date: 2017-12-07
-category:
-  - presentations
-tags:
-  - talk
-  - presentation
 pdf_file_name: 2017-12-07_Personalised_Medicine_Cancer_seminar_Timisoara_Michael_Baudis.pdf
 pdf_file_type: slides
 ---

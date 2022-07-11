@@ -1,18 +1,11 @@
 ---
 title: "Minimum Error Calibration and Normalization for Genomic Copy Number Analysis"
+template: blog_post.html 
 date: 2019-09-10
-category:
-  - presentations
-tags:
-  - poster
-  - presentation
-  - abstract
-pdf_file_name: "2019-09-10___Bo-Gao__Minimum-Error-Calibration-and-Normalization-for-Genomic-Copy-Number-Analysis__BC2_Basel_poster.pdf"
-pdf_file_type: poster
+pdf_file_name: 2019-09-10___Bo-Gao__Minimum-Error-Calibration-and-Normalization-for-Genomic-Copy-Number-Analysis__BC2_Basel_poster.pdf
 ---
 
 #### BC2 2019, Basel
-## Minimum Error Calibration and Normalization for Genomic Copy Number Analysis
 ### Bo Gao
 
 #### Abstract

@@ -1,11 +1,7 @@
 ---
 title: "ELIXIR All Hands 2018 - segment_liftover"
+template: blog_post.html 
 date: 2018-06-04
-category:
-  - presentations
-tags:
-  - poster
-  - presentation
 ---
 
 #### Abstract: [ELIXIR All Hands 2018](https://www.elixir-europe.org/events/elixir-all-hands-2018)

@@ -1,20 +1,15 @@
 ---
-title: "ELIXIR All Hands 2018 - Cell Line profiling"
+title: "Genomic profiles of cancer cell lines - A systematic review"
+template: blog_post.html 
 date: 2018-06-04
-category:
-  - presentations
-tags:
-  - poster
-  - presentation
 ---
 
 #### Abstract: [ELIXIR All Hands 2018](https://www.elixir-europe.org/events/elixir-all-hands-2018)
-## Genomic profiles of cancer cell lines - A systematic review
 ### Rahel Paloots, Qingyao Huang, Paula Carrio Cordo and Michael Baudis
 
-Human cell lines are convenient model systems in cancer research, for validation of proposed molecular mechanisms as well as to evaluate potential therapeutic approaches, e.g. through high-throughput screening of potential antitumor compounds against cancer cell line panels. Thousands of established cell lines are available from commercial or academic providers, covering a wide selection of cancer types. However, conclusions about biological pathways or pharmacological potential depend on a close molecular relation between the cancer type represented and the cell line model used for analyses.
+Human cell lines are convenient model systems in cancer research, for validation of proposed molecular mechanisms as well as to evaluate potential therapeutic approaches, e.g. through high-throughput screening of potential antitumor compounds against cancer cell line panels. Thousands of established cell lines are available from commercial or academic providers, covering a wide selection of cancer types. However, conclusions about biological pathways or pharmacological potential depend on a close molecular relation between the cancer type represented and the cell line model used for analyses.<!--more-->
 
-The validity of cell line based observations depends therefore A) on the correct identification and lineage assignment, and B) on the conservation of cancer specific molecular alterations during cell line propagation. However, according to ICLAC (International Cell Line Authentication Committee), in a text-based survey of ~32,000 publications for 488 cell lines, a large proportion of cell lines was found to be misidentified.
+The validity of cell line based observations depends therefore A) on the correct identification and lineage assignment, and B) on the conservation of cancer specific molecular alterations during cell line propagation. However, according to ICLAC (International Cell Line Authentication Committee), in a text-based survey of approx. 32,000 publications for 488 cell lines, a large proportion of cell lines was found to be misidentified.
 
 In the current study, we perform a data-driven assessment of heterogeneity and similarities in-between cell lines, as well as a comparison of cell lines with primary tumor samples of same tumor type. Our study is based on the curation of genomic copy number profiling and metadata data from 3675 genome profiling experiments from our [arrayMap resource](http://arraymap.org), representing 1539 distinct cell lines as identified in the Cellosaurus database.
 
