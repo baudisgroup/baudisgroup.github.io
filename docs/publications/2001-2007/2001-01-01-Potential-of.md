@@ -1,14 +1,10 @@
 ---
-title: "Potential of..."
+title: "Potential of chromosomal and matrix-based comparative genomic hybridization for molecular diagnostics in lymphomas"
+template: blog_post.html 
 date: 2001-01-01
 pdf_file_name: 11757703.pdf
-pdf_file_type: article
 links:
   - http://europepmc.org/abstract/MED/11757703
-category:
-  - publications
-tags:
-  - article
 ---
 
 ### Potential of chromosomal and matrix-based comparative genomic hybridization for molecular diagnostics in lymphomas.
