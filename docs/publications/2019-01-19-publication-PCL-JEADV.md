@@ -12,10 +12,7 @@ links:
 #### Gug G, Huang Q, Chiticariu E, Solovan C and Baudis M  (2019)
 ##### JEADV, 2019-01-19. https://doi.org/10.1111/jdv.15442
 
-<!--more-->
-
 The article has been published with the _Journal of the European Academy of Dermatology and Venereology_ on January 19, 2019. A corresponding preprint can be accessed through <a href="https://www.biorxiv.org/content/early/2018/09/14/417766" target="_blank">[bioRxiv]</a>.
-##### Abstract
 
 **Background**
 
@@ -23,7 +20,7 @@ Cutaneous lymphomas (CL) represent a clinically defined group of extran‐ odal 
 
 **Objective**
 
-With a comprehensive meta‐analysis, we aim to delineate genomic alter‐ ations for different types of CL and propose a more accurate classifica‐ tion in line with their various pathogenicity.
+With a comprehensive meta‐analysis, we aim to delineate genomic alter‐ ations for different types of CL and propose a more accurate classifica‐ tion in line with their various pathogenicity.<!--more-->
 
 **Methods**
 

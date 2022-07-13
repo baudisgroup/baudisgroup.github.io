@@ -3,7 +3,6 @@ title: Population assignment from cancer genome profiling data
 date: 2018-07-14
 author: mbaudis
 pdf_file_name: 2018-07-14___Huang_and_Baudis__Population_assignment_from_cancer_genome_data__biorXiv.pdf
-pdf_file_type: article    # slides poster article
 links: 
   - <a href="https://www.biorxiv.org/content/early/2018/07/14/368647" target="_blank">[bioRxiv]</a>
 ---
