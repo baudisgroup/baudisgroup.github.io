@@ -11,7 +11,6 @@ links:
   - <a href="https://info.baudisgroup.org/pdf/2021-01-15___Wagner-A-et-al.__The-GA4GH-Variation-Representation-Specification-VRS__bioRxiv-426843v1.pdf" target="_blank">[Preprint PDF]</a>
 ---
 
-
 #### Alex H. Wagner, Lawrence Babb, Gil Alterovitz, Michael Baudis, Matthew Brush, Daniel L. Cameron, Melissa Cline , Malachi Griffith, Obi L. Griffith, ..., Melissa Konopko, Heidi L. Rehm, Andrew D. Yates, Robert R. Freimuth, Reece K. Hart
 
 ##### Wagner, Alex H. et al. Cell Genomics, Volume 1, Issue 2, 100027 [doi:10.1016/j.xgen.2021.100027](https://doi.org/10.1016/j.xgen.2021.100027)
