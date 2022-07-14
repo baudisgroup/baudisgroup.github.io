@@ -1,14 +1,12 @@
 ---
 title: "BCATS 2001 - progenetix.net: storage and visualization of genomic aberration data in human malignancies"
+description: First BCATS Meeting - Biocomputing @ Stanford 2001
 template: blog_post.html 
 date: 2001-10-20
 pdf_file_name: 2001-10-20___Michael_Baudis__progenetix.net-at-BCATS__poster.pdf
-pdf_file_type: poster
 ---
 
-#### First BCATS Meeting - Biocomputing @ Stanford 2001
-## progenetix.net: storage and visualization of genomic aberration data in human malignancies
-### Michael Baudis
+#### Michael Baudis
 
 *Note* Down memory lane, for historical reference: The first public presentation of the _Progenetix_ database.
 

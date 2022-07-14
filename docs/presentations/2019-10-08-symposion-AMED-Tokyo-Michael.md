@@ -11,7 +11,7 @@ pdf_file_name: "2019-10-08___Michael-Baudis__Structural-Genome-Variants-in-Cance
 
 At this meeting, several Japanese participants presented their research and 
 results, with a focus on Copy Number Variants and other structural genome 
-variations.
+variations.<!--more-->
 
 Michael presented the overarching work of the group, from curating & analyzing 
 cancer CNV datasets towards the projects (Beacon, Schemablocks, h-CNV) to enable 

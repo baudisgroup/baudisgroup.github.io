@@ -14,9 +14,7 @@ pdf_file_type: slides
 ---
 
 
-
 A brief presentation about SchemaBlocks concepts and its possible integration into the new GA4GH TASC effort.
-
 
 #### Additional Links
 

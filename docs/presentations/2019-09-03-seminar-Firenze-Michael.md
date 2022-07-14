@@ -12,7 +12,7 @@ pdf_file_name: "2019-09-03___Michael-Baudis__Structural-Genome-Variants-in-Cance
 
 ##### Abstract
 
-Genomic copy number variations are major contributors to malignant transformation and progression and constitute - at least in their quantitative extension - the largest contributors to genomic mutation landscapes, in the majority of cancer types. Such mutations occur in the vast majority of tumors as somatic genome alterations (sCNV) during clonal development and expansion and are promoted by a variety of mechanisms leading to extended or focal changes in the number of genomic segments. 
+Genomic copy number variations are major contributors to malignant transformation and progression and constitute - at least in their quantitative extension - the largest contributors to genomic mutation landscapes, in the majority of cancer types. Such mutations occur in the vast majority of tumors as somatic genome alterations (sCNV) during clonal development and expansion and are promoted by a variety of mechanisms leading to extended or focal changes in the number of genomic segments.<!--more--> 
 
 However, while sCNV based alterations of many canonical cancer related genes has been shown, the impact of the widespread, extensive sCNV patterns is poorly understood, not the least due to the limited amount of accessible whole-genome sCNV datasets and the lack of appropriate data standards and exchange formats.
 

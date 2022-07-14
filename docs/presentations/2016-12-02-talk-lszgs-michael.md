@@ -1,12 +1,11 @@
 ---
+title: Personalized medicine in cancer
+description: LSZGS Cancer Biology course 2016
 template: blog_post.html 
 date: 2016-12-02
-pdf_file_name: 2016-04-14_Michael_Baudis_Biocuration2016.pdf
 ---
 
-#### LSZGS Cancer Biology course 2016
-## Personalized medicine in cancer
-### Michael Baudis
+#### Michael Baudis
 
 ##### Abstract
 

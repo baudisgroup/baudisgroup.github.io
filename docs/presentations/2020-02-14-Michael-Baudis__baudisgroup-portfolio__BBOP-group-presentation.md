@@ -8,8 +8,6 @@ pdf_file_name: "2020-02-14___Michael-Baudis__baudisgroup-portfolio__BBOP-group-p
 pdf_file_type: slides
 ---
 
-
-
 ##### Links
 
 * [Progenetix](https://progenetix.org)

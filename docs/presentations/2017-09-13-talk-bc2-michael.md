@@ -1,12 +1,14 @@
 ---
+title: Advancing the Global Alliance for Genomics and Health data schemas through data-driven implementations
+description: '[BC]2 2017 - Basel Computational Biology Conference'
 template: blog_post.html
 date: 2017-09-13
 pdf_file_name: 2017-09-13_BC2_Michael_Baudis_GA4GH_Beacon.pdf
+links:
+  - '[Basel Computational Biology Conference](https://www.bc2.ch/2017/)'
 ---
 
-#### [BC]2 2017 - [Basel Computational Biology Conference](https://www.bc2.ch/2017/)
-## Advancing the Global Alliance for Genomics and Health data schemas through data-driven implementations
-### Michael Baudis
+###$ Michael Baudis
 
 ##### Abstract
 
