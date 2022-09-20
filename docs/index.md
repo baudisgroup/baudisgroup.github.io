@@ -27,7 +27,7 @@ requests or issues on our project repositories, or [contact us](mailto:contact@p
 
 ### Address
 
-Winterthurerstrasse 190 | Y-13F-01 | CH-8057 Zurich | Switzerland
+Winterthurerstrasse 190 | Y-11F-13 | CH-8057 Zurich | Switzerland
 
 <a href="/img/access-map-Irchel.png" target="_blank">![How to find the Baudisgroup](/img/access-map-Irchel.png){:style="width: 80%;"}</a>
 
