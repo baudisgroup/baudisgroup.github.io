@@ -7,8 +7,8 @@ authors:
 links:
   - <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00034-3" target="_blank">[Cell Genomics]</a>
   - <a href="https://www.biorxiv.org/content/10.1101/2021.01.15.426843" target="_blank">[bioRxiv]</a>
-  - <a href="https://info.baudisgroup.org/pdf/2021-11-10___Wagner-et-al.__The-GA4GH-Variation-Representation-Specification__Cell-Genomics.pdf" target="_blank">[Article PDF]</a>
-  - <a href="https://info.baudisgroup.org/pdf/2021-01-15___Wagner-A-et-al.__The-GA4GH-Variation-Representation-Specification-VRS__bioRxiv-426843v1.pdf" target="_blank">[Preprint PDF]</a>
+  - <a href="/pdf/2021-11-10___Wagner-et-al.__The-GA4GH-Variation-Representation-Specification__Cell-Genomics.pdf" target="_blank">[Article PDF]</a>
+  - <a href="/pdf/2021-01-15___Wagner-A-et-al.__The-GA4GH-Variation-Representation-Specification-VRS__bioRxiv-426843v1.pdf" target="_blank">[Preprint PDF]</a>
 ---
 
 #### Alex H. Wagner, Lawrence Babb, Gil Alterovitz, Michael Baudis, Matthew Brush, Daniel L. Cameron, Melissa Cline , Malachi Griffith, Obi L. Griffith, ..., Melissa Konopko, Heidi L. Rehm, Andrew D. Yates, Robert R. Freimuth, Reece K. Hart

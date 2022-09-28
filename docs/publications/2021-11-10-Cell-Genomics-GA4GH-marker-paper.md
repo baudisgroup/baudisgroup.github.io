@@ -6,7 +6,7 @@ authors:
   - '@mbaudis'
 links:
   - <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00036-7" target="_blank">[Cell Genomics]</a>
-  - <a href="https://info.baudisgroup.org/pdf/2021-11-10___Rehm-et-al.__GA4GH--International-policies-and-standards-for-data-sharing-across-genomic-research-and-healthcare__Cell-Genomics.pdf" target="_blank">[Article PDF]</a>
+  - <a href="/pdf/2021-11-10___Rehm-et-al.__GA4GH--International-policies-and-standards-for-data-sharing-across-genomic-research-and-healthcare__Cell-Genomics.pdf" target="_blank">[Article PDF]</a>
 ---
 
 #### Heidi L. Rehm, Angela J.H. Page, Lindsay Smith, Jeremy B. Adams, Gil Alterovitz, Lawrence J. Babb, Maxmillian P. Barkley, Michael Baudis, Michael J.S. Beauvais, Tim Beck, Jacques S. Beckmann, Sergi Beltran, David Bernick, Alexander Bernier, James K. Bonfield, Tiffany F. Boughtwood, Guillaume Bourque, Sarion R. Bowers, Anthony J. Brookes, Michael Brudno, Matthew H. Brush, David Bujold, Tony Burdett, Orion J. Buske, Moran N. Cabili , Daniel L. Cameron, Robert J. Carroll, Esmeralda Casas-Silva, Debyani Chakravarty, Bimal P. Chaudhari, Shu Hui Chen, J. Michael Cherry, Justina Chung, Melissa Cline, Hayley L. Clissold, Robert M. Cook-Deegan, Mélanie Courtot, ..., Peter Goodhand, Kathryn North, Ewan Birney
