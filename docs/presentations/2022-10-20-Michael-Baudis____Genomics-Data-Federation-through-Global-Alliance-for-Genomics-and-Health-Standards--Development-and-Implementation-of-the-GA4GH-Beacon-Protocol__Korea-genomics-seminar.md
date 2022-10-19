@@ -9,7 +9,7 @@ pdf_file_name:
 links:
   - "[Presentation Slides](/pdf/2022-10-20___Michael-Baudis__GA4GH-principles-and-implementation-of-the-Beacon-standard__Korea-genomics-standards.pdf)"
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
-  - "[Meeting Program](2022-10-20-Smart-Health-Standards-Forum-Seminar-Program__Korea-genomics-standards.pdf)"
+  - "[Meeting Program](/pdf/2022-10-20-Smart-Health-Standards-Forum-Seminar-Program__Korea-genomics-standards.pdf)"
   - "[Global Alliance for Genomics and Health](http://ga4gh.org)"
   - "[Progenetix Genome Resource](http://progenetix.org)"
 ---
