@@ -5,10 +5,15 @@ template: blog_post.html
 authors:
   - '@mbaudis'
 date: 2022-10-20
-pdf_file_name: 
+pdf_file_name:
 links:
+  - "[Presentation Slides](/pdf/2022-10-20___Michael-Baudis__GA4GH-principles-and-implementation-of-the-Beacon-standard__Korea-genomics-standards.pdf)"
+  - "[Progenetix cancer genomics resource](http://progenetix.org)"
+  - "[Meeting Program](2022-10-20-Smart-Health-Standards-Forum-Seminar-Program__Korea-genomics-standards.pdf)"
   - "[Global Alliance for Genomics and Health](http://ga4gh.org)"
   - "[Progenetix Genome Resource](http://progenetix.org)"
 ---
 
 ### Michael Baudis
+
+In this Seoul meeting presentation Michael introduces the Global Alliance for Genomics and Healt and its involvement in Genomics standards development, followed by a discussion of the Beacon protocol and the role of the Progenetix resouce in its development.
