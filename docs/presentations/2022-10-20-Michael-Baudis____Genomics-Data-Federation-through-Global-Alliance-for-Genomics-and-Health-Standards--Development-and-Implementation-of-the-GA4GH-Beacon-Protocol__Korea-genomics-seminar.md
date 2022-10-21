@@ -16,4 +16,6 @@ links:
 
 ### Michael Baudis
 
-In this Seoul meeting presentation Michael introduces the Global Alliance for Genomics and Healt and its involvement in Genomics standards development, followed by a discussion of the Beacon protocol and the role of the Progenetix resouce in its development.
+In this Seoul meeting presentation Michael introduces the Global Alliance for Genomics and Healt and its involvement in Genomics standards development, followed by a discussion of the Beacon protocol and the role of the Progenetix resouce in its development. <!--more-->
+
+![](/img/Yonsei-sign-1024x768.png)
