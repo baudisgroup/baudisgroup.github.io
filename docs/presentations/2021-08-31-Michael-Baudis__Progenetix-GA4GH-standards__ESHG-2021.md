@@ -1,5 +1,6 @@
 ---
 title: "Cancer genomics reference resource and toolkit around GA4GH standards"
+description: ESHG 2021
 template: blog_post.html 
 date: 2021-08-31
 authors:
@@ -7,8 +8,7 @@ authors:
 pdf_file_name: 2021-08-31___Michael-Baudis-Progenetix-ESHG-poster.pdf
 ---
 
-### Q. Huang, B. Gao, R. Paloots, P. Carrio-Cordo, Z. Yang, M. Baudis
-#### [ESHG 2021](https://2021.eshg.org)
+#### Q. Huang, B. Gao, R. Paloots, P. Carrio-Cordo, Z. Yang, M. Baudis
 
 ![ESHG Logo](/img/eshg_logo_260x208.png){: style="float: right; width: 130px; margin-top: -65px;"}This poster presentation at the European Society of Human Genetics meeting 2021 discusses the integration and development of GA4GH standards by the Progenetix oncogenomics resource.
 

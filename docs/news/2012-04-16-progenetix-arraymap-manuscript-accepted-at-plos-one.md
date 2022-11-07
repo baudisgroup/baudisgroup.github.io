@@ -1,14 +1,9 @@
 ---
 title: 'arrayMap manuscript accepted at PLoS ONE'
+template: blog_post.html 
 date: 2012-04-16
-category:
-  - news
-tags: 
-  - recovered
-  - progenetix
-  - arraymap
-  - news
-  - publications
+authors:
+  - '@mbaudis'
 ---
 
 Cai, H., N. Kumar, and M. Baudis. arrayMap: A Reference Resource for Genomic Copy Number Imbalances in Human Malignancies. PLoS ONE 2012: accepted.

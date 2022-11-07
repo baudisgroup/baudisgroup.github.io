@@ -8,7 +8,7 @@ date: 2022-01-12
 pdf_file_name: 2022-01-12___Michael-Baudis__Genomic-data-and-Privacy__DSI.pdf
 ---
 
-### Michael Baudis
+#### Michael Baudis
 
 The presentation introduces the need for sharing and federated discovery of
 genome data in the contexts of personalized health and genomic researchand some

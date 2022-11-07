@@ -12,7 +12,7 @@ links:
   - "[Progenetix Genome Resource](http://progenetix.org)"
 ---
 
-### Michael Baudis
+#### Michael Baudis
 
 Here Michael provides a very brief presentation about the GA4GH _Beacon_
 protocol, especially as a target for projects discussing the ethical

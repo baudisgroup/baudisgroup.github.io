@@ -14,7 +14,7 @@ links:
   - "[Progenetix Genome Resource](http://progenetix.org)"
 ---
 
-### Michael Baudis
+#### Michael Baudis
 
 In this Seoul meeting presentation Michael introduces the Global Alliance for Genomics and Healt and its involvement in Genomics standards development, followed by a discussion of the Beacon protocol and the role of the Progenetix resouce in its development. <!--more-->
 

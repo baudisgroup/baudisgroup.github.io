@@ -1,5 +1,6 @@
 ---
 title: "Implementation of the GA4GH Beacon protocol for discovery and sharing of genomic copy number variation data"
+description: ESHG Vienna 2022
 template: blog_post.html 
 authors:
   - '@mbaudis'
@@ -7,8 +8,7 @@ pdf_file_name: 2022-06-13___Michael-Baudis-Progenetix-ESHG-poster.pdf
 date: 2022-06-13
 ---
 
-### Michael Baudis
-#### ESHG Vienna 2022
+#### Michael Baudis
 
 **Background & Objectives** Genomic copy number variations (CNV) are a major contributor to inter-individual genomic variation, can be causative events in rare diseases, but especially represent the majority of the mutational landscape in the most malignancies. While specific CNV events and some recurring patterns have contributed to the identification of individual cancer drivers and the recognition of cancer  subtypes, the complexity of genomic CNV patterns requires large amounts of well-defined genomic profiles for statistically meaningful analyses. At the other end of the spectrum, in the area of rare disease genomics the potential pathogenicity of individual CNV events requires validation against a vast set of disease-related and reference genomic profiles and annotations.
 

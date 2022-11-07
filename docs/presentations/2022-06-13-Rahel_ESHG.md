@@ -1,14 +1,13 @@
 ---
-title: "Cancer cell lines"
+title: "Cancer cell line variant knowledge resource for facilitated cell line identification"
+description: ESHG Vienna 2022
 template: blog_post.html 
 authors:
   - '@rahelp'
 date: 2022-06-31
 ---
 
-## Cancer cell line variant knowledge resource for facilitated cell line identification
-### Rahel Paloots, Michael Baudis
-#### ESHG Vienna 2022
+#### Rahel Paloots, Michael Baudis
 
 One of the known features of cancer is the instability of its genome. Vast changes in the genome lead to duplications and deletions in the chromosome, that can be detected in most types of cancer. These chromosomal aberrations are also called copy number variants. Cancer cell lines are necessary tools for understanding the disease mechanisms as well as the development of new cancer treatments. However, they may not always be the best representation of their neoplasm of origin, due to cell line contamination and misidentification, as well as higher numbers of accumulated mutations in the cancer cell line genome.
 

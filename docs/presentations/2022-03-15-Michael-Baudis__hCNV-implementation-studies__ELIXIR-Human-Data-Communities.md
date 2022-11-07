@@ -1,5 +1,6 @@
 ---
 title: "hCNV Implementation Studies Old and New"
+description: ELIXIR Human Data Communities
 date: 2022-03-15
 template: blog_post.html 
 authors:
@@ -9,9 +10,7 @@ links:
   - '<a href="https://cnvar.org">[hCNV Website]</a>'
 ---
 
-
-### Michael Baudis
-#### ELIXIR Human Data Communities
+#### Michael Baudis
 
 This presentation provided an overview about the hCNV community, implementation studies
 and ongoing work, e.g. interaction with the GA4GH VRS standard group and Beacon development.

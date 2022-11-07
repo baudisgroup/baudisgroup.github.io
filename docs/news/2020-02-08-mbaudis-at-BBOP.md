@@ -1,7 +1,9 @@
 ---
 title: "Michael @ BBOP"
+template: blog_post.html 
 date: 2020-02-08
-author: mbaudis
+authors:
+	- '@mbaudis'
 pdf_file_name: 2020-02-14___Michael-Baudis__baudisgroup-portfolio__BBOP-group-presentation.pdf
 ---
 

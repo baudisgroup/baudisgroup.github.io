@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Ziying"
+template: blog_post.html 
 date: 2020-10-26
 author: mbaudis
 pdf_file_name:

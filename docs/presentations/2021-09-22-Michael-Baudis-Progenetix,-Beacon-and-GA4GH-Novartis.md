@@ -1,5 +1,5 @@
 ---
-title: "Progenetix &amp; GA4GH Beacon"
+title: "A cancer genomics resource built around and driving GA4GH standards"
 description: GRIC sponsored workshop with the Swiss Institute of Bioinformatics
 date: 2021-09-22
 template: blog_post.html 
@@ -13,8 +13,7 @@ links:
 pdf_file_name: 2021-09-22___Michael-Baudis__Progenetix,-Beacon-and-GA4GH__Novartis.pdf
 ---
 
-#### A cancer genomics resource built around and driving GA4GH standards
-### Michael Baudis
+#### Michael Baudis
 
 The Progenetix oncogenomics resource provides sample-specific cancer genome profiling data and biomedical annotations as well as provenance data for cancer studies. With more than 100k genomic copy number number (CNV) profiles from over 700 cancer types, Progenetix empowers comparative analyses beyond individual studies and diagnostic concepts.
 

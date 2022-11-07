@@ -12,7 +12,7 @@ links:
   - "[Progenetix Genome Resource](http://progenetix.org)"
 ---
 
-### Michael Baudis
+#### Michael Baudis
 
 The “Beacon” protocol - developed with support from ELIXIR, the European bioinformatics infrastructure organization, as a standard of the Global Alliance for Genomics and Health (GA4GH) - represents an emerging standard for an “Internet for Genomics”. While the initial version of the protocol served as a widely adopted test bed for the sharing of genomic variants over federated query systems connecting hundreds of internationally distributed resources, the version 2 of the protocol provides a framework for extended, metadata-rich query and response options in both public and restricted federated access scenarios.<!--more-->
 
