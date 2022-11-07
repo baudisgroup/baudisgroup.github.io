@@ -2,6 +2,7 @@
 title:  "Sofia Pfund"
 description: Bachelor in Biomedicine, University of Zurich
 date:   2021-03-22
+is_gone: true
 ---
 
 <!--more-->
