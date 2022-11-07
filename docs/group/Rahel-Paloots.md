@@ -10,7 +10,7 @@ date:   2018-01-15
 | ---: | --- |
 | __Contact__ |     |
 | Address | Rahel Paloots<br/>Institute of Molecular Life Sciences<br/>University of Zurich<br/>Winterthurerstrasse 190<br/>CH-8057 Zurich<br/>Switzerland |
-| email |  rahelpaloots@gmail.com|
+| email |  rahel.paloots@uzh.ch|
 | github | [@rahelp](http://github.com//) |
 | __Personal__ |     |
 | Date of birth | 1993-02-10  |
