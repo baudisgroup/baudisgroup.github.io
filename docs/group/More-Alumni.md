@@ -8,7 +8,7 @@ is_gone: true
 
 * <a href="http://www.gs.uzh.ch/de/stab-gs/team/daellenbach.html" target="_BLANK">Martin Daellenbach</a>
 * <a href="https://www.ethz.ch/content/specialinterest/dual/nexus/en/people/person-detail.html?persid=202109" target="_BLANK">Linda Grob</a>, MSc (ETHZ)
-* Alessio Milanese
+* [Alessio Milanese](https://biol.ethz.ch/en/the-department/people/person-detail.MjM4OTA4.TGlzdC80NjAsOTIzMDMxMjIy.html)
 * <a href="https://ch.linkedin.com/in/nitin-kumar-29550859" target="_BLANK">Nitin Kumar</a>, PhD Cancer Biology <a href="http://www.lszgs.ch" target="_BLANK">LSZGS</a>
 * <a href="http://life.scu.edu.cn/En/faculty.html" target="_BLANK">Haoyang Cai</a>, PhD Cancer Biology <a href="http://www.lszgs.ch" target="_BLANK">LSZGS</a>
 * <a href="https://www.iit.it/people/kamal-kishore" target="_BLANK">Kamal Kishore</a>, MSc (UZH)

@@ -1,0 +1,21 @@
+# Please keep the header labels as they are.					
+# At minimum group_lat and group_lon are required for placing a marker.					
+group_label	group_lat	group_lon	item_label	item_link	marker_type
+University of Zurich	47.3983206928008	8.54841196493381	Michael Baudis	https://info.baudisgroup.org/group/	
+University of Zurich	47.3983206928008	8.54841196493381	Rahel Paloots	https://info.baudisgroup.org/group/	
+University of Zurich	47.3983206928008	8.54841196493381	Hangjia Zhao	https://info.baudisgroup.org/group/	
+University of Zurich	47.3983206928008	8.54841196493381	Ziying Yang	https://info.baudisgroup.org/group/	
+Marseille Medical Genetics	43.28875	5.40217	Christophe Beroud	https://www.marseille-medical-genetics.org/fr/c-beroud/	
+Marseille Medical Genetics	43.28875	5.40217	David Salgado	https://www.marseille-medical-genetics.org/fr/c-beroud/	
+CNAG-CRG	41.38195414924630	2.1165457202368500	Sergi Beltran	https://www.cnag.crg.eu/sergi-beltran	
+CNAG-CRG	41.38195414924630	2.1165457202368500	Steven Laurie	https://www.cnag.crg.eu/steven-laurie	
+Center for Genomic Regulation	41.385555891593800	2.1940677932543800	Babita Singh	https://www.crg.eu/en/group-members/babita-singh	
+European Bioinformatics Institute EBI	52.079936724614800	0.18652979910338700	Timothee Cezard	https://www.ebi.ac.uk/about/people/timothee-cezard	
+European Bioinformatics Institute EBI	52.079936724614800	0.18652979910338700	Kirill Tsukanov	https://www.ebi.ac.uk/about/people/kirill-tsukanov	
+University of Bradford	53.7915944357949	-1.7660797296964700	Krzysztof Poterlowicz	https://www.bradford.ac.uk/staff/KPoterlowicz1	
+University of Bradford	53.7915944357949	-1.7660797296964700	Katarzyna Kamieniecka	https://elixiruknode.org/team/katarzyna-kamieniecka/	
+University of Freiburg	48.014799717966200	7.83356072785665	Bjoern Gruening	http://www.bioinf.uni-freiburg.de/team.html	
+ELIXIR	52.07799561917700	0.1868099991033470	Katharina Heil	https://elixir-europe.org/about-us/who-we-are/hub	
+ELIXIR	52.07799561917700	0.1868099991033470	Giselle Kerry	https://elixir-europe.org/about-us/who-we-are/hub	
+Biozentrum Basel	47.5643495531957	7.580929650422590	Alexander Kanitz	http://www.biozentrum.unibas.ch/	
+Erasmus MC	51.91101673038920	4.467823983754840	Andrew Stubbs	https://www.erasmusmc.nl/en/research/groups/pathology-stubbs	
