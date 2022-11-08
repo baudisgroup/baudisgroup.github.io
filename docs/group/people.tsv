@@ -1,7 +1,7 @@
 # Please keep the header labels as they are.					
 # At minimum group_lat and group_lon are required for placing a marker.					
 group_label	group_lat	group_lon	item_label	item_link	marker_type
-University of Zurich	47.3983206928008	8.54841196493381	Michael Baudis	https://info.baudisgroup.org/group/	
-University of Zurich	58.5953	25.0136	Rahel Paloots	https://info.baudisgroup.org/group/	
-University of Zurich	29.0316 111.6985	Hangjia Zhao	https://info.baudisgroup.org/group/	
-University of Zurich	26.4345	111.608	Ziying Yang	https://info.baudisgroup.org/group/	
+University of Zurich	47.3983206928008	8.54841196493381	Michael Baudis	https://info.baudisgroup.org/group/Michael-Baudis/	
+University of Zurich	58.5953	25.0136	Rahel Paloots	https://info.baudisgroup.org/group/Rahel-Paloots/	
+University of Zurich	26.4345	111.608	Ziying Yang	https://info.baudisgroup.org/group/Ziying-Yang/	
+University of Zurich	29.0316	111.6985	Hangjia Zhao	https://info.baudisgroup.org/group/Hangjia-Zhao/	
