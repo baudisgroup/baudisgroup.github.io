@@ -18,3 +18,6 @@ links:
 This brief presentation introduces the Progenetix resource, the Gobal Alliance for
 Genomics and Health as a developers of standards for data sharing in biomedical genomics
 as well as the use of Progenetix in GA4GH standards development.
+
+
+
