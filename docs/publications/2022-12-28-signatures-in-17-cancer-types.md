@@ -6,13 +6,17 @@ authors:
  - '@mbaudis'
  - '@qingyao'
 date: 2022-12-28
-pdf_file_name:
+pdf_file_name: 2023-01-16___Huang-and-Baudis__Candidate-targets-of-copy-number-deletion-events-across-17-cancer-types__Frontiers-in-Genetics.pdf
 links:
-  - '[Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2022.1017657/abstract)'
+  - '[articlea at Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2022.1017657/full)'
+  - '[2022 preprint at bioRxiv](https://www.biorxiv.org/content/10.1101/2022.06.29.498080v1)'
+
 ---
 
 #### Huang Q and Baudis M
-##### doi: 10.3389/fgene.2022.1017657
+##### doi: [10.3389/fgene.2022.1017657](https://www.frontiersin.org/articles/10.3389/fgene.2022.1017657/full)
+##### previous bioRxiv (first )2022-06-29), [doi.org/10.1101/2022.06.29.498080](https://doi.org/10.1101/2022.06.29.498080)
+
 
 
 **Abstract** Genome variation is the direct cause of cancer and driver of its clonal evolution. While the impact of many point mutations can be evaluated through their modification of individual genomic elements, even a single copy number aberration (CNA) may encompass hundreds of genes and therefore pose challenges to untangle potentially complex functional effects. However, consistent, recurring and disease-specific patterns in the genome-wide CNA landscape imply that particular CNA may promote cancer-type-specific characteristics. Discerning essential cancer-promoting alterations from the inherent co-dependency in CNA would improve the understanding of mechanisms of CNA and provide new insights into cancer biology and potential therapeutic targets.<!--more-->
