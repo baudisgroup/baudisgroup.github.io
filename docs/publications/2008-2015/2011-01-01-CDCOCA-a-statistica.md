@@ -1,6 +1,6 @@
 ---
 title: "CDCOCA: a statistical method to define complexity dependence of co-occuring chromosomal aberrations"
-template: blog_post.html 
+template: post.html 
 date: 2011-01-01
 pdf_file_name: 21371302.pdf
 links:

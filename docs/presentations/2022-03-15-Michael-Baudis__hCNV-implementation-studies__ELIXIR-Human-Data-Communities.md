@@ -2,7 +2,7 @@
 title: "hCNV Implementation Studies Old and New"
 description: ELIXIR Human Data Communities
 date: 2022-03-15
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 pdf_file_name: 2022-03-15___Michael-Baudis__hCNV-community-2019-2021_wrap-up.pdf

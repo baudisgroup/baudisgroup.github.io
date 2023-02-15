@@ -1,6 +1,6 @@
 ---
 title: "Gain of chromosome arm 9p is characteristic of primary mediastinal B-cell lymphoma (MBL): comprehensive molecular cytogenetic analysis and presentation of a novel MBL cell line"
-template: blog_post.html 
+template: post.html 
 date: 2001-04-01
 pdf_file_name: 11241792.pdf
 links:

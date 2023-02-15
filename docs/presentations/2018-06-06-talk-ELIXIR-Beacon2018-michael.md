@@ -1,6 +1,6 @@
 ---
 title: 'The ELIXIR Beacon in 2018: A driver project of GA4GH'
-template: blog_post.html 
+template: post.html 
 date: 2018-06-06
 pdf_file_name: 2018-06-06___Michael_Baudis__ELIXIR-All-Hands-2018-Beacon.pdf
 ---

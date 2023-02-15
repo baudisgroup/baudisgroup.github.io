@@ -1,5 +1,5 @@
 ---
-template: blog_post.html 
+template: post.html 
 date: 2017-12-01
 pdf_file_name: 2017-12-01_Cancer_Biology_course_Michael_Baudis.pdf
 pdf_file_type: slides

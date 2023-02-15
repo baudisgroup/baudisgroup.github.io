@@ -1,7 +1,7 @@
 ---
 title: Discovering copy number variation across multiple cancer types
 descriptoion: Zürich Seminars in Bioinformatics
-template: blog_post.html
+template: post.html
 date: 2021-03-25
 authors:
   - '@mbaudis'

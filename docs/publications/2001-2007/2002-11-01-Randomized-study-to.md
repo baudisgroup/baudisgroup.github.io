@@ -1,6 +1,6 @@
 ---
 title: "Randomized study to evaluate the use of high-dose therapy as part of primary treatment for "aggressive" lymphoma"
-template: blog_post.html 
+template: post.html 
 date: 2002-11-01
 pdf_file_name: 12431962.pdf
 links:

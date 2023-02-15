@@ -1,7 +1,7 @@
 ---
 title: "Candidate targets of copy number deletion events across 17 cancer types"
 description: Identifying cancer related genes against the background of somatic CNV events
-template: blog_post.html 
+template: post.html 
 authors:
  - '@mbaudis'
  - '@qingyao'

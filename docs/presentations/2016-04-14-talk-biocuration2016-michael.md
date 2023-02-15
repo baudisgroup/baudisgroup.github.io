@@ -1,7 +1,7 @@
 ---
 title: Harvesting Cancer Genome Data
 description: Biocuration 2016, Geneva
-template: blog_post.html 
+template: post.html 
 date: 2016-04-14
 pdf_file_name: 2016-04-14_Michael_Baudis_Biocuration2016.pdf
 ---

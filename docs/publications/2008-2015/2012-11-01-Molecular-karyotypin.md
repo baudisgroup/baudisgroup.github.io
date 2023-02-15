@@ -1,6 +1,6 @@
 ---
 title: "Molecular karyotyping as a relevant diagnostic tool in children with growth retardation with Silver-Russell features"
-template: blog_post.html 
+template: post.html 
 date: 2012-11-01
 pdf_file_name: 22683032.pdf
 links:

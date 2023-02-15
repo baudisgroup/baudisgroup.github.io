@@ -1,6 +1,6 @@
 ---
 title: "ECCB 2018 - Beacon"
-template: blog_post.html 
+template: post.html 
 date: 2018-09-10
 pdf_file_name: 2018-09-10___Michael_Baudis__Elixir-Beacon__ECCB18.pdf
 pdf_file_type: slides

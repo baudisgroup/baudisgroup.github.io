@@ -1,6 +1,6 @@
 ---
 title: "Registered access: authorizing data access"
-template: blog_post.html 
+template: post.html 
 date: 2018-08-02
 authors: 
   - Michael

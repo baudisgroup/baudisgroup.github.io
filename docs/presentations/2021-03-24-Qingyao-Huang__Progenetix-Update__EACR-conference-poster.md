@@ -1,6 +1,6 @@
 ---
 title: 'EACR conference - The Progenetix Oncogenomic Resource'
-template: blog_post.html
+template: post.html
 date: 2021-03-24
 authors:
   - '@mbaudis'

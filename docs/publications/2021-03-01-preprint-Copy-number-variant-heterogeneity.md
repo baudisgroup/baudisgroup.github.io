@@ -1,7 +1,7 @@
 ---
 title: "Copy number variant heterogeneity among cancer types reflects inconsistent concordance with diagnostic classifications"
 date: 2021-03-01
-template: blog_post.html 
+template: post.html 
 authors:
  - '@mbaudis'
 pdf_file_name: "2021-03-01___Carrio-Cordo-and-Baudis__CNV-heterogeneity-in-cancer-and-diagnostic-classifications__biorXiv-433348v1.pdf"

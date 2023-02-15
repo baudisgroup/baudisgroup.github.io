@@ -1,7 +1,7 @@
 ---
 title: "Progenetix, Beacon and GA4GH at RDA"
 description: Research Data Alliance - RDA Virtual Plenary 17
-template: blog_post.html 
+template: post.html 
 date: 2021-04-20
 authors:
   - '@mbaudis'

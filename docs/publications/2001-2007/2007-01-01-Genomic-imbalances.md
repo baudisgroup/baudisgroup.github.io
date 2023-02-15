@@ -1,6 +1,6 @@
 ---
 title: "Genomic imbalances in 5918 malignant epithelial tumors: an explorative meta-analysis of chromosomal CGH data"
-template: blog_post.html 
+template: post.html 
 date: 2007-01-01
 pdf_file_name: 18088415.pdf
 links:

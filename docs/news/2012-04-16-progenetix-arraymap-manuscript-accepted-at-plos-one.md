@@ -1,6 +1,6 @@
 ---
 title: 'arrayMap manuscript accepted at PLoS ONE'
-template: blog_post.html 
+template: post.html 
 date: 2012-04-16
 authors:
   - '@mbaudis'

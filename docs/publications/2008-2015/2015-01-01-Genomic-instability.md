@@ -1,6 +1,6 @@
 ---
 title: "Genomic instability of osteosarcoma cell lines in culture: impact on the prediction of metastasis relevant genes"
-template: blog_post.html 
+template: post.html 
 date: 2015-01-01
 pdf_file_name: 25992885.pdf
 links:

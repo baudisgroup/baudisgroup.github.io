@@ -1,7 +1,7 @@
 ---
 title: 'Beacon v2 - Onboarding Strategies & Feature Examples'
 description: Beacon Sessions at GA4GH Connect
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 date: 2022-11-16

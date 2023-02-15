@@ -1,6 +1,6 @@
 ---
 title: "arrayMap: a reference resource for genomic copy number imbalances in human malignancies"
-template: blog_post.html 
+template: post.html 
 date: 2012-01-01
 pdf_file_name: 22629346.pdf
 pdf_file_type: article

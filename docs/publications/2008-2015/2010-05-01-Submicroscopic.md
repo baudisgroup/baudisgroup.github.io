@@ -1,6 +1,6 @@
 ---
 title: "Submicroscopic chromosomal imbalances in idiopathic Silver-Russell syndrome (SRS): the SRS phenotype overlaps with the 12q14 microdeletion syndrome"
-template: blog_post.html 
+template: post.html 
 date: 2010-05-01
 pdf_file_name: 19762329.pdf
 links:

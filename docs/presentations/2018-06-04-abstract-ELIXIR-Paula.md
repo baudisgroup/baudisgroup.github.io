@@ -1,6 +1,6 @@
 ---
 title: 'Biocuration for cancer genome databases: arrayMap and Progenetix'
-template: blog_post.html 
+template: post.html 
 date: 2018-06-04
 ---
 

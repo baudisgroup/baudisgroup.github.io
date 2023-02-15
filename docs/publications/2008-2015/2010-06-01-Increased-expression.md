@@ -1,6 +1,6 @@
 ---
 title: "Increased expression..."
-template: blog_post.html 
+template: post.html 
 date: 2010-06-01
 pdf_file_name: 20054560.pdf
 links:

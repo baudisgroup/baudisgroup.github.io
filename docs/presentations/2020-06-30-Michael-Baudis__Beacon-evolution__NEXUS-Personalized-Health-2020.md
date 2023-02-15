@@ -1,7 +1,7 @@
 ---
 title: "Beacon v2 - Towards Flexible Use and Clinical Applications for a Reference Genomic Data Sharing Protocol"
 date: 2020-06-30
-template: blog_post.html
+template: post.html
 authors:
   - '@mbaudis'
 links:

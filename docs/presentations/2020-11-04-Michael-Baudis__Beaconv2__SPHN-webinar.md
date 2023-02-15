@@ -1,7 +1,7 @@
 ---
 title: "Beacon v2 – Towards flexible use and clinical applications for a reference genomic data protocol"
 date: 2020-11-04
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 links:

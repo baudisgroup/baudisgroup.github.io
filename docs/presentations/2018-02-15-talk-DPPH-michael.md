@@ -1,5 +1,5 @@
 ---
-template: blog_post.html 
+template: post.html 
 date: 2018-02-15
 pdf_file_name: 2018-02-15_Beacon_DPPH_Lausanne_Michael_Baudis.pdf
 ---

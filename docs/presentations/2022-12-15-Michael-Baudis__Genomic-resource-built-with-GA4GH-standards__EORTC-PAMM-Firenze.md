@@ -1,7 +1,7 @@
 ---
 title: 'Genomic Resource Built with GA4GH Standards'
 description: EORTC PAMM Firenze
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 date: 2022-12-15

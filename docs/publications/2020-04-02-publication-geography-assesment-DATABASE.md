@@ -1,6 +1,6 @@
 ---
 title: "Geographic assessment of cancer genome profiling studies"
-template: blog_post.html 
+template: post.html 
 date: 2020-04-02
 author: '@mbaudis'
 pdf_file_name: 2020-04-02___Carrio-Cordo,-Baudis-et-al.__Geographic-Assessment-of-Cancer-Genome-Profiling-Studies__DATABASE.pdf

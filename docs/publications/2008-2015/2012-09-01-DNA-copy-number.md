@@ -1,6 +1,6 @@
 ---
 title: "DNA copy number alterations in central primitive neuroectodermal tumors and tumors of the pineal region: an international individual patient data meta-analysis"
-template: blog_post.html 
+template: post.html 
 date: 2012-09-01
 pdf_file_name: 22772606.pdf
 links:

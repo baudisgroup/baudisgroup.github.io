@@ -1,7 +1,7 @@
 ---
 title: "A cancer genomics reference resource powered by GA4GH standards"
 description: Roche Data Science Seminar
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 date: 2022-06-27

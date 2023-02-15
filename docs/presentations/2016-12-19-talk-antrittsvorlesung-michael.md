@@ -1,7 +1,7 @@
 ---
 title: Cancer Genome (Data) Analysis
 description: Antrittsvorlesung Universität Zürich - Inaugural Lecture at University of Zurich
-template: blog_post.html 
+template: post.html 
 date: 2016-12-19
 pdf_file_name: 2016-12-19_Antrittsvorlesung_UZH_Michael_Baudis_web.pdf
 ---

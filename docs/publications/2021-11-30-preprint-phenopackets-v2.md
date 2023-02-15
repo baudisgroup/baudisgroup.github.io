@@ -1,6 +1,6 @@
 ---
 title: "The GA4GH Phenopacket schema: A computable representation of clinical data for precision medicine"
-template: blog_post.html 
+template: post.html 
 date: 2021-11-30
 description: Phenopackets v2 preprint
 authors:

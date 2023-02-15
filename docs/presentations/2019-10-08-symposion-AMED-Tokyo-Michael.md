@@ -1,6 +1,6 @@
 ---
 title: "Talk at AMED Tokyo -  Cancer Genomics and Standards"
-template: blog_post.html 
+template: post.html 
 date: 2019-10-08
 pdf_file_name: "2019-10-08___Michael-Baudis__Structural-Genome-Variants-in-Cancer__AMED-Tokyo.pdf"
 ---

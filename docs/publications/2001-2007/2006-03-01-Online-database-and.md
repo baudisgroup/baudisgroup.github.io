@@ -1,6 +1,6 @@
 ---
 title: "Online database and bioinformatics toolbox to support data mining in cancer cytogenetics"
-template: blog_post.html 
+template: post.html 
 date: 2006-03-01
 pdf_file_name: 16568815.pdf
 links:

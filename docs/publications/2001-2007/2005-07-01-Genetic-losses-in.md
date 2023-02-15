@@ -1,6 +1,6 @@
 ---
 title: "Genetic losses in breast cancer: toward an integrated molecular cytogenetic map"
-template: blog_post.html 
+template: post.html 
 date: 2005-07-01
 pdf_file_name: 15993270.pdf
 pdf_file_type: article

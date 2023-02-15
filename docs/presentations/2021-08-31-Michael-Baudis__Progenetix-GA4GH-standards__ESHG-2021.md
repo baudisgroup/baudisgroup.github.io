@@ -1,7 +1,7 @@
 ---
 title: "Cancer genomics reference resource and toolkit around GA4GH standards"
 description: ESHG 2021
-template: blog_post.html 
+template: post.html 
 date: 2021-08-31
 authors:
   - '@mbaudis'

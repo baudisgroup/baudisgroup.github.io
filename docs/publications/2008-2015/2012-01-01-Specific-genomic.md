@@ -1,6 +1,6 @@
 ---
 title: "Specific genomic regions are differentially affected by copy number alterations across distinct cancer types, in aggregated cytogenetic data"
-template: blog_post.html 
+template: post.html 
 date: 2012-01-01
 pdf_file_name: 22937079.pdf
 links:

@@ -1,6 +1,6 @@
 ---
 title: "Comparative genomic hybridization for the analysis of leukemias and lymphomas"
-template: blog_post.html 
+template: post.html 
 date: 2001-01-01
 pdf_file_name: 21312103.pdf
 links:

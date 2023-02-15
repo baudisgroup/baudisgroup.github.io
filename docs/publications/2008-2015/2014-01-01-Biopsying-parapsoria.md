@@ -1,6 +1,6 @@
 ---
 title: "Biopsying parapsoriasis: quo vadis? Are morphological stains enough or are ancillary tests needed?"
-template: blog_post.html 
+template: post.html 
 date: 2014-01-01
 pdf_file_name: 25607389.pdf
 links:

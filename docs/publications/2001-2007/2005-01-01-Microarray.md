@@ -1,6 +1,6 @@
 ---
 title: Microarray comparative genomic hybridization detection of chromosomal imbalances in uterine cervix carcinoma
-template: blog_post.html 
+template: post.html 
 date: 2005-01-01
 pdf_file_name: 16004614.pdf
 pdf_file_type: article

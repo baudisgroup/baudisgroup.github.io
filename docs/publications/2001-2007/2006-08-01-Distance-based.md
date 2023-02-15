@@ -1,6 +1,6 @@
 ---
 title: "Distance-based clustering of CGH data"
-template: blog_post.html 
+template: post.html 
 date: 2006-08-01
 pdf_file_name: 16705014.pdf
 links:

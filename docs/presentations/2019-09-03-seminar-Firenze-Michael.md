@@ -1,6 +1,6 @@
 ---
 title: "Structural Genome Variants in Cancer: Research, resources standards"
-template: blog_post.html 
+template: post.html 
 description: Seminar at the University of Florence
 date: 2019-09-03
 pdf_file_name: "2019-09-03___Michael-Baudis__Structural-Genome-Variants-in-Cancer__Seminar-UniFirenze.pdf"

@@ -1,7 +1,7 @@
 ---
 title: "Oncology Informatics: Status Quo and Outlook - Review"
 date: 2020-05-14
-template: blog_post.html 
+template: post.html 
 authors:
  - '@mbaudis'
 pdf_file_name: 2020-05-14___Putora,-Baudis-et-al.__Oncology-Informatics--Status-Quo-and-Outlook__Oncology,-review.pdf

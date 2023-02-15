@@ -1,7 +1,7 @@
 ---
 title: "Cancer cell line variant knowledge resource for facilitated cell line identification"
 description: ESHG Vienna 2022
-template: blog_post.html 
+template: post.html 
 authors:
   - '@rahelp'
 date: 2022-06-31

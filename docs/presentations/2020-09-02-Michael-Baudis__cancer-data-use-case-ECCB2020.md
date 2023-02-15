@@ -1,7 +1,7 @@
 ---
 title: "Cancer Data - ELIXIR::GA4GH: Advancing genomics resources through standards and ontologies"
 date: 2020-09-02
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 category:

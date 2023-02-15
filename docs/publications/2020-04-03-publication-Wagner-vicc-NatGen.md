@@ -1,6 +1,6 @@
 ---
 title: "A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer"
-template: blog_post.html 
+template: post.html 
 date: 2020-04-03
 authors: 
   - "@mbaudis"

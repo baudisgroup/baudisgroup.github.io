@@ -1,7 +1,7 @@
 ---
 title: "GA4GH Connect - Beacon v2 and SchemaBlocks"
 date: 2021-03-02
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 category:

@@ -1,6 +1,6 @@
 ---
 title: "Chromothripsis-like patterns are recurring but heterogeneously distributed features in a survey of 22,347 cancer genome screens"
-template: blog_post.html 
+template: post.html 
 date: 2014-01-01
 pdf_file_name: 24476156.pdf
 links:

@@ -1,7 +1,7 @@
 ---
 title: "ELIXIR All Hands - Beacon Evolution"
 date: 2020-06-10
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 ---

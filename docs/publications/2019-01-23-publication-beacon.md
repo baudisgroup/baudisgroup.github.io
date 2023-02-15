@@ -1,6 +1,6 @@
 ---
 title: "Federated discovery and sharing of genomic data using Beacons"
-template: blog_post.html 
+template: post.html 
 date: 2019-01-23
 author: "@mbaudis"
 pdf_file_name: '2019-03-04___Fiume-et-al.__Federated-discovery-and-sharing-of-genomic-data-using-Beacons__NatBiotech.pdf'

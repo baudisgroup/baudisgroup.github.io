@@ -1,7 +1,7 @@
 ---
 title: Enabling population assignment from cancer genomes with SNP2pop
 date: 2020-03-16
-template: blog_post.html 
+template: post.html 
 authors:
   - "@mbaudis"
   - "@qingyao"

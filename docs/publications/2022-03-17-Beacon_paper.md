@@ -1,6 +1,6 @@
 ---
 title: 'Beacon v2 and Beacon networks: A "lingua franca" for federated data discovery in biomedical genomics, and beyond'
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
   - "@rahelp"

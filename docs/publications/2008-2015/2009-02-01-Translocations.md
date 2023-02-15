@@ -1,6 +1,6 @@
 ---
 title: "Translocations involving 8q24 in Burkitt lymphoma and other malignant lymphomas: a historical review of cytogenetics in the light of todays knowledge"
-template: blog_post.html 
+template: post.html 
 date: 2009-02-01
 pdf_file_name: 18923440.pdf
 links:

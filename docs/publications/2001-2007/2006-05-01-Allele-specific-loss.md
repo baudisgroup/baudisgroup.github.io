@@ -1,6 +1,6 @@
 ---
 title: "Allele-specific loss of heterozygosity in multiple colorectal adenomas: toward an integrated molecular cytogenetic map II"
-template: blog_post.html 
+template: post.html 
 date: 2006-05-01
 pdf_file_name: 16682279.pdf
 links:

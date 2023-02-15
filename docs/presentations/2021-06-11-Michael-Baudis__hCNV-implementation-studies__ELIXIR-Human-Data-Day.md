@@ -1,6 +1,6 @@
 ---
 title: "hCNV Community and Implementation Studies"
-template: blog_post.html 
+template: post.html 
 date: 2021-06-11
 authors:
   - '@mbaudis'

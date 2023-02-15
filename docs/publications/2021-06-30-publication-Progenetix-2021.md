@@ -2,7 +2,7 @@
 title: "The Progenetix oncogenomic resource in 2021"
 description: Article describing the current content & technical status of progenetix.org
 date: 2021-06-30
-template: blog_post.html
+template: post.html
 pdf_file_name: 2021-06-30___Huang-et-al.__The-Progenetix-oncogenomic-resource-in-2021__DATABASE.pdf
 authors:
  - '@mbaudis'

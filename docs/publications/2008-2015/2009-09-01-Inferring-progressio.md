@@ -1,6 +1,6 @@
 ---
 title: "Inferring progressio..."
-template: blog_post.html 
+template: post.html 
 date: 2009-09-01
 pdf_file_name: 19528087.pdf
 links:

@@ -1,7 +1,7 @@
 ---
 title: "Implementing GA4GH Standards to Drive an Open Oncogenomics Resource"
 description: Research Seminar Kinderspital Zürich - Neuroonkologie
-template: blog_post.html 
+template: post.html 
 date: 2021-03-29
 authors:
   - '@mbaudis'

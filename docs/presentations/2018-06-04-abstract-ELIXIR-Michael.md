@@ -1,6 +1,6 @@
 ---
 title: "ELIXIR Beacon - A Driver Project for the Global Alliance for Genomics and Health"
-template: blog_post.html 
+template: post.html 
 date: 2018-06-04
 ---
 

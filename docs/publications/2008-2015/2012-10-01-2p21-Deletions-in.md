@@ -1,6 +1,6 @@
 ---
 title: "2p21 Deletions in hypotonia-cystinuria syndrome"
-template: blog_post.html 
+template: post.html 
 date: 2012-10-01
 pdf_file_name: 22766003.pdf
 links:

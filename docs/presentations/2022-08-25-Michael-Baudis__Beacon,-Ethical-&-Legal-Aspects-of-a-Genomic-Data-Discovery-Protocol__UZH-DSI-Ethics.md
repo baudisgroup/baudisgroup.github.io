@@ -1,7 +1,7 @@
 ---
 title: 'Beacon - Ethical & Legal Aspects of a Genomic Data Discovery Protocol'
 description: DSI Ethics Project Pitch
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 date: 2022-08-25

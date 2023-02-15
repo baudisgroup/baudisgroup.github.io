@@ -1,6 +1,6 @@
 ---
 title: "Integrative genome-wide expression profiling identifies three distinct molecular subgroups of renal cell carcinoma with different patient outcome"
-template: blog_post.html 
+template: post.html 
 date: 2012-01-01
 pdf_file_name: 22824167.pdf
 links:

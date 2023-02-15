@@ -1,6 +1,6 @@
 ---
 title: "DNA copy number imbalances in primary cutaneous lymphomas (PCL)"
-template: blog_post.html 
+template: post.html 
 date: 2018-09-20
 authors:
   - @qingyao

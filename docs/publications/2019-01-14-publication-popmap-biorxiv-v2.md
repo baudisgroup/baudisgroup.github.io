@@ -1,6 +1,6 @@
 ---
 title: Enabling population assignment from cancer genomes with SNP2pop
-template: blog_post.html 
+template: post.html 
 date: 2019-01-14
 authors:
   - mbaudis

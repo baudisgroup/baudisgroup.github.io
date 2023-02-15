@@ -1,6 +1,6 @@
 ---
 title: "Identification of a..."
-template: blog_post.html 
+template: post.html 
 date: 2010-02-01
 pdf_file_name: 20101688.pdf
 links:

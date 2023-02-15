@@ -1,6 +1,6 @@
 ---
 title: "Silver-Russell patients showing a broad range of ICR1 and ICR2 hypomethylation in different tissues"
-template: blog_post.html 
+template: post.html 
 date: 2011-07-01
 pdf_file_name: 20738330.pdf
 links:

@@ -1,7 +1,7 @@
 ---
 title: "A Standardized Format for Federated Genomic Data Exchange"
 description: 'The GA4GH Beacon Protocol Presented at BC<sup>2</sup> Basel 2021<br/>Session "Federating computational analyses with GA4GH standards"'
-template: blog_post.html 
+template: post.html 
 date: 2021-09-13
 authors:
   - '@mbaudis'

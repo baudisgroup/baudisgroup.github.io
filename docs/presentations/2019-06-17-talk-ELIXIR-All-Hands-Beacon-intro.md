@@ -1,6 +1,6 @@
 ---
 title: "ELIXIR All Hands - Beacon Introduction"
-template: blog_post.html 
+template: post.html 
 date: 2019-06-17
 pdf_file_name: "2019-06-17___Michael-Baudis__Beacon-session-ELIXIR-and-GA4GH__ELIXIR-Lisbon-2019.pdf"
 links:

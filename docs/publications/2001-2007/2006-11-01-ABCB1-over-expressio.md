@@ -1,6 +1,6 @@
 ---
 title: "ABCB1 over-expression and drug-efflux in acute lymphoblastic leukemia cell lines with t(17;19) and E2A-HLF expression"
-template: blog_post.html 
+template: post.html 
 date: 2006-11-01
 pdf_file_name: 16206189.pdf
 links:

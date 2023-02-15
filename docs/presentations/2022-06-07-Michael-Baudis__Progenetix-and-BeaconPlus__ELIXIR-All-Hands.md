@@ -1,7 +1,7 @@
 ---
 title: "Progenetix & BeaconPlus - An open cancer genomics resource on a stack of Beacon code..."
 description: ELIXIR All Hands Amsterdam 2022
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 date: 2022-06-07

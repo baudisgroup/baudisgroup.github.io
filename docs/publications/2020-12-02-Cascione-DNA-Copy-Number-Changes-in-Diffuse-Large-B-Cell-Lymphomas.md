@@ -1,6 +1,6 @@
 ---
 title: "DNA Copy Number Changes in Diffuse Large B Cell Lymphomas"
-template: blog_post.html 
+template: post.html 
 authors:
  - '@mbaudis'
 pdf_file_name: 2020-12-02___Cascione-et-al.__DNA-Copy-Number-Changes-in-Diffuse-Large-B-Cell-Lymphomas__Front-in-Oncol-review.pdf

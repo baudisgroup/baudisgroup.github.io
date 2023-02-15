@@ -1,6 +1,6 @@
 ---
 title: "Recurrent loss of heterozygosity in 1p36 associated with TNFRSF14 mutations in IRF4 translocation negative pediatric follicular lymphomas"
-template: blog_post.html 
+template: post.html 
 date: 2013-08-01
 pdf_file_name: 23445872.pdf
 links:

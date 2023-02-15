@@ -1,6 +1,6 @@
 ---
 title: "A harmonized meta-knowledgebase of clinical interpretations of cancer genomic variants"
-template: blog_post.html 
+template: post.html 
 date: 2018-07-12
 authors:
   - "@mbaudis"

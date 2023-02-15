@@ -1,7 +1,7 @@
 ---
 title: "The Ubiquitin Ligase TRIP12 Limits PARP1 Trapping and Constrains PARP Inhibitor Efficiency"
 date: 2020-08-10
-template: blog_post.html 
+template: post.html 
 authors:
  - '@qingyao'
 pdf_file_name: 2020-08-04___Gatti-M_et_al__The_Ubiquitin_Ligase_TRIP12_Limits_PARP1_Trapping_and_Constrains_PARP_Inhibitor_Efficiency__Cell_Reports.pdf

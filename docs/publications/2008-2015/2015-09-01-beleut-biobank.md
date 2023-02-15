@@ -1,6 +1,6 @@
 ---
 title: "A Biobank Supporting Rare Disease Research In Dermatopathology. Our Experience In Establishing A Biobank."
-template: blog_post.html 
+template: post.html 
 date: 2015-09-01
 authors:
   - '@mbaudis'

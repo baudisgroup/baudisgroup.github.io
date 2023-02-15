@@ -1,7 +1,7 @@
 ---
 title: Personalized medicine in cancer
 description: LSZGS Cancer Biology course 2016
-template: blog_post.html 
+template: post.html 
 date: 2016-12-02
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The SIB Swiss Institute of Bioinformatics' resources: focus on curated databases"
-template: blog_post.html 
+template: post.html 
 date: 2016-01-01
 pdf_file_name: 26615188.pdf
 links:

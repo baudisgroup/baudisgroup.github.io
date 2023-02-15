@@ -2,7 +2,7 @@
 title: "A cancer genomics resource built around and driving GA4GH standards"
 description: GRIC sponsored workshop with the Swiss Institute of Bioinformatics
 date: 2021-09-22
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 links:

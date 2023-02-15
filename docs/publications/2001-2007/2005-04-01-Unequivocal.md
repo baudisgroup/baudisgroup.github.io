@@ -1,6 +1,6 @@
 ---
 title: Unequivocal delineation of clinicogenetic subgroups and development of a new model for improved outcome prediction in neuroblastoma
-template: blog_post.html 
+template: post.html 
 date: 2005-04-01
 pdf_file_name: 15800319.pdf
 links:

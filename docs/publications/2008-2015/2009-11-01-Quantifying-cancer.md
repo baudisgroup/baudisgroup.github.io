@@ -1,6 +1,6 @@
 ---
 title: "Quantifying cancer progression with conjunctive Bayesian networks"
-template: blog_post.html 
+template: post.html 
 date: 2009-11-01
 pdf_file_name: 19692554.pdf
 links:

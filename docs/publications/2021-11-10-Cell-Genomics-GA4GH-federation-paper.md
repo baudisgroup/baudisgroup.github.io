@@ -1,7 +1,7 @@
 ---
 title: "International federation of genomic medicine databases using GA4GH standards"
 date: 2021-11-10
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 pdf_file_name:

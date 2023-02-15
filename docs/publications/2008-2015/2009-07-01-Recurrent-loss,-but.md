@@ -1,6 +1,6 @@
 ---
 title: "Recurrent loss, but..."
-template: blog_post.html 
+template: post.html 
 date: 2009-07-01
 pdf_file_name: 19480937.pdf
 links:

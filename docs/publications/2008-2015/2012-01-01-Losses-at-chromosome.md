@@ -1,6 +1,6 @@
 ---
 title: "Losses at chromosome..."
-template: blog_post.html 
+template: post.html 
 date: 2012-01-01
 pdf_file_name: 22487468.pdf
 links:

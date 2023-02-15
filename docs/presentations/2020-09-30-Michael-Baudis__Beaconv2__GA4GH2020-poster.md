@@ -1,7 +1,7 @@
 ---
 title: "GA4GH Beacon v2 at GA4GH Plenary"
 date: 2020-09-30
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 pdf_file_name: 2020-09-21___Michael-Baudis__Beaconv2__GA4GH-8th-Plenary-poster.pdf

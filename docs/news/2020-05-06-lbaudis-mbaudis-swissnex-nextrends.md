@@ -1,6 +1,6 @@
 ---
 title: "Swissnex SF: Laura & Michael Baudis - Life & Family"
-template: blog_post.html 
+template: post.html 
 date: 2020-05-06
 authors:
   - "@mbaudis"

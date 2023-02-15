@@ -1,6 +1,6 @@
 ---
 title: Connecting the silos - Genomic Data Standards, Resources and the Global Alliance for Genomics and Health
-template: blog_post.html 
+template: post.html 
 date: 2019-01-25
 pdf_file_name: 2019-01-24___Michael-Baudis__Connecting-the-Silos_extended__Nextlevel-LifeSciences-Basel.pdf
 ---

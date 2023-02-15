@@ -1,7 +1,7 @@
 ---
 title: "Minimum Error Calibration and Normalization for Genomic Copy Number Analysis"
 date: 2020-05-06
-template: blog_post.html 
+template: post.html 
 authors: 
  - '@mbaudis'
  - '@bo'

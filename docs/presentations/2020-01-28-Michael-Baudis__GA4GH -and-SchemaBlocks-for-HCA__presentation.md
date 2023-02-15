@@ -1,7 +1,7 @@
 ---
 title: "GA4GH SchemaBlocks for Human Cell Atlas"
 date: 2020-01-28
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 pdf_file_name: "2020-01-28___Michael-Baudis__SchemaBlocks__HCA-Call-Presentation.pdf"

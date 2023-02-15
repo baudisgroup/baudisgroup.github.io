@@ -1,6 +1,6 @@
 ---
 title: "High resolution copy number analysis of IRF4 translocation-positive diffuse large B-cell and follicular lymphomas"
-template: blog_post.html 
+template: post.html 
 date: 2013-02-01
 pdf_file_name: 23073988.pdf
 links:

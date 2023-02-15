@@ -1,6 +1,6 @@
 ---
 title: "CNARA: reliability assessment for genomic copy number profiles"
-template: blog_post.html 
+template: post.html 
 date: 2016-10-01
 pdf_file_name: 27733115.pdf
 links:

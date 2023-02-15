@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive characterization of genomic aberrations in gangliogliomas by CGH, array-based CGH and interphase FISH"
-template: blog_post.html 
+template: post.html 
 date: 2008-07-01
 pdf_file_name: 18371186.pdf
 links:

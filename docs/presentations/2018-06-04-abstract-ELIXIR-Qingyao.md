@@ -1,6 +1,6 @@
 ---
 title: "ELIXIR All Hands 2018 - arrayMap"
-template: blog_post.html 
+template: post.html 
 date: 2018-06-04
 ---
 

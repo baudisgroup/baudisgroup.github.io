@@ -1,6 +1,6 @@
 ---
 title: "Progenetix: 12 years of oncogenomic data curation"
-template: blog_post.html 
+template: post.html 
 date: 2014-01-01
 pdf_file_name: 24225322.pdf
 links:

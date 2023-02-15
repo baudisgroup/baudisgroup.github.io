@@ -1,7 +1,7 @@
 ---
 title: "Technical, legal and ethics aspects of genomic data sharing"
 description: Genomes | Privacy | Laws | Society - DSI Ethics Seminar
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 date: 2022-01-12

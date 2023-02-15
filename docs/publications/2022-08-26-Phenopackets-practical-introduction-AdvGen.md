@@ -1,6 +1,6 @@
 ---
 title: "GA4GH Phenopackets: A Practical Introduction"
-template: blog_post.html 
+template: post.html 
 authors:
  - '@mbaudis'
 description: Phenopackets v2 introduction with practical examples

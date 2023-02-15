@@ -1,6 +1,6 @@
 ---
 title: "MUC1 oncogene amplification correlates with protein overexpression in invasive breast carcinoma cells"
-template: blog_post.html 
+template: post.html 
 date: 2010-09-01
 pdf_file_name: 20682394.pdf
 links:

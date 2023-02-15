@@ -1,7 +1,7 @@
 ---
 title: "segment_liftover : a Python tool to convert segments between genome assemblies"
 description: 'Abstract: ELIXIR All Hands 2018'
-template: blog_post.html
+template: post.html
 links:
   - '[ELIXIR All Hands 2018](https://www.elixir-europe.org/events/elixir-all-hands-2018)'
 date: 2018-06-04

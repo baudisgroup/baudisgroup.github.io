@@ -1,7 +1,7 @@
 ---
 title: "Update of Progenetix Oncogenomics Resource"
 date: 2020-10-30
-template: blog_post.html 
+template: post.html 
 authors:
   - '@qingyao'
 pdf_file_name: 2020-10-30___Qingyao__DMLS-progress-report__progenetix_update.pdf

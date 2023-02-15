@@ -1,6 +1,6 @@
 ---
 title: "Michael @ BBOP"
-template: blog_post.html 
+template: post.html 
 date: 2020-02-08
 authors:
 	- '@mbaudis'

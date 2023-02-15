@@ -1,6 +1,6 @@
 ---
 title: "Improved multiplex..."
-template: blog_post.html 
+template: post.html 
 date: 2012-09-01
 pdf_file_name: 22585707.pdf
 links:

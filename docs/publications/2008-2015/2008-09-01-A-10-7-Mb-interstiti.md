@@ -1,6 +1,6 @@
 ---
 title: "A 10.7 Mb interstitial deletion of 13q21 without phenotypic effect defines a further non-pathogenic euchromatic variant"
-template: blog_post.html 
+template: post.html 
 date: 2008-09-01
 pdf_file_name: 18698619.pdf
 links:

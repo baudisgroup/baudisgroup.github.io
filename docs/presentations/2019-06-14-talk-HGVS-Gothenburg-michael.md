@@ -1,6 +1,6 @@
 ---
 title: "HGVS 2019 - Development of Standards for Genomic Data Exchange"
-template: blog_post.html 
+template: post.html 
 date: 2019-06-14
 pdf_file_name: "2019-06-14___Michael-Baudis__genomic-Exchange-Standards-from-Cancer-Genome-Data__HGVS2019.pdf"
 links:

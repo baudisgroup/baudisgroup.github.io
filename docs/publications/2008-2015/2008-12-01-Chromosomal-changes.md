@@ -1,6 +1,6 @@
 ---
 title: "Chromosomal changes characterize head and neck cancer with poor prognosis"
-template: blog_post.html 
+template: post.html 
 date: 2008-12-01
 pdf_file_name: 18810378.pdf
 links:

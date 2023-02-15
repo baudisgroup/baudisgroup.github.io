@@ -1,7 +1,7 @@
 ---
 title: "Genomic data and Privacy"
 date: 2020-12-07
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 pdf_file_name: 2020-12-07___Michael-Baudis__Genomic-data-and-Privacy__ETHZ-551-1299-00L-HS20.pdf

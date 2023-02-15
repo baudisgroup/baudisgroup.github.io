@@ -1,7 +1,7 @@
 ---
 title: 'Beacon v2 - Feature-rich Implementation of the Genomic Data Discovery Protocol'
 description: GA4GH 2022 Plenary Barcelona
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 date: 2022-09-22

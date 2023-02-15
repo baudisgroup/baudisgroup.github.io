@@ -1,7 +1,7 @@
 ---
 title: 'Genomics Data Federation through Global Alliance for Genomics and Health Standards: Development and Implementation of the GA4GH Beacon Protocol'
 description: Seminar Yonsei University Medical School Seoul
-template: blog_post.html 
+template: post.html 
 authors:
   - '@mbaudis'
 date: 2022-10-20

@@ -1,7 +1,7 @@
 ---
 title: "hCNV data and the Progenetix Beacon"
 description: Presentation at ELIXIR All Hands 2021
-template: blog_post.html
+template: post.html
 date: 2021-06-08
 authors:
   - '@mbaudis'

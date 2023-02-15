@@ -1,6 +1,6 @@
 ---
 title: "Progenetix.net: an online repository for molecular cytogenetic aberration data."
-template: blog_post.html 
+template: post.html 
 date: 2001-12-01
 pdf_file_name: 11751233.pdf
 links:

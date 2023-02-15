@@ -1,6 +1,6 @@
 ---
 title: "SIL1 mutations and clinical spectrum in patients with Marinesco-Sjogren syndrome"
-template: blog_post.html 
+template: post.html 
 date: 2013-12-01
 pdf_file_name: 24176978.pdf
 links:
