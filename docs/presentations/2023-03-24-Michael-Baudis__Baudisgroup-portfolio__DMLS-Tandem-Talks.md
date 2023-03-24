@@ -4,7 +4,7 @@ description: DMLS Tandem Talks
 template: post.html 
 authors:
   - '@mbaudis'
-date: 2022-12-15
+date: 2023-03-24
 pdf_file_name:
 links:
   - "[Presentation Slides](https://github.com/baudisgroup/baudisgroup.github.io/raw/main/docs/pdf/2023-03-24___Michael-Baudis__Baudisgroup-portfolio__DMLS-short-talks-slides.pdf)"
