@@ -1,6 +1,6 @@
 ---
 title:  "Michael Baudis"
-description: Professor of Bioinformatics | Grup Leader @ SIB
+description: Professor of Bioinformatics | Group Leader @ SIB
 date: 2007-08-01
 is_contact: true
 ---
