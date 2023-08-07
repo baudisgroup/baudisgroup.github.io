@@ -1,6 +1,6 @@
 ---
 title: 'ELIXIR All Hands Dublin'
-description: BAudisgroup presentations at the AHM 2023 in Dublin
+description: Baudisgroup presentations at the AHM 2023 in Dublin
 template: post.html 
 authors:
   - '@mbaudis'
