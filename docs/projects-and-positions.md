@@ -9,6 +9,25 @@ in search for projects as part of their BSc and MSc studies.
 
 At this time we do not advertise any funded openings.
 
+## Some Projects
+
+Ongoing software and service projects can be visited at our Github organizations ([progenetix](https://github.com/progenetix) and [baudisgroup](https://github.com/baudisgroup)) and when looking at individual contributions to e.g. GA4GH and ELIXIR.
+
+* [bycon](https://github.com/progenetix/bycon) at Github in __Progenetix__ - Python based implementation of a [GA4GH Beacon](http://beacon-project.org)
+* [pgxRpi](https://github.com/progenetix/pgxRpi) at Github in __Progenetix__ - An API wrapper package in R for loading & displaying data from Progenetix 
+* [segment-liftover](https://github.com/baudisgroup/segment-liftover) at Github __baudisgroup__
+    * [publication](http://info.baudisgroup.org/publications/2018/03/14/segment_liftover.html)
+* [SNP2pop](https://github.com/baudisgroup/snp2pop) at Github __baudisgroup__
+    * [publication at ScientificReports](https://www.nature.com/articles/s41598-020-61854-x)
+* [ICDOntologies](https://github.com/progenetix/ICDOntologies) at Github in __Progenetix__ - mapping disease concepts
+
+## Support or Contact
+
+For requests & support, please use standard Github procedures such as pull
+requests or issues on our project repositories, or [contact us](mailto:contact@progenetix.org).
+
+---
+
 ## MSc Projects in Bioinformatics & Computational "Bio"
 
 Our group offers positions for graduated studies (MSc), e.g. as part of the CBB
