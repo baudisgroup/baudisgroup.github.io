@@ -4,7 +4,7 @@ title: Swiss-Korean Life Science Symposium
 description: 'The 10th Swiss-Korean Life Science Symposium in Seoul'
 date: 2023-10-12
 links:
-  - '[www](https://www.skls.or.kr/?ckattempt=3)'
+  - '[www](https://www.skls.or.kr/program/)'
 ---
 
 ![Swiss-Korean logo image](/img/2023-seoul-swiss-korean-logo.png){ style="width: 200px; float: left; margin: 0px 0px 10px 20px;" }
