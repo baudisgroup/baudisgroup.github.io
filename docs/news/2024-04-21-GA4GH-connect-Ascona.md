@@ -2,7 +2,7 @@
 template: post.html
 title: GA4GH Connect April 2024 in Ascona
 description: Spring 2024 GA4GH Connect working meeting co-organized by our group
-date: 2023-07-20
+date: 2024-04-21
 links:
   - '[CSF meeting calendar](https://csf.ethz.ch/csf-meetings.html)'
   - '[GA4GH events](https://www.ga4gh.org/news-events/events/#)'
