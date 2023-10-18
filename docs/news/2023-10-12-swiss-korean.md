@@ -4,6 +4,7 @@ title: Swiss-Korean Life Science Symposium
 description: 'The 10th Swiss-Korean Life Science Symposium in Seoul'
 date: 2023-10-12
 links:
+  - '[UZH news page about the event](https://www.global.uzh.ch/en/global_university/global-activities/UZH-Researchers-At-Swiss-Korean-Life-Science-Symposium.html)'
   - '[www](https://www.skls.or.kr/program/)'
   - '[symposium slides - beaconize this](/pdf/2023-10-12___Michael-Baudis__Beaconize-This__Swiss-Korean-symposium.pdf)'
   - '[workshop slides - resources and standards development](/pdf/2023-10-11___Michael-Baudis__Swiss-Korean-workshop.pdf)'
