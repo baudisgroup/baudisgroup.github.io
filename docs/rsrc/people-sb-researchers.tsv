@@ -1,0 +1,5 @@
+# Please keep the header labels as they are.					
+# At minimum group_lat and group_lon are required for placing a marker.					
+group_label	group_lat	group_lon	item_label	item_link	marker_type
+University of Zurich	47.3983206928008	8.54841196493381	Michael Baudis	https://info.baudisgroup.org/group/	marker
+
