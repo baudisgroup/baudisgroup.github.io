@@ -15,7 +15,7 @@ links:
 ---
 
 ![UMC logo](/img/logo-UMC-Utrecht.png){ style="height: 45px; float: right; margin: 0px 0px 10px 20px;" }
-![Princess Maxima logo](/img/logo-UMC-logo-PMC-Utrecht.png){ style="height: 45px; float: right; margin: 0px 0px 10px 20px;" }
+![Princess Maxima logo](/img/logo-PMC-Utrecht.png){ style="height: 45px; float: right; margin: 0px 0px 10px 20px;" }
 The presentation includes notes about work on improving the representation and
 of genomic copy number variations (CNV), GA4GH and its _Beacon_ protocol as well
 as challenges of genomic data privacy
