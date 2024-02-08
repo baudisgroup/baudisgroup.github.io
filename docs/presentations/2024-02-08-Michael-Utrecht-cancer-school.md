@@ -1,6 +1,6 @@
 ---
 title: 'Structural Genome Variations in Cancer and the Case for Open Data Standards'
-description: 'Cancer Genomics Seminar at Utrecht<br/>Hubrecht Institute and Princess Maxima Center for Pediatric Oncolog'
+description: 'Cancer Genomics Seminar at Utrecht<br/>Hubrecht Institute and Princess Maxima Center for Pediatric Oncology'
 template: post.html 
 authors:
   - '@mbaudis'
