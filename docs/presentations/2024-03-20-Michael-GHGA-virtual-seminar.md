@@ -1,5 +1,5 @@
 ---
-title: '"Federated genomic discoveries: Deploying the GA4GH Beacon protocol'
+title: 'Federated genomic discoveries: Deploying the GA4GH Beacon protocol'
 description: 'Virtual Seminar<br/>GHGA Lecture Series'
 template: post.html 
 authors:
