@@ -11,7 +11,8 @@ edit_uri: edit/main/docs/
 
 nav:
   - 'Baudisgroup Home': index.md
-  - Group: group
+  - Address: address
+  - Group Members: group
   - Publications: publications
   - Presentations: presentations
   - Projects and Open Positions: projects-and-positions.md

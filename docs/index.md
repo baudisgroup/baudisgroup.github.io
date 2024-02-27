@@ -8,10 +8,4 @@ The _baudisgroup_ website represents projects and information by the __Computati
 
 <img style="float: right; width: 320px; margin-left: 15px; margin-bottom-10px;" src="/img/2020-06-10___Michael-Baudis-Beacon-evolution.005.png" />The Computational Oncogenomics Group's research focus lies in the exploration of structural genome variations in cancer. Our work centres around our [Progenetix](http://progenetix.org) resource of curated molecular-cytogenetic and sequencing data. Specific projects explore computational methods, genomics of selected tumour entities and genomic variant patterns across malignancies. As members of the [Global Alliance for Genomics and Health](http://ga4gh.org), the group is developing standards in biocuration and data sharing for genomic variants and phenotypic data, for instance in driving development of the [ELIXIR Beacon](https://beacon-project.io) project. Other research is related to genome data epistemology, e.g. geographic and diagnostic sampling biases in cancer studies.
 
-### Address
-
-Winterthurerstrasse 190 | Y-11F-13 | CH-8057 Zurich | Switzerland
-
-<a href="/img/access-map-Irchel.png" target="_blank">![How to find the Baudisgroup](/img/access-map-Irchel.png){:style="width: 80%;"}</a>
-
 ## Latest News & Publications
