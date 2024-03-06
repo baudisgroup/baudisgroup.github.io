@@ -1,6 +1,6 @@
 group_label	group_lat	group_lon	item_label	item_link	marker_type	marker_icon
-University of Zurich	47.3983206928008	8.54841196493381	Michael Baudis	https://info.baudisgroup.org/group/Michael-Baudis/		http://info.baudisgroup.org/img/site_logo.png
-University of Zurich	58.5953	25.0136	Rahel Paloots	https://info.baudisgroup.org/group/Rahel-Paloots/		
-University of Zurich	26.4345	111.608	Ziying Yang	https://info.baudisgroup.org/group/Ziying-Yang/		
-University of Zurich	29.0316	111.6985	Hangjia Zhao	https://info.baudisgroup.org/group/Hangjia-Zhao/		
-University of Zurich	46.9480	7.4474	Kay von Grünigen	https://info.baudisgroup.org/group/Kay-vonGruenigen/		
+University of Zurich	47.3983206928008	8.54841196493381	Michael Baudis	https://info.baudisgroup.org/group/Michael-Baudis/	marker	http://info.baudisgroup.org/img/site_logo.png
+University of Zurich	58.5953	25.0136	Rahel Paloots	https://info.baudisgroup.org/group/Rahel-Paloots/	marker	
+University of Zurich	26.4345	111.608	Ziying Yang	https://info.baudisgroup.org/group/Ziying-Yang/	marker	
+University of Zurich	29.0316	111.6985	Hangjia Zhao	https://info.baudisgroup.org/group/Hangjia-Zhao/	marker	
+University of Zurich	46.9480	7.4474	Kay von Grünigen	https://info.baudisgroup.org/group/Kay-vonGruenigen/	marker	
