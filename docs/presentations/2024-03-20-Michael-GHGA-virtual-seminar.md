@@ -7,7 +7,7 @@ authors:
 date: 2024-03-20
 pdf_file_name:
 links:
-#  - '[Seminar slides](/pdf/)'
+  - '[Seminar slides](/pdf/2024-03-20___Michael-Baudis__Open-Data-Sharing-Protocols-with-GA4GH-and-ELIXIR__GHGA-seminar.pdf)'
   - "[GHGA Event Page](https://www.ghga.de/events/detail/ghga-lecture-series-michael-baudis-virtual)"
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
