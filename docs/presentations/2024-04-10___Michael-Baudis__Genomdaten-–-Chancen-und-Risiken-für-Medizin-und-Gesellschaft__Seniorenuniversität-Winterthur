@@ -1,0 +1,18 @@
+---
+title: 'Genomdaten - Chancen und Risiken für Medizin und Gesellschaft'
+description: 'Vortrag an der Seniorenuniversität Winterthur'
+template: post.html 
+authors:
+  - '@mbaudis'
+date: 2024-04-10
+pdf_file_name:
+links:
+  - '[Präsentation slides](/pdf/2024-04-10___Michael-Baudis__Genomdaten-–-Chancen-und-Risiken-für-Medizin-und-Gesellschaft__Seniorenuniversität-Winterthur.pdf)'
+  - "[Progenetix cancer genomics resource](http://progenetix.org)"
+  - "[Beacon documentation](http://docs.genomebeacons.org)"
+---
+
+<!--
+![GHGA logo](/img/logo-ghga.webp){ style="float: right; margin: 0px 0px 10px 20px;" }
+-->
+
