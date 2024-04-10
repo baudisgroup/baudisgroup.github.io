@@ -7,7 +7,7 @@ authors:
 date: 2024-04-10
 pdf_file_name:
 links:
-  - '[Pr&auml;sentation Folien](/pdf/2024-04-10___Michael-Baudis__Genomdaten-–-Chancen-und-Risiken-für-Medizin-und-Gesellschaft__Seniorenuniversitaaet-Winterthur.pdf)'
+  - '[Pr&auml;sentation Folien](/pdf/2024-04-10___Michael-Baudis__Genomdaten-–-Chancen-und-Risiken-für-Medizin-und-Gesellschaft__Seniorenuniversitaet-Winterthur.pdf)'
   - '[Seniorenuniversität Winterthur](https://www.biaw.ch/Veranstaltung/genomdaten-chancen-und-risiken-fuer-medizin-und-gesellschaft/?instance_id=541)'
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
 ---
