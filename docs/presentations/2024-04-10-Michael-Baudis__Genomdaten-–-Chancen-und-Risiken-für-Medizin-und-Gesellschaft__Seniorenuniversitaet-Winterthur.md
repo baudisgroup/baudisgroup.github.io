@@ -7,9 +7,9 @@ authors:
 date: 2024-04-10
 pdf_file_name:
 links:
-  - '[Folien](/pdf/2024-04-10___Michael-Baudis__Genomdaten-Chancen-und-Risiken-für-Medizin-und-Gesellschaft__Seniorenuniversitaet-Winterthur.pdf)'
+  - '[Folien](/pdf/2024-04-10___Michael-Baudis__Genomdaten__Winterthur.pdf)'
   - '[Seniorenuniversität Winterthur](https://www.biaw.ch/Veranstaltung/genomdaten-chancen-und-risiken-fuer-medizin-und-gesellschaft/?instance_id=541)'
-  - "[Progenetix cancer genomics resource](http://progenetix.org)"
+  - "[Progenetix cancer genomics resource](https://progenetix.org)"
 ---
 
 ![ZHAW logo](/img/ZHAW-Winterthur-image-470x235.jpg){ style="float: right; margin: 0px 0px 10px 20px; width: 235px" }
