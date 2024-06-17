@@ -2,6 +2,7 @@
 title:  "Kay von Grünigen"
 description: MSc Biomedicine student
 date:   2021-02-24
+is_gone: true
 ---
 
 
