@@ -41,6 +41,13 @@
     background-position: right; 
 }
 
+.md-header--shadow {
+    box-shadow: none;
+}
+
+.md-header__button.md-logo {
+ }
+
 .md-typeset h1 {
     margin: 0 0 0.25em;
 }
