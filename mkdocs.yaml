@@ -71,8 +71,8 @@ markdown_extensions:
 theme:
   name: material
   palette:
-    primary: light blue
-    accent: indigo
+    primary: white
+    accent: white
   favicon: img/favicon.ico
   logo: img/site_logo.png
   icon:
