@@ -5,7 +5,7 @@ description: 'Rahel Paloots today passed her PhD defence'
 template: post.html 
 authors:
   - '@mbaudis'
-date: 2024-05-16
+date: 2024-07-02
 pdf_file_name:
 links:
   - '[cancercelllines.org](https://cancercelllines.org)'
