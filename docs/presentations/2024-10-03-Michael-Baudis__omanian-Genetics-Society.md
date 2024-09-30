@@ -1,5 +1,5 @@
 ---
-title: '"Data Discovery in Biomedical Genomics - Time for a New Paradigm'
+title: 'Data Discovery in Biomedical Genomics - Time for a New Paradigm'
 description: 'The XIVth MEDICAL GENETICS TÂRGU MUREȘ<br/>SOCIETATEA ROMÂNĂ DE GENETICĂ MEDICALĂ'
 template: post.html 
 authors:
