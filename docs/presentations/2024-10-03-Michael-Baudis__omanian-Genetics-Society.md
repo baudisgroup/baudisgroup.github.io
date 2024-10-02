@@ -7,7 +7,7 @@ authors:
 date: 2024-10-03
 pdf_file_name:
 links:
- - '[slides](/pdf/2024-10-03___Michael-Baudis__Data-Discovery-in-Biomedical-Genomics---Time-for-a-New-Paradigm__Romanian-Genetics.pdf)'
+  - '[slides](/pdf/2024-10-03___Michael-Baudis__Data-Discovery-in-Biomedical-Genomics---Time-for-a-New-Paradigm__Romanian-Genetics.pdf)'
   - '[Conference Announcement](https://www.srgm.ro/index.php/2024/07/17/a-xiv-a-conferinta-de-genetica-medicala-cu-participare-internationala-targu-mures-03-05-octombrie-2024/)'
   - '[Global Alliance for Genomics and Health - GA4GH](https://ga4gh.org)'
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
