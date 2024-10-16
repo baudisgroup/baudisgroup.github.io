@@ -14,8 +14,7 @@ links:
 Congratulations to Rahel Paloots for passing her defence for a PhD with the 
 topic
     
-    **Molecular Heterogeneity among Cancer Cell Lines and their Correspondence
-to Primary Neoplasias**
+**Molecular Heterogeneity among Cancer Cell Lines and their Correspondence to Primary Neoplasias**
 
 Rahel has been a contributor to progenetix.org and the main developer behind
 cancercelllines.org (a resource for, well, cancer cell lines…) - but also to 
