@@ -1,6 +1,6 @@
 ---
 title: 'Data Resources, Sharing, Discovery in Biomedical Genetics and Cancer Genomics'
-description: 'セミナー at Chiba University / National Cancer Center Hospital Tsukiji Campus'
+description: 'セミナー at National Cancer Center Hospital Tsukiji Campus'
 template: post.html 
 authors:
   - '@mbaudis'
@@ -19,7 +19,7 @@ links:
 
 In this seminar you will learn about Progentix, a large open resource in cancer
 genomics focussing on curation and sharing of somatic copy number variation (CNV)
-data as well as other resources and research topics of the _Theoretical Cytogenetics and Oncogenommics_
+data as well as other resources and research topics of the _Theoretical Cytogenetics and Oncogenomics_
 group at the University of Zucrich and teh Swiss Institute of Bioinformatics.
 
 The second part of the presentation will make a case why such resources cannot be
