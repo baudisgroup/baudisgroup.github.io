@@ -4,7 +4,7 @@ description: Research Article
 template: post.html 
 authors:
  - '@ziyingyang96'
- - 'paulacarrio'
+ - '@paulacarrio'
  - '@mbaudis'
 date: 2024-11-06
 pdf_file_name: 2024-11-06___Ziying-and-Baudis__Copy-number-variation-heterogeneity-reveals-biological-inconsistency-in-hierarchical-cancer-classifications__Molecular-Cytogenetics.pdf
