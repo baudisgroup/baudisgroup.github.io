@@ -46,11 +46,6 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.saneheaders
-  # - pymdownx.superfences:
-  #     custom_fences:
-  #       - name: mermaid
-  #         class: mermaid
-  #         format: !!python/name:mermaid2.fence_mermaid   
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -59,12 +54,6 @@ markdown_extensions:
   - mdx_gh_links:
       user: hCNV
       repo: hcnv.github.io
-  # - pymdownx.emoji:
-  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
-  #     emoji_generator: !!python/name:materialx.emoji.to_svg
-  #     options:
-  #       custom_icons:
-  #         - extras/.icons
 
 ###############################################################################
 
