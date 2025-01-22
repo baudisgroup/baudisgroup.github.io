@@ -27,8 +27,8 @@ regulatory boundaries.
 
 Since its foundation in 2013 the Global Alliance for Genomics and Health (GA4GH)
 has emerged as the main international organization to address the challenges of
-data discovery, access and utilization in genomics and related fields. The <i>Beacon</i>i>
-standard developed by GA4GH with technical support by the European bioinformatics orgabnization
+data discovery, access and utilization in genomics and related fields. The _Beacon_
+standard developed by GA4GH with technical support by the European bioinformatics organization
 ELIXIR and many international stakeholders has become a default for implementing
 modern concepts of federated data discovery and access.
 

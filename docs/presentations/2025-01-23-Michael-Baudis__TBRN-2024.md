@@ -7,7 +7,7 @@ authors:
 date: 2025-01-23
 pdf_file_name:
 links:
- - '[slides](/pdf/2025-01-23___Michael-Baudis__New-Paradigm-in-Biomedical_Genomics__TBRN-Chiang-Mai.pdf)'
+  - '[slides](/pdf/2025-01-23___Michael-Baudis__New-Paradigm-in-Biomedical_Genomics__TBRN-Chiang-Mai.pdf)'
   - "[TBRN 2025 home page](https://tbrn2025conference.batthailand.org/index.php)"
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
   - "[cancercelllines.org resource](http://cancercelllines.org)"
