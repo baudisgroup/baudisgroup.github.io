@@ -17,6 +17,7 @@ links:
 ---
 
 ![TBRN logo](/img/2024-TBRN-logo.png){ style="float: right; margin: -20px -20px 0px 0px;" }
+
 The past few decades have highlighted the need for large-scale approaches to data
 analysis in both rare disease genetics and cancer genomics due to the vast diversity
 of genomic variations. While individual and collaborative studies have advanced
@@ -28,3 +29,4 @@ repositories and explain how our work on the Progenetix oncogenomics resource
 aligns with standards development for the Global Alliance for Genomics and Health,
 particularly the GA4GH Beacon API.
 
+   
