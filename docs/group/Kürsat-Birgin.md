@@ -2,6 +2,7 @@
 title:  "Kürsat Birgin"
 description: MSc Intern Uppsala University
 date:   2024-06-17
+is_gone: true
 ---
 
 

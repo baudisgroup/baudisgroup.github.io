@@ -1,7 +1,6 @@
-_site
+site
 .DS_Store
 pages/.DS_Store
-
 *.lock
 .jekyll-metadata
 pages/.DS_Store
