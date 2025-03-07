@@ -24,7 +24,7 @@ Ongoing software and service projects can be visited at our Github organizations
 ## Support or Contact
 
 For requests & support, please use standard Github procedures such as pull
-requests or issues on our project repositories, or [contact us](mailto:contact@progenetix.org).
+requests or issues on our project repositories, or [contact us](mailto:baudisgroup@icloud.com).
 
 ---
 
