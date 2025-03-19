@@ -2,6 +2,7 @@
 title:  "Rahel Paloots"
 description: PhD candidate, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics **SIB**
 date:   2018-01-15
+is_gone: true
 ---
 
 <!--more-->
