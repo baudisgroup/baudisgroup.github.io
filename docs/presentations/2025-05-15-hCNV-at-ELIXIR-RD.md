@@ -7,15 +7,13 @@ authors:
 date: 2025-05-15
 pdf_file_name:
 links:
-  - "[community presentation slides](/pdf/2025-05-15___Baudis,-Stubbs-et-al.__hCNV-Community__ELIXIR-Rare-Diseases.pdf)"
-  - "[Beacon documentation](http://docs.genomebeacons.org)"
+  - "[Community presentation slides](https://baudisgroup.org/pdf/2025-05-15___Baudis,-Stubbs-et-al.__hCNV-Community__ELIXIR-Rare-Diseases.pdf)"
+  - "[Beacon based CNV resources slides](https://baudisgroup.org/pdf/2025-05-15___Michael-Baudis__Genomic-Copy-Number-Variation-Resources-Powered-by-the-Genomic-Beacons__ELIXIR-Rare-Diseases.pdf)"
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
-  - "[OpenAPI test hosted at Progenetix](https://staging.progenetix.org/OpenAPI/?)"
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
-  - '[Global Alliance for Genomics and Health - GA4GH](https://ga4gh.org)'
 ---
 
-<!-- ![TBRN logo](/img/2024-TBRN-logo.png){ style="float: right; margin: -20px -20px 0px 0px;" } -->
-
-This presentation is a minimal introduction to Beaon as basis for open discussions
-during the "Ask Me Anything" session.
+The ELIXIR hCNV community was a guest at the Rare Disease community meeting in
+Bologna on May 15, 2025. The hCNV community presented an overview of its activities
+and several members gave talks on specific topics related to their activities in 
+the hCNV community.
