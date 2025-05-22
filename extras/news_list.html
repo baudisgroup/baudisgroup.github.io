@@ -23,7 +23,7 @@
 
     {% set page_date = page.meta.date.strftime('%Y%m%d') | int %}
     {% set future = "" %}
-    {% if page_date >= today %}
+    {% if page_date > today %}
       {% set future = "<i>Upcoming:</i> " %}
     {% endif %}
 
