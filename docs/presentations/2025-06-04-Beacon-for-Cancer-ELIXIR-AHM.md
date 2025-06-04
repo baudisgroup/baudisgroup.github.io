@@ -1,5 +1,5 @@
 ---
-title: 'The hCNV Community presents itself at ELIXIR Rare Diseases'
+title: 'Driving oncogenomic and CNV reference resources through Beacon<br/>Data Discovery :: Data Sharing :: Analysis Support'
 description: 'Cancer data in Genomic Beacons at ELIXIR Alll Hands - Thessaloniki June 2025'
 template: post.html 
 authors:
