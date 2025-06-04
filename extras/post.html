@@ -24,6 +24,9 @@
           {% elif link.startswith('[') %}
             {% set label = link.split('](', 1)[0] | replace('[', '') %}
             {% set target = link.split('](', 1)[1] | replace(')', '') %}
+            {% if target.startswith('__pdf_repo_url__') %}
+              {% set target = target.replace('__pdf_repo_url__', config.pdf_repo_url) %}
+            {% endif %}
   <li><a href="{{ target }}">[{{label}}]</a></li>
           {% else %}
   <li><a href="{{ link }}">[LINK]</a></li>
