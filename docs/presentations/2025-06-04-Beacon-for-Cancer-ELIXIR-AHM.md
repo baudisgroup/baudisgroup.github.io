@@ -1,6 +1,6 @@
 ---
 title: 'Driving oncogenomic and CNV reference resources through Beacon<br/>Data Discovery :: Data Sharing :: Analysis Support'
-description: 'Cancer data in Genomic Beacons at ELIXIR Alll Hands - Thessaloniki June 2025'
+description: 'Cancer data in Genomic Beacons at ELIXIR All Hands - Thessaloniki June 2025'
 template: post.html 
 authors:
   - '@mbaudis'
@@ -16,6 +16,7 @@ links:
 
 #### Workshop Summary
 
+![ELIXIR logo](/img/elixir-dark-background-230x160.png){ style="float: right; margin: -20px 0px 10px 20px;" }
 Across Europe, several large-scale projects and national initiatives are embracing the Beacon V2 standard, actively contributing to its implementation and evolution. Among these efforts is the Genomic Data Initiative (GDI), a prominent international project involving numerous ELIXIR institutes. This collaboration underscores the growing adoption of genomic beacons beyond their initial purpose in Beacon V1—facilitating genomic variant discovery for rare diseases—towards addressing a broader spectrum of genetic data use cases.
 
 <!--more-->
