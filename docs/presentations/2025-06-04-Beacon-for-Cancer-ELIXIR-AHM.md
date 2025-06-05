@@ -7,7 +7,7 @@ authors:
 date: 2025-06-04
 pdf_file_name:
 links:
-  - "[Michael's slides  - Oncogenomic and CNV-reference resources through Beacon](__pdf_repo_url__/pdf/2025-06-04___Michael-Baudis__Driving-oncogenomic-and-CNV-reference-resources-through-Beacon__ELIXIR-AHM.pdf)"
+  - "[Michael's slides  - Oncogenomic and CNV-reference resources through Beacon](__pdf_repo_url__/presentations/2025-06-04___Michael-Baudis__Driving-oncogenomic-and-CNV-reference-resources-through-Beacon__ELIXIR-AHM.pdf)"
   - '[agenda](https://docs.google.com/document/d/1yzleGCfJ7Lo5dhl4quu1DfXM0VyeeVk43cYfZGa1QdM/edit?tab=t.0#heading=h.306gbb7w1q9d)'
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
