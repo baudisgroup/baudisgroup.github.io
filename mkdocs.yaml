@@ -8,12 +8,12 @@ repo_url: https://github.com/baudisgroup/baudisgroup.github.io
 edit_uri: edit/main/docs/
 # pdf_repo_url: https://raw.codeberg.page/BaudisgroupUZH/presentations
 # trying switchdrive...
-pdf_repo_url: https://drive.switch.ch/index.php/s/peiZ5dKnLh9EZv7
+pdf_repo_url: https://raw.codeberg.page/BaudisgroupUZH/presentations
 
 ###############################################################################
 
 nav:
-  - 'Baudisgroup Home': index.md
+  - Baudisgroup Home: index.md
   - Address: address
   - Group Members: group
   - Publications: publications
