@@ -1,7 +1,7 @@
 ---
 template: post.html
-title: 'Congratulations to Rahel!'
-description: 'Rahel Paloots today passed her PhD defence'
+title: 'Congratulations to Ziying Yang!'
+description: 'Ziying today passed her PhD defence'
 template: post.html 
 authors:
   - '@mbaudis'
