@@ -21,4 +21,4 @@ refcnv.org (a reference CNV track resource) but chiefly worked on questyions of
 the heterogeneity of CNV patterns in cancer and their correspondance to diagnostic
 codes.
 
-![Ziying presenting](/img/2025-06-10-Ziying-thesis-presenting.jpeg){}
+![Ziying presenting](/img/2025-06-10-Ziying-thesis-presenting.jpeg)
