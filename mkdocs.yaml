@@ -6,8 +6,6 @@ repo_name: 'baudisgroup.github.io'
 
 repo_url: https://github.com/baudisgroup/baudisgroup.github.io
 edit_uri: edit/main/docs/
-# pdf_repo_url: https://raw.codeberg.page/BaudisgroupUZH/presentations
-# trying switchdrive...
 pdf_repo_url: https://raw.codeberg.page/BaudisgroupUZH/presentations
 
 ###############################################################################
