@@ -1,6 +1,6 @@
 ---
 title: 'Transfer Learning for Large-Scale Genomic AI in Cancer Genomics'
-description: 'AI in Healthcare Conference – Legal, Ethical &amp; Implementation Challenges</br>June 2025 – Zurich, Switzerland'
+description: 'AI in Healthcare Conference – Legal, Ethical &amp; Implementation Challenges</br>June 2025 – Zurich, Switzerland; MLS Retreat 2025 – Poster Session</br>July 2025 – Switzerland'
 template: post.html 
 authors:
   - '@good-teeth-otter'
@@ -8,6 +8,7 @@ date: 2025-06-13
 pdf_file_name: 2025-06-13___Jiahui__Transfer-learning-for-large-scale-genomic-AI-in-cancer-Genomics__AI-in-healthcare-conference.pdf
 links: []
   # - "[Jiahui's slides - Transfer Learning for Large-Scale Genomic AI in Cancer Genomics](__pdf_repo_url__/2025-06-13___Jiahui__Transfer-learning-for-large-scale-genomic-AI-in-cancer-Genomics__AI-in-healthcare-conference.pdf)"
+  # - "[Jiahui's posters - Transfer Learning for Large-Scale Genomic AI in Cancer Genomics](__pdf_repo_url__/2025-07-02___Jiahui__MLS-retreat-poster.pdf)"
 ---
 
 #### Jiahui Yu
