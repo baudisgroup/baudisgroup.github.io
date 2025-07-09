@@ -7,7 +7,7 @@ authors:
 date: 2025-07-09
 pdf_file_name:
 links:
-  - "[Beacon v2 and Beyond ... slides](__pdf_repo_url__/2025-07-09___Michael-Baudis__Beacon-history__McGill-Beacon-Day.pdf)"
+  - "[Beacon v2 and Beyond ... slides](/pdf/2025-07-09___Michael-Baudis__Beacon-history__McGill-Beacon-Day.pdf)"
   - '[agenda](https://docs.google.com/document/d/1BlEp_ddbaEvml332HIePuaKgS_BlDaPO-6HwVvq10aE/edit?tab=t.0)'
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
