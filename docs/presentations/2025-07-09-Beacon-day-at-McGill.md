@@ -19,9 +19,24 @@ links:
 
 ![ELIXIR logo](/img/mcgill-university-logo.png){ style="width: 200px; float: right; margin: -20px 0px 10px 20px;" }
 
-This workshop explores geomic resources from the Canadian context and how current and
+This workshop explores genomic resources from the Canadian context and how current and
 future versions of the Beacon  standard can be utilized for data discovery and exchange.
 
 
 <!--more-->
+
+#### Attendees
+
+* Michael Baudis (University of Zurich)
+* David Bujold (McGill)
+* David Morais (HSJ)
+* Karen Cranston (UHN)
+* Francis Nguyen (UHN)
+* Sanjeev Lakhwani (McGill)
+* JB Poline (McGill)
+* Sebastian Urchs (McGill)
+* Victor Rochelau (McGill)
+* Justin Richardsson (OICR)
+* Yann Joly (McGill)
+
 
