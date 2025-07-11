@@ -17,7 +17,7 @@ links:
 
 #### Workshop Summary
 
-![ELIXIR logo](/img/mcgill-university-logo.png){ style="width: 200px; float: right; margin: -20px 0px 10px 20px;" }
+![McGill logo](/img/mcgill-university-logo.png){ style="width: 200px; float: right; margin: -20px 0px 10px 20px;" }
 
 This workshop explores genomic resources from the Canadian context and how current and
 future versions of the Beacon  standard can be utilized for data discovery and exchange.
