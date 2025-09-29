@@ -11,7 +11,7 @@ links:
   - '[GA4GH plenary website](https://broadinstitute.swoogo.com/ga4gh13plenary)'
 ---
 
-![CBB logo bar](/img/CBB-logo-bar.png){ style="width: 210px; float: right; margin: -20px 0px 10px 10px;" }
+![GA4GH Circle Logo](/img/ga4gh_circle_420x420.png){ style="width: 210px; float: right; margin: -20px 0px 10px 10px;" }
 
 **Abstract** Besides the discovery of genomic and pheno-clinic data in different access settings, the GA4GH Beacon protocol also enables the retrieval of matched records through a variety of open or protected mechanisms, depending on the resources’ data structure as well as data protection and regulatory requirements. While data discovery scenarios with limited and/or aggregated responses will constitute a large fraction of Beacon and Beacon Network scenarios, the protocol also empowers the sharing of data e.g. in open research data settings.
 
