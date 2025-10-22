@@ -98,6 +98,8 @@ extra:
     dir: publications
   contacts:
     dir: group
+  recipes:
+    dir: recipes
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/baudisgroup

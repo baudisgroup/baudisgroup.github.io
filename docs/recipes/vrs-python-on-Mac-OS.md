@@ -1,3 +1,7 @@
+---
+title: Installing `vrs-python` on Mac OS (non-containerized)
+---
+
 This is a simplified (e.g. no UTA/transcript support), non-containerized
 installation procedure for [vrs-python](https://github.com/ga4gh/vrs-python) on Mac OS. It is based on the 
 [documentation](https://github.com/ga4gh/vrs-python/blob/main/README.md) there as well as on some testing when extending [`bycon`](https://bycon.progenetix.org)
@@ -13,7 +17,22 @@ which rsync
 ```
 
 ... should give you /opt/homebrew/bin/rsync but if not you can force it anyway…
+<!--more-->
 
+??? note "pysam Error"
+
+    Some versions of `pysam` (_i.e._ 0.23.0) have a `Cython` based problem. This
+    was fixed in pysam >-0.23.1; at the time pip wasn't updated yet one could
+    download from source & install, e.g.:
+
+    <https://github.com/pysam-developers/pysam/releases/tag/v0.23.3>
+
+    
+    ```
+    cd ~/Downloads/pysam-0.23.3 &&
+    python3 -m build --no-isolation --sdist . &&
+    pip3 install ./dist/*tar.gz --no-index --no-build-isolation --break-system-packages  
+    ```
 
 ```
 seqrepo --rsync-exe /opt/homebrew/bin/rsync list-remote-instances
