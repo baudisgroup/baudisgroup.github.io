@@ -16,6 +16,6 @@ links:
 
 ![Logo Seniorenforum Werdenberg](/img/Logo-Seniorenforum-600.png){ style="float: right; margin: 0px 0px 10px 20px; width: 200" }
 
-Die Analyse des menschlichen Erbguts (Genoms) wird zunehmend in medizinischen Diagnosen eingesetzt und ist wesentlicher Bestandteil der “Präzisionsmedizin”. Während sich Erbgutanalysen  ausserhalb medizinischer Anwendungen schon länger in der Strafverfolgung etabliert haben hat sich in den letzten Jahren zusätzlich der Bereich der “Lifestyle-Genomik”, das heisst der Analyse des Erbgutes zur Einschätzung individueller Fähigkeiten und Risiken oder zur Feststellung von Verwandtschaftsbeziehungen.
+Die Analyse des menschlichen Erbguts (Genoms) wird zunehmend in medizinischen Diagnosen eingesetzt und ist wesentlicher Bestandteil der “Präzisionsmedizin”. Während sich Erbgutanalysen  ausserhalb medizinischer Anwendungen schon länger in der Strafverfolgung etabliert haben hat sich in den letzten Jahren zusätzlich der Bereich der “Lifestyle-Genomik”, das heisst der Analyse des Erbgutes zur Einschätzung individueller Fähigkeiten und Risiken oder zur Feststellung von Verwandtschaftsbeziehungen.<!--more-->
 
 In dem Vortrag wird Prof. Baudis auf die Geschichte und Technologien der Genomanalysen eingehen, erläutern, wieso für erfolgreiche Anwendungen grosse Datensammlungen notwendig sind, und einige damit verbundenen Risiken und Chancen beschreiben.
