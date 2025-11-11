@@ -1,6 +1,6 @@
 ---
 title: 'Genomdaten - Chancen und Risiken für Medizin und Gesellschaft'
-description: 'Vortrag an der Senior:innen-Universität Zürich UZH3'
+description: 'Vortrag am Seniorenforum Werdenberg in Buchs (SG)'
 template: post.html 
 authors:
   - '@mbaudis'
@@ -9,12 +9,12 @@ pdf_file_name:
 links:
   - '[Folien](/pdf/2025-11-11___Michael-Baudis__Genomdaten-–-Chancen-und-Risiken-für-Medizin-und-Gesellschaft__Seniorenforum-Buchs.pdf)'
   - '[GA4GH "Anna" Video](https://www.youtube.com/watch?v=9rgCqNbgA4Q)'
-  - '[Senior:innen-Universität Zürich UZH3 ](https://www.seniorenuni.uzh.ch/de.html)'
+  - '[Seniorenforum Werdenberg](https://seniorenforum-werdenberg.ch/veranstaltungen/vortraege/)'
   - "[Theoretische Onkogenomik Gruppe @ UZH](https://baudisgroup.org)"  
   - "[Progenetix cancer genomics resource](https://progenetix.org)"
 ---
 
-<!-- ![UZH logo](/img/UZH_logo_180.png){ style="float: right; margin: 0px 0px 10px 20px; width: 180" } -->
+![Logo Seniorenforum Werdenberg](/img/Logo-Seniorenforum-600.png){ style="float: right; margin: 0px 0px 10px 20px; width: 200" }
 
 Die Analyse des menschlichen Erbguts (Genoms) wird zunehmend in medizinischen Diagnosen eingesetzt und ist wesentlicher Bestandteil der “Präzisionsmedizin”. Während sich Erbgutanalysen  ausserhalb medizinischer Anwendungen schon länger in der Strafverfolgung etabliert haben hat sich in den letzten Jahren zusätzlich der Bereich der “Lifestyle-Genomik”, das heisst der Analyse des Erbgutes zur Einschätzung individueller Fähigkeiten und Risiken oder zur Feststellung von Verwandtschaftsbeziehungen.
 
