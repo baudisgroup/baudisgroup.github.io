@@ -7,7 +7,7 @@ authors:
 date: 2025-11-11
 pdf_file_name:
 links:
-  - '[Folien](/pdf/2025-11-11___Michael-Baudis__Genomdaten-–-Chancen-und-Risiken-für-Medizin-und-Gesellschaft__Seniorenforum-Buchs.pdf)'
+  - '[Folien](/pdf/2025-11-11___Michael-Baudis__Genomdaten__Seniorenforum-Buchs.pdf)'
   - '[GA4GH "Anna" Video](https://www.youtube.com/watch?v=9rgCqNbgA4Q)'
   - '[Seniorenforum Werdenberg](https://seniorenforum-werdenberg.ch/veranstaltungen/vortraege/)'
   - "[Theoretische Onkogenomik Gruppe @ UZH](https://baudisgroup.org)"  
