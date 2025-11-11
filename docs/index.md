@@ -2,7 +2,7 @@
 template: news_list.html
 ---
 
-# [Welcome to the _baudisgroup_ Pages](http://info.baudisgroup.org)
+# [Welcome to the _baudisgroup_ Pages](http://baudisgroup.org)
 
 The _baudisgroup_ website represents projects and information by the __Computational Oncogenomics Group__ of the [University of Zurich (UZH)](https://www.mls.uzh.ch/en/research/baudis/) and the [Swiss Institute of Bioinformatics (SIB)](https://www.sib.swiss/baudis-michael/). For visitors more interested in Particle Astrophysics, we strongly recommend the website of another, although related, [Professor Baudis](https://www.physik.uzh.ch/en/groups/baudis.html).
 

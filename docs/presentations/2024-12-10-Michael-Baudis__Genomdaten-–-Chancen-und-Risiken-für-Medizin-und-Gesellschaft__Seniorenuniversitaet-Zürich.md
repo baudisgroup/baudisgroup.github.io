@@ -10,7 +10,7 @@ links:
   - '[Folien](/pdf/2024-12-10___Michael-Baudis__Genomdaten-–-Chancen-und-Risiken-für-Medizin-und-Gesellschaft__Seniorenuniversität-Zürich.pdf)'
   - '[GA4GH "Anna" Video](https://www.youtube.com/watch?v=9rgCqNbgA4Q)'
   - '[Senior:innen-Universität Zürich UZH3 ](https://www.seniorenuni.uzh.ch/de.html)'
-  - "[Theoretische Onkogenomik Gruppe @ UZH](https://info.baudisgroup.org)"  
+  - "[Theoretische Onkogenomik Gruppe @ UZH](https://baudisgroup.org)"  
   - "[Progenetix cancer genomics resource](https://progenetix.org)"
 ---
 

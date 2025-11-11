@@ -14,7 +14,7 @@ to (human) genome data sharing.
 
 ##### Links
 
-* [Presentation slides](http://info.baudisgroup.org/pdf/2020-02-06___Michael-Baudis__Beacon-Networks__ELIXIR-Day-2020.pdf)
+* [Presentation slides](http://baudisgroup.org/pdf/2020-02-06___Michael-Baudis__Beacon-Networks__ELIXIR-Day-2020.pdf)
 * [ELIXIR Beacon Project](http://beacon-project.io)
 * [Beacon+](http://beacon.progenetix.org)
 * [schemablocks](http://schemablocks.org)

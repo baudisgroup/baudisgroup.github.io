@@ -7,7 +7,7 @@ authors:
 template: post.html
 ---
 
-Fore some months [our group](http://info.baudisgroup.org) has worked with members
+Fore some months [our group](http://baudisgroup.org) has worked with members
 of [Kurt Stockinger's team](https://www.zhaw.ch/en/about-us/person/stog/) from
 the ZHAW on a cancer cell lines use case for the 
 [INODE](https://www.inode-project.eu/inode) project. In the last 2 days we had a

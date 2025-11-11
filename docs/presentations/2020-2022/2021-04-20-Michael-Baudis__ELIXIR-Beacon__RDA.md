@@ -6,7 +6,7 @@ date: 2021-04-20
 authors:
   - '@mbaudis'
 links:
-  - '<a href="http://info.baudisgroup.org/pdf/2021-04-20___Michael-Baudis__ELIXIR-Beacon__RDA.pdf">[Presentation slides]</a>'
+  - '<a href="http://baudisgroup.org/pdf/2021-04-20___Michael-Baudis__ELIXIR-Beacon__RDA.pdf">[Presentation slides]</a>'
   - '<a href="http://beacon-project.io">[Beacon Website]</a>'
   - '<a href="https://github.com/ga4gh-beacon">[Beacon Development at Github]</a>'
   - '<a href="https://progenetix.org/beaconplus-instances/beaconplus/">[Beacon+ in Progenetix]</a>'

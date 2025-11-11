@@ -1,1 +1,1 @@
-# [Baudisgroup Website](http://info.baudisgroup.org)
+# [Baudisgroup Website](http://baudisgroup.org)

@@ -14,5 +14,5 @@ origins, features and directions.
 
 #### Links
 
-* [Presentation slides](http://info.baudisgroup.org/pdf/2020-06-10___Michael-Baudis__Beacon-evolution__ELIXIR-All-Hands-slides.pdf)
+* [Presentation slides](http://baudisgroup.org/pdf/2020-06-10___Michael-Baudis__Beacon-evolution__ELIXIR-All-Hands-slides.pdf)
 * [Beacon Website](http://beacon-project.io)

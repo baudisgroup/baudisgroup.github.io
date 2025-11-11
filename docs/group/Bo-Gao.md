@@ -14,7 +14,7 @@ is_gone: true
 | ORCID | []() |
 | email | [bo.gao@imls.uzh.ch](mailto:bo.gao@imls.uzh.ch) :: [bo@progenetix.org](mailto:bo@progenetix.org) |
 | github | [@KyleGao](http://github.com/KyleGao/) |
-| web | [Bo @ baudisgroup](https://info.baudisgroup.org/group/Bo_Gao/) |
+| web | [Bo @ baudisgroup](https://baudisgroup.org/group/Bo_Gao/) |
 | __Personal__ |     |
 | Nationality | P.R. China |
 | __Education__ |     |
