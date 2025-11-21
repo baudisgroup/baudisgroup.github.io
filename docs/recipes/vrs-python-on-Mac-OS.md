@@ -5,7 +5,7 @@ title: Installing `vrs-python` on Mac OS (non-containerized)
 This is a simplified (e.g. no UTA/transcript support), non-containerized
 installation procedure for [vrs-python](https://github.com/ga4gh/vrs-python) on Mac OS. It is based on the 
 [documentation](https://github.com/ga4gh/vrs-python/blob/main/README.md) there as well as on some testing when extending [`bycon`](https://bycon.progenetix.org)
-for VRSification (e.g. by using & extending the `translator.py` module).
+for VRSification (e.g. by using & extending the `translator.py` module).<!--more-->
 
 ```
 brew install libpq postgresql@14
