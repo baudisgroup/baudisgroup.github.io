@@ -4,7 +4,7 @@ description: 'Colloquium at Berlin Institute of Health Sciences BiH'
 template: post.html 
 authors:
   - '@mbaudis'
-date: 2025-09-19
+date: 2025-11-20
 pdf_file_name:
 links:
   - '[Seminar slides](/pdf/2025-11-20___Michael-Baudis__Beacon,-Progenetix,-Federation__Charité-BiH-colloquium.pdf)'
