@@ -16,7 +16,7 @@ links:
 ![Logo MERH](/img/logo-MERH.png){ style="float: right; margin: 0px 0px 10px 20px; width: 200px" }
 
 Im Rahmen der Vortragsreihe des Kompetenzzentrums Medizin - Ethik - Recht Helvetiae (MERH)
-findet am 15. Dezember 2025 um 18:00 Uhr im Hörsaal KOL-G-204 der
+findet am 15. Dezember 2025 um 12:15 Uhr im Hörsaal KOL-G-204 der
 Universität Zürich ein Vortrag von Prof. Michael Baudis zum Thema
 
 **Genomische Daten in Biomedizinischer Forschung – Chancen oder Risiken?**
