@@ -13,7 +13,7 @@ links:
   - "[Progenetix cancer genomics resource](https://progenetix.org)"
 ---
 
-![Logo MERH](/img/logo-MERH.png){ style="float: right; margin: 0px 0px 10px 20px; width: 200px" }
+![Logo MERH](/img/logo-MERH.png){ style="float: right; margin: 10px 0px 10px 30px; width: 200px" }
 
 Im Rahmen der Vortragsreihe des Kompetenzzentrums Medizin - Ethik - Recht Helvetiae (MERH)
 findet am 15. Dezember 2025 um 12:15 Uhr im Hörsaal KOL-G-204 der
