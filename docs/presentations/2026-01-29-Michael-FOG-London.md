@@ -8,7 +8,7 @@ date: 2026-01-29
 pdf_file_name:
 links:
   # - '[Seminar slides](/pdf/....pdf)'
-  - '[Michael BAudis @ Festival of Genomics](https://festivalofgenomics.com/london/speakers/michael-baudis)'
+  - '[Michael Baudis @ Festival of Genomics](https://festivalofgenomics.com/london/speakers/michael-baudis)'
 ---
 
 ![FOG Logo](/img/logo-Festival_of_Genomics.png){ style="width: 210px; float: left; margin: 0px 10px 10px 0px;" }
