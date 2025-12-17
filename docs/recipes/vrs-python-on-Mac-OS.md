@@ -46,7 +46,7 @@ seqrepo --rsync-exe /opt/homebrew/bin/rsync list-remote-instances
 2024-12-20
 ```
 
-… from which we take the last:
+… from which we take the last, e.g.:
 
 ```
 export SEQREPO_VERSION=2024-12-20
@@ -68,6 +68,17 @@ du -hs $SEQREPO_ROOT_DIR
 ```
 
 ... so you know when the ~13.7GB will be done.
+
+!!! info "Alternative source"
+
+    A slim version of an GRCh38 Seqrepo instance is also available through 
+
+    * <https://pub-a70997b5b39342fe887c521b504d73de.r2.dev/seqrepo/seqrepo-2025-08-27-GRCh38.tar.gz>
+
+    Download & extract it into your `$SEQREPO_ROOT_DIR` instead of the rsync, 
+    rename and set the `export SEQREPO_VERSION=2025-08-27` etc.
+
+    Source: Kyle Ferriter in this [Gitub discussion](https://github.com/ga4gh/gks-portal/issues/25#issuecomment-3250222053) 
 
 ## Python use
 
