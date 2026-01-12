@@ -16,7 +16,6 @@
 
   {% for page in news_posts %}
 
-<h3 class="title_news">{{ page.title }}</h3>
     {% if page.meta.description is defined %}
 <h5 class="title_news">{{ page.meta.description }}</h5>
     {% endif %}

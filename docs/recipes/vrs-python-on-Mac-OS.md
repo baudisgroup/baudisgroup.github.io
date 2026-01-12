@@ -1,6 +1,4 @@
----
-title: Installing `vrs-python` on Mac OS (non-containerized)
----
+# Installing `vrs-python` on Mac OS (non-containerized)
 
 This is a simplified (e.g. no UTA/transcript support), non-containerized
 installation procedure for [vrs-python](https://github.com/ga4gh/vrs-python) on Mac OS. It is based on the 
