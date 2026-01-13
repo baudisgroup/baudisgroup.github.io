@@ -8,7 +8,42 @@
 
 <!--more-->
 
-## Exo by Exolabs
+## LLM Environments
+
+### LM Studio
+
+LM Studio seems like a polished choice for a combined chat & local server environment.
+
+* [LM Studio](https://lmstudio.ai/)
+
+A tested setup is to download LM Studio and then some model, e.g. `devstral-small-2-2512`
+for coding support or an `Apertus` flavour for translations etc.
+
+LM Studio installs a menu bar widget to start/stop a local server for the currently
+selected model.
+
+#### Auto-completion for SublimeText
+
+A main reason for getting the local LLM code support was the auto-completion function
+known from SublimeText + LSP-Copilot + Copilot account. Here a simple solution is
+provided through [llm-completion](https://github.com/pickledish/llm-completion/).
+
+First test of sublime package settings, using LM Studio as described above:
+
+```
+{
+    "inline_completion_enabled": true,
+    "llm_settings": {
+        "model": "devstral-small-2-2512",
+        "url": "http://localhost:1234/v1/chat/completions",
+        "temperature": 0.2
+    }
+}
+```
+... and we'll see from here.
+
+
+### Exo by Exolabs
 
 This seems interesting for clusters of Macs to run large models. Not tried
 yet since the first use case is basic LLM coding support on the local machines but
@@ -16,7 +51,7 @@ kept in mind for the next batch of M5 Macs...
 
 * <https://exolabs.net/>
 
-## Ollama
+### Ollama
 
 * [Download](https://ollama.com/download) or
 * `brew install ollama && `brew services start ollama`
