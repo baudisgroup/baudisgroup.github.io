@@ -4,6 +4,7 @@
 
     * [Running DeepSeek Locally on Mac](https://thesweetbits.com/running-deepseek-locally-on-mac-system-requirements-setup-guide/)
     * Integrating Ollama with the `Sublime Text` editor: [OllamaSublime](https://github.com/dapepe/OllamaSublime)
+    * [llm-completion](https://github.com/pickledish/llm-completion/) for SublimeText
 
 
 <!--more-->
