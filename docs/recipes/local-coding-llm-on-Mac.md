@@ -27,7 +27,12 @@ selected model.
 
 A main reason for getting the local LLM code support was the auto-completion function
 known from SublimeText + LSP-Copilot + Copilot account. Here a simple solution is
-provided through [llm-completion](https://github.com/pickledish/llm-completion/).
+provided through [llm-completion](https://github.com/pickledish/llm-completion/):
+
+```
+cd Library/Application\ Support/Sublime\ Text/Packages
+git clone https://github.com/pickledish/llm-completion.git "LLM Completion"
+```
 
 First test of sublime package settings, using LM Studio as described above:
 
