@@ -46,7 +46,7 @@ First test of sublime package settings, using LM Studio as described above:
     }
 }
 ```
-... and we'll see from here.
+... and we'll see from here - to be continued.
 
 
 ### Exo by Exolabs
@@ -78,4 +78,18 @@ cd /Users/$User/Library/Application\ Support/Sublime\ Text/Packages
 git clone https://github.com/dapepe/OllamaSublime.git Ollama
 ```
 
+## Mac Things
+
+New Macs (M4 and beyond) with Thunderbolt 5 now support memeory sharing (RDMA)
+over Thunderbolt which then can be used for low latency communication and distributed
+zero-configuration memory sharig - ideal to enable larger language models. This
+requires at least Mac OS 26.2 and a Thunderbolt 5 connection and has to be activated
+by rebooting in recovery mode, opening the terminal and
+
+```
+rdma_ctl enable
+shutdown -r now
+```
+
+The distributed memory can be utilized e.g. through [exo](https://github.com/exo-explore/exo).
 
