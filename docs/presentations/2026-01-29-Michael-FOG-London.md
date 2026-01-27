@@ -7,7 +7,7 @@ authors:
 date: 2026-01-29
 pdf_file_name:
 links:
-  - '[presentation slides](https://drive.switch.ch/index.php/s/v4Go8glYOOM86J8f)'
+  - '[presentation slides](https://drive.switch.ch/index.php/s/v4Go8glYOOM86J8)'
   - '[Michael Baudis @ Festival of Genomics](https://festivalofgenomics.com/london/speakers/michael-baudis)'
 ---
 
