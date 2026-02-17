@@ -15,4 +15,5 @@ We are in the process of migrating the site from Github pages to self hosting (o
 Progenetix server instances). At the moment the site's source is still hosted at
 Github but the build process & hosting are already running on our own infrastructure.
 
-There might be some slight IP hiccups but should resolve themselves soonish.
+~~There might be some slight IP hiccups but should resolve themselves soonish.~~
+
