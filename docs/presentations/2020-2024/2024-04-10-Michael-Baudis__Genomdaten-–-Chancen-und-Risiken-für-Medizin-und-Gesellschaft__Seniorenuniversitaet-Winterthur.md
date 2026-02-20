@@ -7,7 +7,7 @@ authors:
 date: 2024-04-10
 pdf_file_name:
 links:
-  - '[Folien](/pdf/2024-04-10___Michael-Baudis__Genomdaten__Winterthur.pdf)'
+  - '[Folien](https://docs.baudisgroup.org/pdf/2024-04-10___Michael-Baudis__Genomdaten__Winterthur.pdf)'
   - '[GA4GH "Anna" Video](https://www.youtube.com/watch?v=9rgCqNbgA4Q)'
   - '[Seniorenuniversität Winterthur](https://www.biaw.ch/Veranstaltung/genomdaten-chancen-und-risiken-fuer-medizin-und-gesellschaft/?instance_id=541)'
   - "[Progenetix cancer genomics resource](https://progenetix.org)"

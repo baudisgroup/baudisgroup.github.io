@@ -7,7 +7,7 @@ authors:
 date: 2024-10-16
 pdf_file_name:
 links:
-  - '[slides](/pdf/2024-10-16___Michael-Baudis__GA4GH-promotes-a-New-Paradigm-in-Biomedical_Genomics__TOHOKU-University-Sendai.pdf)'
+  - '[slides](https://docs.baudisgroup.org/pdf/2024-10-16___Michael-Baudis__GA4GH-promotes-a-New-Paradigm-in-Biomedical_Genomics__TOHOKU-University-Sendai.pdf)'
   - '[Global Alliance for Genomics and Health - GA4GH](https://ga4gh.org)'
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
   - "[Beacon documentation](http://docs.genomebeacons.org)"

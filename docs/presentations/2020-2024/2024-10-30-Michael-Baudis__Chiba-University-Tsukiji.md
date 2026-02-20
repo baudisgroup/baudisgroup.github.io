@@ -7,7 +7,7 @@ authors:
 date: 2024-10-30
 pdf_file_name:
 links:
-  - '[slides](/pdf/2024-10-30___Michael-Baudis__Data-Resources,-Sharing,-Discovery-in-Biomedical-Genetics-and-Cancer-Genomics__NCC-Chiba-Tsukiji.pdf)'
+  - '[slides](https://docs.baudisgroup.org/pdf/2024-10-30___Michael-Baudis__Data-Resources,-Sharing,-Discovery-in-Biomedical-Genetics-and-Cancer-Genomics__NCC-Chiba-Tsukiji.pdf)'
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
   - "[cancercelllines.org resource](http://cancercelllines.org)"
   - '[Global Alliance for Genomics and Health - GA4GH](https://ga4gh.org)'

@@ -20,7 +20,7 @@ With the Progenetix and arrayMap repositories our group provides 2 of the larges
 
 The presentation will focus on our work for sCNV resources and tools, and also provide some introduction into GA4GH and ELIXIR, with focus of our specific areas of interest. 
 
-* [[slides]](/pdf/2019-09-03___Michael-Baudis__Structural-Genome-Variants-in-Cancer__Seminar-UniFirenze.pdf)
+* [[slides]](https://docs.baudisgroup.org/pdf/2019-09-03___Michael-Baudis__Structural-Genome-Variants-in-Cancer__Seminar-UniFirenze.pdf)
 
 ##### Links
 

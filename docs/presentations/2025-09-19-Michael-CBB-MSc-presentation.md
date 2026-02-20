@@ -7,7 +7,7 @@ authors:
 date: 2025-09-19
 pdf_file_name:
 links:
-  - '[Seminar slides](/pdf/2025-09-19___Michael-Baudis___baudisgroup-for-CBB__slides.pdf)'
+  - '[Seminar slides](https://docs.baudisgroup.org/pdf/2025-09-19___Michael-Baudis___baudisgroup-for-CBB__slides.pdf)'
   - '[CBB Website](https://cbb.ethz.ch)'
 ---
 

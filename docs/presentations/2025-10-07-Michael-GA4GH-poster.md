@@ -7,7 +7,7 @@ authors:
 date: 2025-10-07
 pdf_file_name:
 links:
-  - '[poster PDF](/pdf/2025-10-07___Michael-Baudis-Beacon-Progenetix__GA4GH-poster.pdf)'
+  - '[poster PDF](https://docs.baudisgroup.org/pdf/2025-10-07___Michael-Baudis-Beacon-Progenetix__GA4GH-poster.pdf)'
   - '[GA4GH plenary website](https://broadinstitute.swoogo.com/ga4gh13plenary)'
 ---
 

@@ -8,7 +8,7 @@ date: 2023-05-17
 pdf_file_name:
 links:
   - '[article at PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285433)'
-  - '[Article PDF](/pdf/2023-05-17___Davis-et-al.__Phenopacket-tools--Building-and-validating-GA4GH-Phenopackets__PLoS-ONE.pdf)'
+  - '[Article PDF](https://docs.baudisgroup.org/pdf/2023-05-17___Davis-et-al.__Phenopacket-tools--Building-and-validating-GA4GH-Phenopackets__PLoS-ONE.pdf)'
 ---
 
 ##### Danis D, Jacobsen JOB, Wagner AH, Groza T, Beckwith MA, Rekerle L, Carmody LC, Reese J, Hegde H, Ladewig MS, Seitz B, Munoz-Torres M, Harris NL, Rambla J, Baudis M, Mungall CJ, Haendel MA, Robinson PN. (2023) **Phenopacket-tools: Building and validating GA4GH Phenopackets.** _PLoS One._ 18:e0285433.

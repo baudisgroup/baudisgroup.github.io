@@ -15,4 +15,4 @@ authors:
 #### Additional Links
 
 * [Video Recording of Presentation](https://progenetix.org/storage-ext/recordings/2021-08-03___Qingyao__CGC_recording.mp4)
-* [Slides PDF](/pdf/2021-08-03___Qingyao-Huang__CGC-progenetix-presentation__slides.pdf)
+* [Slides PDF](https://docs.baudisgroup.org/pdf/2021-08-03___Qingyao-Huang__CGC-progenetix-presentation__slides.pdf)

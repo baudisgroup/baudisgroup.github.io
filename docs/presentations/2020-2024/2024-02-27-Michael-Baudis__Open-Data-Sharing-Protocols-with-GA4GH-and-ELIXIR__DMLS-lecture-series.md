@@ -7,7 +7,7 @@ authors:
 date: 2024-02-27
 pdf_file_name:
 links:
-  - '[Seminar slides](/pdf/2024-02-27___Michael-Baudis__Open-Data-Sharing-Protocols-with-GA4GH-and-ELIXIR__DMLS-lecture-series.pdf)'
+  - '[Seminar slides](https://docs.baudisgroup.org/pdf/2024-02-27___Michael-Baudis__Open-Data-Sharing-Protocols-with-GA4GH-and-ELIXIR__DMLS-lecture-series.pdf)'
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
   - "[Beacon documentation](http://docs.genomebeacons.org)"

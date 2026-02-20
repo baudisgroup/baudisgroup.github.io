@@ -7,7 +7,7 @@ authors:
 date: 2024-02-08
 pdf_file_name:
 links:
-  - '[Seminar slides](/pdf/2024-02-08___Michael-Baudis__Structural-Genome-Variations-and-Open-Data-Sharing-Protocols__Utrecht.pdf)'
+  - '[Seminar slides](https://docs.baudisgroup.org/pdf/2024-02-08___Michael-Baudis__Structural-Genome-Variations-and-Open-Data-Sharing-Protocols__Utrecht.pdf)'
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
   - "[Beacon documentation](http://docs.genomebeacons.org)"

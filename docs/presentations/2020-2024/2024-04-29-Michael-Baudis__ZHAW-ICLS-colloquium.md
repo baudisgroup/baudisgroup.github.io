@@ -7,7 +7,7 @@ authors:
 date: 2024-04-29
 pdf_file_name:
 links:
-  - '[slides](/pdf/2024-04-29___Michael-Baudis__Genomic-Data-Mining__ZHAW-ICLS-colloquium.pdf)'
+  - '[slides](https://docs.baudisgroup.org/pdf/2024-04-29___Michael-Baudis__Genomic-Data-Mining__ZHAW-ICLS-colloquium.pdf)'
   - "[Progenetix cancer genomics resource](https://progenetix.org)"
 ---
 

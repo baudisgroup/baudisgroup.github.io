@@ -7,7 +7,7 @@ authors:
 date: 2022-11-16
 pdf_file_name:
 links:
-  - "[Presentation Slides](/pdf/2022-11-16___Michael-Baudis__Beacon-conversion-and-features__GA4GH-Connect.pdf)"
+  - "[Presentation Slides](https://docs.baudisgroup.org/pdf/2022-11-16___Michael-Baudis__Beacon-conversion-and-features__GA4GH-Connect.pdf)"
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
 ---
 

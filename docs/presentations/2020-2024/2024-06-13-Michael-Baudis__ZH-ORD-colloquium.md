@@ -7,7 +7,7 @@ authors:
 date: 2024-06-13
 pdf_file_name:
 links:
-  - '[slides](/pdf/2024-06-13___Michael-Baudis__ORD-with-GA4GH-Beacon__ORD-project-workshop.pdf)'
+  - '[slides](https://docs.baudisgroup.org/pdf/2024-06-13___Michael-Baudis__ORD-with-GA4GH-Beacon__ORD-project-workshop.pdf)'
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
   - "[Beacon documentation](http://docs.genomebeacons.org)"

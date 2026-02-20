@@ -7,7 +7,7 @@ authors:
 date: 2025-11-20
 pdf_file_name:
 links:
-  - '[Seminar slides](/pdf/2025-11-20___Michael-Baudis__Beacon,-Progenetix,-Federation__Charité-BiH-colloquium.pdf)'
+  - '[Seminar slides](https://docs.baudisgroup.org/pdf/2025-11-20___Michael-Baudis__Beacon,-Progenetix,-Federation__Charité-BiH-colloquium.pdf)'
 ---
 
 ![BiH logo](/img/bih-logo.svg){ style="width: 100%; float: left; margin: 0px 10px 10px 0px;" }

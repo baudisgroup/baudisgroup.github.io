@@ -7,8 +7,8 @@ authors:
 date: 2025-05-15
 pdf_file_name:
 links:
-  - "[Community presentation slides](https://baudisgroup.org/pdf/2025-05-15___Baudis,-Stubbs-et-al.__hCNV-Community__ELIXIR-Rare-Diseases.pdf)"
-  - "[Beacon based CNV resources slides](https://baudisgroup.org/pdf/2025-05-15___Michael-Baudis__Genomic-Copy-Number-Variation-Resources-Powered-by-the-Genomic-Beacons__ELIXIR-Rare-Diseases.pdf)"
+  - "[Community presentation slides](https://docs.baudisgroup.org/pdf/2025-05-15___Baudis,-Stubbs-et-al.__hCNV-Community__ELIXIR-Rare-Diseases.pdf)"
+  - "[Beacon based CNV resources slides](https://docs.baudisgroup.org/pdf/2025-05-15___Michael-Baudis__Genomic-Copy-Number-Variation-Resources-Powered-by-the-Genomic-Beacons__ELIXIR-Rare-Diseases.pdf)"
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
 ---

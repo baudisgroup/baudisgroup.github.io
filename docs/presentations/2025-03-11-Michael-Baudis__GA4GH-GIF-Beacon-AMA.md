@@ -7,7 +7,7 @@ authors:
 date: 2025-03-11
 pdf_file_name:
 links:
-  - "[presentation slides](/pdf/2025-03-11___Michael-Baudis__Beacon-v2-and-Beyond__GAGH-GIF-AMA.pdf)"
+  - "[presentation slides](https://docs.baudisgroup.org/pdf/2025-03-11___Michael-Baudis__Beacon-v2-and-Beyond__GAGH-GIF-AMA.pdf)"
   - "[Beacon documentation](http://docs.genomebeacons.org)"
   - "[Progenetix cancer genomics resource](http://progenetix.org)"
   - "[OpenAPI test hosted at Progenetix](https://staging.progenetix.org/OpenAPI/?)"

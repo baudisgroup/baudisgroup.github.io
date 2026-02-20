@@ -7,7 +7,7 @@ authors:
 date: 2025-12-04
 pdf_file_name:
 links:
-  - '[Slide PDF](/pdf/2025-12-04___Worawich__Genomics-Thailand.pdf)'
+  - '[Slide PDF](https://docs.baudisgroup.org/pdf/2025-12-04___Worawich__Genomics-Thailand.pdf)'
   - '[Thai Genomic Reference Database](https://thaiger.genomicsthailand.com/)'
 ---
 
