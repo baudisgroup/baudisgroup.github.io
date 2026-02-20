@@ -15,5 +15,6 @@ We are in the process of migrating the site from Github pages to self hosting (o
 Progenetix server instances). At the moment the site's source is still hosted at
 Github but the build process & hosting are already running on our own infrastructure.
 
-~~There might be some slight IP hiccups but should resolve themselves soonish.~~
-
+Particularly, all article & presentation PDF files are now accessed through the
+`docs.baudisgroup.org` subdomain which is hosted on our own server; please adjust old
+URLs accordingly (_i.e._ change `https://baudisgroup.org/pdf/...` to `https://docs.baudisgroup.org/pdf/...`).
